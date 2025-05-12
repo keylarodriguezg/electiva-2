@@ -1,0 +1,2837 @@
+﻿ID Usuario;Nombres;Apellidos;Curso;Docente;Indicente;Tipo de falta;Estado
+001;JHON ;SANTAMARIA;9°;Elmer;Ausencias injustificadas;Leve;Resuelto
+002;HUMBERTO;QUINTERO;9°;Juan Hernando;Ausencias injustificadas;Leve;Resuelto
+003;DANIEL;BERNAL;9°;Jose Delfin;Ausencias injustificadas;Leve;Resuelto
+004;JORGE;PÉREZ;9°;Herney;Ausencias injustificadas;Leve;Resuelto
+005;ADRIANA;HERNANDEZ;9°;Domingo;Ausencias injustificadas;Leve;Resuelto
+006;ANA;PINEDA;9°;Camilo Arturo;Ausencias injustificadas;Leve;Resuelto
+007;LUIS;ROA;9°;Mario German;Violencia física ;Muy Grave;Resuelto
+008;WILLIAM;ROBLES;9°;Ferney;Violencia física ;Muy Grave;Resuelto
+009;JORGE;CHAVES;9°;Arturo;Violencia física ;Muy Grave;Resuelto
+010;LUIS;OVALLE;9°;Jorge Eliecer;Violencia física ;Muy Grave;Resuelto
+011;LUZ;CASTRO;9°;Oscar Alfonso;Violencia física ;Muy Grave;Resuelto
+012;HERMES;RODRIGUEZ;9°;Francisco Antonio;Violencia física ;Muy Grave;Resuelto
+013;ANIBAL;ADOLFO;9°;Edgar Reinerio;Acoso escolar;Grave;Resuelto
+014;ALMA;ERAZO;9°;Oscar Leonardo;Acoso escolar;Grave;Resuelto
+015;PAOLA;DELGADO;9°;Jose De jesus;Acoso escolar;Grave;Resuelto
+016;MARCO;GORDILLO;6°;Jairo Enrique;Acoso escolar;Grave;Resuelto
+017;NELCY;TRUJILLO;6°;Andres Eduardo;Acoso escolar;Grave;Resuelto
+018;DIEGO;SANCHEZ;6°;Carlos Mauricio;Acoso escolar;Grave;Resuelto
+019;LUIS;LOTA;6°;Carlos Humberto;Robo ;Muy Grave;Pentiente
+020;ALEJANDRA;MURILLO;6°;Rodolfo;Robo ;Muy Grave;Pentiente
+021;LUIS;ZEA;6°;William Fredy;Robo ;Muy Grave;Pentiente
+022;LINA;PINEDA;6°;John Harvey;Robo ;Muy Grave;Pentiente
+023;WILLIAM;LUNA;6°;William Andres;Robo ;Muy Grave;Pentiente
+024;JANETH;MORERA;6°;Jorge Eliecer;Robo ;Muy Grave;Pentiente
+025;ARGEMIRO;DIAZ;6°;Pedro Joaquin;Plagio o copia; Grave;Pentiente
+026;ANDREA;HURTADO;6°;Cipriano;Plagio o copia; Grave;Pentiente
+027;ALFREDO;PALENCIA;6°;Hernan Ramiro;Plagio o copia; Grave;Pentiente
+028;FREDY;BARRERA;6°;Udisberto;Plagio o copia; Grave;Pentiente
+029;SHEYLA;GONZALEZ;6°;Mauro De jesus;Plagio o copia; Grave;Pentiente
+030;IVHON;FLOREZ;6°;Jose Agustin;Plagio o copia; Grave;Pentiente
+031;JOSÉ;BONILLA;6°;Andres Armando;Ausencias injustificadas;Leve;Resuelto
+032;MARIA;LOS;6°;Dairon Alberto;Ausencias injustificadas;Leve;Resuelto
+033;BEATRIZ;CASTELLANOS;6°;Jaime Francisco;Ausencias injustificadas;Leve;Resuelto
+034;DIANA;NAVARRO;6°;Aduman Nicolas;Violencia física ;Muy Grave;Resuelto
+035;DIANA;RESTREPO;6°;Javier Alexander;Violencia física ;Muy Grave;Resuelto
+036;JAVIER;SANCHEZ;6°;Nayib Xavier;Violencia física ;Muy Grave;Resuelto
+037;ALEJANDRO;BERRIO;6°;Derlin Manuel;Acoso escolar;Grave;Resuelto
+038;OSWALDO;ARNEDO;6°;Ferid Nayid;Acoso escolar;Grave;Resuelto
+039;JAIRO;LÓPEZ;6°;Wilson;Acoso escolar;Grave;Resuelto
+040;ALBEIRO;MONTES;6°;Alirio De jesus;Robo ;Muy Grave;Pentiente
+041;CAMILO;RINCON;6°;Fabio Enrique;Robo ;Muy Grave;Pentiente
+042;LORENA;VELASCO;6°;John Edin;Robo ;Muy Grave;Pentiente
+043;CLEMENCIA;GUTIERREZ;6°;Miguel Angel;Plagio o copia; Grave;Pentiente
+044;WILSON;OREJUELA;6°;Helkin Alveiro;Plagio o copia; Grave;Pentiente
+045;ROSA;ESCOBAR;6°;Luis Eduardo;Plagio o copia; Grave;Pentiente
+046;ESTEFANIA;GUTIERREZ;6°;Jorge Alirio;Plagio o copia; Grave;Pentiente
+047;NESTOR;AREVALO;6°;Orlando Del carmen;Plagio o copia; Grave;Pentiente
+048;MELISA;VELASQUEZ;6°;Gabriel Rodolfo;Plagio o copia; Grave;Pentiente
+049;NATALIA;RODRIGUEZ;6°;Yebrail;Acoso escolar; Grave;Resuelto
+050;ANDRES;BARRETO;6°;Carlos Plutarco;Acoso escolar; Grave;Resuelto
+051;LUIS;AGUIAR;6°;Jose Isaias;Acoso escolar; Grave;Resuelto
+052;LUIS;DIMATE;6°;Hector Enrique;Acoso escolar; Grave;Resuelto
+053;JOSE;YOUNG;6°;Jose Alfonso;Acoso escolar; Grave;Resuelto
+054;SELMA;ROLDAN;6°;Ruben Dario;Acoso escolar; Grave;Resuelto
+055;ALVARO;RUEDA;6°;Walter Alejandro;Ausencias injustificadas;Leve;Resuelto
+056;CHARLES;ZUÑIGA;6°;Martin Emilio;Ausencias injustificadas;Leve;Resuelto
+057;GUSTAVO;OCHOA;6°;Juan Esteban;Ausencias injustificadas;Leve;Resuelto
+058;FREDDY;FORERO;6°;Hugo Alexander;Ausencias injustificadas;Leve;Resuelto
+059;MIGUEL;JURADO;6°;Jesus Eduardo;Robo ;Muy Grave;Pentiente
+060;JAVIER;ARROYAVE;6°;Solis Ovidio;Robo ;Muy Grave;Pentiente
+061;MARIA;BAYTER;6°;Silvio Elias;Robo ;Muy Grave;Pentiente
+062;JONATHAN;BERNAL;7°;Jaime Enrique;Acoso escolar;Grave;Resuelto
+063;KAREN;SUAREZ;7°;Edilberto;Acoso escolar;Grave;Resuelto
+064;ANTONIO;JESUS;7°;Jose Arcadio;Acoso escolar;Grave;Resuelto
+065;CARLOS;PERILLA;7°;Luis Edgar;Acoso escolar;Grave;Resuelto
+066;CAMPO;VEGA;7°;Roberto;Acoso escolar;Grave;Resuelto
+067;MATEO;MORALES;7°;Gabriel Rene;Acoso escolar;Grave;Resuelto
+068;WILLINTON;BARRANCO;7°;Welfran De jesus;Violencia física;Muy Grave;Resuelto
+069;LUIS;ALMEIDA;7°;Guillermo Antonio;Violencia física;Muy Grave;Resuelto
+070;JORGE;PORRAS;7°;Breitner Jesus;Violencia física;Muy Grave;Resuelto
+071;IVONE;CARMEN;7°;Cristian Antonio;Violencia física;Muy Grave;Resuelto
+072;FREDY;ANDRADE;7°;Javier Orlando;Violencia física;Muy Grave;Resuelto
+073;CECILIA;LOPEZ;7°;Edgar Eduardo;Violencia física;Muy Grave;Resuelto
+074;CATALINA;SAN;7°;Pio Felipe;Plagio o copia;Grave;Resuelto
+075;SANDRA;RIVEROS;7°;Manuel Antonio;Plagio o copia;Grave;Resuelto
+076;ENRIQUE;BORDA;7°;Gustavo;Plagio o copia;Grave;Resuelto
+077;MARIA;TENJO;7°;Yuber Epaminondas;Plagio o copia;Grave;Resuelto
+078;LUIS;AGUDELO;7°;Samuel Dario;Plagio o copia;Grave;Resuelto
+079;CARLOS;PENAGOS;7°;Jose Danilo;Plagio o copia;Grave;Resuelto
+080;EVERTO;PEREA;7°;Rafael;Robo;Muy Grave;Pentiente
+081;YANIRA;PAEZ;7°;Nelson Francisco;Robo;Muy Grave;Pentiente
+082;EDWUIN;CANCHILA;7°;Rubiel Antonio;Robo;Muy Grave;Pentiente
+083;CAMILO;CANTOR;7°;Carlos Alfredo;Robo;Muy Grave;Pentiente
+084;ANDRY;FLOREZ;7°;German;Ausencias injustificadas;Leve;Resuelto
+085;CARLOS;RODRIGUEZ;7°;Heriberto;Ausencias injustificadas;Leve;Resuelto
+086;LUIS;APONTE;7°;Jorge Humberto;Ausencias injustificadas;Leve;Resuelto
+087;NELSON;PEÑUELA;7°;Raul Eduardo;Ausencias injustificadas;Leve;Resuelto
+088;WALTER;ALVAREZ;7°;Fabian Antonio;Ausencias injustificadas;Leve;Resuelto
+089;NOLBERTO;TRUJILLO;7°;Yeison Alfonso;Ausencias injustificadas;Leve;Resuelto
+090;DELCY;HOYOS;7°;Miguel Francisco;Acoso escolar;Grave;Resuelto
+091;JICLY;MUTIS;7°;Carlos Julio;Acoso escolar;Grave;Resuelto
+092;LUZ;OYAGA;7°;Miguel Angel;Acoso escolar;Grave;Resuelto
+093;JOHN;GALVIS;8°;Jose Elver;Faltas de respeto;Grave;Resuelto
+094;MARCO;MONTERO;8°;Jairo Enrique;Faltas de respeto;Grave;Resuelto
+095;ELGA;CORREDOR;8°;Juan;Faltas de respeto;Grave;Resuelto
+096;ANDRES;LEON;8°;Arturo;Faltas de respeto;Grave;Resuelto
+097;YASMIN;JURADO;8°;Hector Miguel;Faltas de respeto;Grave;Resuelto
+098;JOSE;MORENO;8°;Neyid;Faltas de respeto;Grave;Resuelto
+099;LUIS;ZULUAGA;8°;Gustavo;Robo;Muy Grave;Pentiente
+100;ANA;GOMEZ;8°;Jose Albeiro;Robo;Muy Grave;Pentiente
+101;CAMILO;SILVA;8°;Angel Alberto;Robo;Muy Grave;Pentiente
+102;RODRIGO;GUALI;8°;Julian Andres;Robo;Muy Grave;Pentiente
+103;JORGE;GUTIERREZ;8°;Carlos Augusto;Robo;Muy Grave;Pentiente
+104;ANGELA;OROZCO;8°;Jhon Jairo;Robo;Muy Grave;Pentiente
+105;ANDRES;GUZMAN;8°;Carlos Efren;Violencia física;Muy Grave;Resuelto
+106;FIDEL;MERCADO;8°;Juan Carlos;Violencia física;Muy Grave;Resuelto
+107;JAIR;BELTRAN;8°;Gustavo Felipe;Violencia física;Muy Grave;Resuelto
+108;DIEGO;QUINTERO;8°;Carlos Humberto;Violencia física;Muy Grave;Resuelto
+109;GLORIA;SALEME;8°;Oscar Hernando;Violencia física;Muy Grave;Resuelto
+110;VIVIANA;GALVIS;8°;Carlos Humberto;Violencia física;Muy Grave;Resuelto
+111;DEAN;BECERRA;8°;Edgar;Acoso escolar;Grave;Resuelto
+112;GLORIA;PALACIOS;8°;Carlos Adolfo;Acoso escolar;Grave;Resuelto
+113;JOHN;PULIDO;8°;Freddy Omar;Acoso escolar;Grave;Resuelto
+114;LIDA;TABORDA;8°;Manuel De los reyes;Acoso escolar;Grave;Resuelto
+115;ONEL;PIMIENTA;8°;Hector Jose;Acoso escolar;Grave;Resuelto
+116;VIVIAN;BARLIZA;8°;Pedro Tulio;Acoso escolar;Grave;Resuelto
+117;LIANNA;MARTINEZ;8°;Hector;Faltas de respeto;Grave;Resuelto
+118;ANYELA;HENAO;8°;Jose Maria;Robo;Muy Grave;Pentiente
+119;WILFREDO;PRADO;8°;Rubiel Alejandro;Violencia física;Muy Grave;Resuelto
+120;JOSE;MERCADO;8°;Jorge Hernando;Acoso escolar;Grave;Resuelto
+121;JOSE;LOZADA;8°;Jose Arnulfo;Faltas de respeto;Grave;Resuelto
+122;WALTER;FLOREZ;8°;Jose Yesid;Robo;Muy Grave;Pentiente
+123;LUCY;HERNANDEZ;8°;Rodrigo Elberto;Violencia física;Muy Grave;Resuelto
+124;HERNAN;TORRES;9°;Diego Alfredo;Faltas de respeto;Grave;Resuelto
+125;JUAN;REYES;9°;Luis Guillermo;Faltas de respeto;Grave;Resuelto
+126;JESUS;URIBE;9°;Luis Gabriel;Faltas de respeto;Grave;Resuelto
+127;ANA;VALENCIA;9°;Miguel Antonio;Faltas de respeto;Grave;Resuelto
+128;GUILLERMO;POLO;9°;Luis Arturo;Faltas de respeto;Grave;Resuelto
+129;ANGELA;MORA;9°;German Alfredo;Faltas de respeto;Grave;Resuelto
+130;PEDRO;MAHECHA;9°;Fernando Antonio;Violencia física;Muy Grave;Resuelto
+131;ANDRES;GAÑAN;9°;Fernando Efren;Violencia física;Muy Grave;Resuelto
+132;HEYDEER;PALACIO;9°;Jaime Orlando;Violencia física;Muy Grave;Resuelto
+133;LAURA;OSORIO;9°;Carlos Humberto;Violencia física;Muy Grave;Resuelto
+134;CLAUDIA;NONTIEN;9°;Jose Alfredo;Violencia física;Muy Grave;Resuelto
+135;YAMILE;GARZON;9°;Milton Antonio;Plagio o copia;Grave;Resuelto
+136;JAIME;GONZALEZ;9°;Carlos Felipe manuel;Plagio o copia;Grave;Resuelto
+137;FERNANDO;LEAL;9°;Jaime Humberto;Plagio o copia;Grave;Resuelto
+138;JOSE;JIMENEZ;9°;Leonel;Plagio o copia;Grave;Resuelto
+139;ANA;ALJURE;9°;Camilo Ernesto;Plagio o copia;Grave;Resuelto
+140;BERNAL;ROMAN;9°;Edgar Andres;Plagio o copia;Grave;Resuelto
+141;ANA;INAMPUES;9°;Fabio Leonardo;Robo;Muy Grave;Pentiente
+142;ABSALON;ARIAS;9°;Fauner Ali;Robo;Muy Grave;Pentiente
+143;CARLOS;CARMONA;9°;Cristian Camilo;Robo;Muy Grave;Pentiente
+144;JOSE;BERMUDEZ;9°;Jonathan;Robo;Muy Grave;Pentiente
+145;ANA;VILLA;9°;Pedro Manuel;Robo;Muy Grave;Pentiente
+146;CLARA;MONTILLA;9°;Tomas Florentino;Robo;Muy Grave;Pentiente
+147;ANA;MONTES;9°;Luis Rafael;Acoso escolar;Grave;Resuelto
+148;JESUS;COTES;9°;Marco Aurelio;Acoso escolar;Grave;Resuelto
+149;HARLEY;GUTIERREZ;9°;Luis Romulo;Acoso escolar;Grave;Resuelto
+150;LEONARDO;AVELLA;9°;Rafael Arturo;Acoso escolar;Grave;Resuelto
+151;KAREN;FONSECA;9°;Julio Roberto;Acoso escolar;Grave;Resuelto
+152;DAYAN;MALDONADO;9°;Derwin Rafael;Acoso escolar;Grave;Resuelto
+153;KAREN;MENDOZA;9°;Nestor Renan;Acoso escolar;Grave;Resuelto
+154;DAIRO;MONTIEL;9°;Jose Ivan;Acoso escolar;Grave;Resuelto
+155;ROSSVAN;BLANCO;10°;Jaime Ernesto;Fraude académico;Muy Grave;Pentiente
+156;JUAN;MEDINA;10°;Raul;Fraude académico;Muy Grave;Pentiente
+157;CARMEN;GONZALEZ;10°;Juan Carlos;Fraude académico;Muy Grave;Pentiente
+158;LOIDA;NIEVES;10°;Jose Florentino;Fraude académico;Muy Grave;Pentiente
+159;WILSON;SANCHEZ;10°;Jorge Luis;Fraude académico;Muy Grave;Pentiente
+160;JUAN;REYES;10°;Edilberto;Fraude académico;Muy Grave;Pentiente
+161;VICTOR;GARZÓN;10°;Jorge Enrique;Uso indebido de tecnología;Grave;Pentiente
+162;CLARA;OCAMPO;10°;Oscar;Uso indebido de tecnología;Grave;Pentiente
+163;YOLANDA;GARRIDO;10°;Fernando;Uso indebido de tecnología;Grave;Pentiente
+164;JOSE;CASAS;10°;Edgar;Uso indebido de tecnología;Grave;Pentiente
+165;SNEYDER;MANZUR;10°;Yovani;Uso indebido de tecnología;Grave;Pentiente
+166;ADRIANA;GOMEZ;10°;Juan Carlos;Uso indebido de tecnología;Grave;Pentiente
+167;JOHN;PIÑA;10°;Jose Jaime;Daño en las instalaciones;Grave;Pentiente
+168;AURA;BARRETO;10°;Esteban;Daño en las instalaciones;Grave;Pentiente
+169;ESAU;ROMERO;10°;Adolfo Rafael;Daño en las instalaciones;Grave;Pentiente
+170;OMAR;OJEDA;10°;Said Joan;Daño en las instalaciones;Grave;Pentiente
+171;OSWALDO;QUIROZ;10°;Ricardo Andres;Daño en las instalaciones;Grave;Pentiente
+172;LADY;LEGUIZAMÒN;10°;Luigis Enrique;Daño en las instalaciones;Grave;Pentiente
+173;MARY;GARCIA;10°;Miguel Mario;Violencia física ;Muy Grave;Resuelto
+174;YUDY;CHAVEZ;10°;Carlos Julio;Violencia física ;Muy Grave;Resuelto
+175;YOLANDA;SUAREZ;10°;Jose Jose;Violencia física ;Muy Grave;Resuelto
+176;JHONATHAN;VARGAS;10°;Carlos Augusto;Violencia física ;Muy Grave;Resuelto
+177;LUIS;HERNANDEZ;10°;Duver Leodany;Violencia física ;Muy Grave;Resuelto
+178;CLAUDIA;TORO;10°;Carlos Mauricio;Violencia física ;Muy Grave;Resuelto
+179;ALLISON;CASTILLO;10°;Gabriel Hernando;Robo;Muy Grave;Pentiente
+180;VALERIA;RINCON;10°;Juan Carlos;Robo;Muy Grave;Pentiente
+181;MARIA;MUÑOZ;10°;Diego Mauricio;Robo;Muy Grave;Pentiente
+182;CLAUDIA;GUAUQUE;10°;Javier Alfonso;Robo;Muy Grave;Pentiente
+183;ZAGALA;VILLANUEVA;10°;Carlos Andres;Faltas de respeto;Grave;Resuelto
+184;CARLOS;CASTRO;10°;Diego Hernando;Faltas de respeto;Grave;Resuelto
+185;JEFFERSON;JESUS;10°;Edinson Norvey;Faltas de respeto;Grave;Resuelto
+186;FRANK;CHAPMAN;11°;Jhon Fredy;Uso de sustancias prohibidas;Muy Grave;Resuelto
+187;ANDRES;MUÑOZ;11°;Juan Jacobo;Uso de sustancias prohibidas;Muy Grave;Resuelto
+188;ADRIANA;ESPITIA;11°;Hector Enrique;Uso de sustancias prohibidas;Muy Grave;Resuelto
+189;CARLOS;GARCIA;11°;Ervyn Hermilzon;Uso de sustancias prohibidas;Muy Grave;Resuelto
+190;AMAURI;PADILLA;11°;Carlos Hernan;Uso de sustancias prohibidas;Muy Grave;Resuelto
+191;MARIA;ANGULO;11°;Yofran Mauricio;Uso de sustancias prohibidas;Muy Grave;Resuelto
+192;IVAN;PRIETO;11°;Eduard Steven;Robo;Muy Grave;Pentiente
+193;JAIME;PEÑA;11°;Edwin Guillermo;Robo;Muy Grave;Pentiente
+194;CLARA;ROLDAN;11°;Ricardo;Robo;Muy Grave;Pentiente
+195;LUCY;GUZMAN;11°;Martin Gabriel;Robo;Muy Grave;Pentiente
+196;JOSE;PORTELA;11°;Juan Camilo;Robo;Muy Grave;Pentiente
+197;FABIAN;ROJAS;11°;Duban Camilo;Robo;Muy Grave;Pentiente
+198;CLARA;JUDITH;11°;Carlos Alberto;Robo;Muy Grave;Pentiente
+199;MILTON;RAMOS;11°;Yankelly;Faltas de respeto;Grave;Resuelto
+200;RICARDO;PASTRANA;11°;Juan Pablo;Faltas de respeto;Grave;Resuelto
+201;FABIANA;ZÚÑIGA;11°;Eduardo Andres;Faltas de respeto;Grave;Resuelto
+202;ALEXANDER;JIMENEZ;11°;Luis Carlos;Faltas de respeto;Grave;Resuelto
+203;ADRIANA;BRUSATIN;11°;Sigifredo;Faltas de respeto;Grave;Resuelto
+204;ARIEL;ROJAS;11°;Jhon Jairo;Faltas de respeto;Grave;Resuelto
+205;MARIANELLA;SAA;11°;Hernan Dario;Uso indebido de tecnología;Grave;Pentiente
+206;IVAN;PERDOMO;11°;Henry Alberto;Uso indebido de tecnología;Grave;Pentiente
+207;YEISSON;NEIRA;11°;Jesus Enrique;Uso indebido de tecnología;Grave;Pentiente
+208;FRANCISCO;ZULUAGA;11°;Victor Manuel;Uso indebido de tecnología;Grave;Pentiente
+209;TERESA;LOPEZ;11°;Mauricio Javier;Uso indebido de tecnología;Grave;Pentiente
+210;ELIZABETH;VELEZ;11°;Javier Antonio;Uso indebido de tecnología;Grave;Pentiente
+211;MARIA;CORCIONE;11°;Felix Armando;Fraude académico;Muy Grave;Pentiente
+212;CARLOS;BRAVO;11°;David Dario;Fraude académico;Muy Grave;Pentiente
+213;CLAUDIA;GUTIERREZ;11°;Jesus Miguel;Fraude académico;Muy Grave;Pentiente
+214;LINA;VASQUEZ;11°;Augusto Enrique;Fraude académico;Muy Grave;Pentiente
+215;MARIA;TOBÓN;11°;Luis Eduardo;Fraude académico;Muy Grave;Pentiente
+216;WALTER;TORO;11°;Juan Carlos;Fraude académico;Muy Grave;Pentiente
+217;JOSE;JARAMILLO;6°;Felix Arturo;Ausencias injustificadas;Leve;Resuelto
+218;ENNIS;JARAMILLO;6°;Javier Enrique;Acoso escolar;Grave;Resuelto
+219;JANNETH;ALVAREZ;6°;Leon Julio;Plagio o copia;Grave;Resuelto
+220;YURLEY;MONROY;6°;Ruben Dario;Ausencias injustificadas;Leve;Resuelto
+221;JULIAN;MONTOYA;6°;Euripides Jose;Ausencias injustificadas;Leve;Resuelto
+222;URDELY;CARBONERO;6°;Gabriel Angel;Ausencias injustificadas;Leve;Resuelto
+223;JUAN;SANCHEZ;7°;Jaime Leon;Acoso escolar;Grave;Resuelto
+224;GLORIA;PERDOMO;7°;William;Acoso escolar;Grave;Resuelto
+225;SUSAN;BENAVIDES;7°;Juan Carlos;Acoso escolar;Grave;Resuelto
+226;LUIS;MUÑOZ;7°;Wilman Alfonso;Violencia física;Muy Grave;Resuelto
+227;PAOLA;ROSERO;7°;Ricardo Enrique;Violencia física;Muy Grave;Resuelto
+228;MAGDA;VASQUEZ;7°;Jose Fabian;Violencia física;Muy Grave;Resuelto
+229;RAUL;GUTIERREZ;7°;Bienvenido;Ausencias injustificadas;Leve;Resuelto
+230;JIRSON;RAMIREZ;7°;Ildefonso Jose;Ausencias injustificadas;Leve;Resuelto
+231;CARMEN;CAMPAÑA;7°;Martin Gabriel;Ausencias injustificadas;Leve;Resuelto
+232;GERALDINE;MORENO;8°;Julio Cesar;Faltas de respeto;Grave;Resuelto
+233;JUAN;IBARGUEN;8°;Rafael Antonio;Faltas de respeto;Grave;Resuelto
+234;JOHN;LOZANO;8°;Jairo Ivan;Faltas de respeto;Grave;Resuelto
+235;DIEGO;VILLA;8°;Carlos Alberto;Robo;Muy Grave;Pentiente
+236;MOISES;ALARCON;8°;Elkin Martin;Robo;Muy Grave;Pentiente
+237;AHISAMAC;RODRIGUEZ;8°;Hernan Dario;Robo;Muy Grave;Pentiente
+238;JUAN;GIRALDO;8°;Jhon Jairo;Violencia física;Muy Grave;Resuelto
+239;ELISA;CADENA;8°;Jose Domingo;Violencia física;Muy Grave;Resuelto
+240;JUAN;GALARZA;8°;Gustavo Adolfo;Violencia física;Muy Grave;Resuelto
+241;CIRO;RAMIREZ;8°;Anderson;Acoso escolar;Grave;Resuelto
+242;JHOAN;NOVOA;8°;Mauricio Antonio;Acoso escolar;Grave;Resuelto
+243;JAIME;CARRILLO;8°;Javier Antonio;Acoso escolar;Grave;Resuelto
+244;JORGE;COLMENARES;8°;Alvaro De jesus;Plagio o copia;Grave;Resuelto
+245;YOLIMA;SALINAS;8°;Daniel;Plagio o copia;Grave;Resuelto
+246;EDUARDO;LUQUE;8°;Antonio;Plagio o copia;Grave;Resuelto
+247;FERNANDO;OCHOA;8°;Pedro Jose;Plagio o copia;Grave;Resuelto
+248;FABIAN;MEJIA;8°;Salim;Faltas de respeto;Grave;Resuelto
+249;ESTEBAN;NARANJO;8°;Orlando Manuel;Faltas de respeto;Grave;Resuelto
+250;ANA;VALENCIA;8°;Jorge Luis;Faltas de respeto;Grave;Resuelto
+251;ADIELA;REYES;8°;Israel;Robo;Muy Grave;Pentiente
+252;HORACIO;JESÚS;8°;Osman;Robo;Muy Grave;Pentiente
+253;JESUS;CUENCA;8°;Ariel Jair;Robo;Muy Grave;Pentiente
+254;RODRIGO;VENEGAS;8°;Nestor Andres;Violencia física;Muy Grave;Resuelto
+255;NURY;MARQUEZ;8°;Miguel Elisio;Violencia física;Muy Grave;Resuelto
+256;JOAQUIN;SILGUERO;8°;Jaime Alberto;Violencia física;Muy Grave;Resuelto
+257;ALVARO;MONTOYA;8°;Orlando;Acoso escolar;Grave;Resuelto
+258;DIOGENES;CAICEDO;8°;Jose Francisco;Acoso escolar;Grave;Resuelto
+259;ROBERT;RIVERA;8°;Javier Eduardo;Acoso escolar;Grave;Resuelto
+260;CAMILO;GUERRA;8°;Edgar;Acoso escolar;Grave;Resuelto
+261;CLAUDIA;SANTOS;6°;Joselyn;Ausencias injustificadas;Leve;Resuelto
+262;CAMILO;ACOSTA;6°;Wilson;Ausencias injustificadas;Leve;Resuelto
+263;JOSE;RODRIGUEZ;6°;Jorge William;Ausencias injustificadas;Leve;Resuelto
+264;CARLOS;MEJIA;6°;Sebastian;Ausencias injustificadas;Leve;Resuelto
+265;WILDEN;CAPACHO;6°;Alejandro;Ausencias injustificadas;Leve;Resuelto
+266;HECTOR;BARRETO;6°;Jorge Ivan;Ausencias injustificadas;Leve;Resuelto
+267;DIANA;PINO;10°;Alejandro;Daño en las instalaciones;Grave;Pentiente
+268;JORGE;PADILLA;10°;Fabian Alberto;Daño en las instalaciones;Grave;Pentiente
+269;CARLOS;MACIAS;10°;Wilson Fernando;Daño en las instalaciones;Grave;Pentiente
+270;EDGAR;RODRIGUEZ;10°;Edgar Alfonso;Daño en las instalaciones;Grave;Pentiente
+271;ALEIDA;URIANA;10°;Andres Felipe;Uso de sustancias prohibidas;Muy Grave;Pentiente
+272;LUIS;RUIZ;10°;Alexander;Uso de sustancias prohibidas;Muy Grave;Pentiente
+273;CARLOS;HERNANDEZ;10°;Alirio Jesus;Uso de sustancias prohibidas;Muy Grave;Pentiente
+274;JANS;MARTINEZ;10°;Jhaison Anibal;Uso de sustancias prohibidas;Muy Grave;Pentiente
+275;OSCAR;AREVALO;11°;Naudin Antonio;Fraude académico;Muy Grave;Resuelto
+276;OSCAR;DIAZ;11°;Andres Mauricio;Fraude académico;Muy Grave;Resuelto
+277;ALVARO;IBANEZ;11°;Javier Humberto;Fraude académico;Muy Grave;Resuelto
+278;LUIS;SOTO;11°;Edgar Octavio;Fraude académico;Muy Grave;Resuelto
+279;LUIS;FERNANDEZ;11°;Luis Fernando;Fraude académico;Muy Grave;Resuelto
+280;GERMAN;MOLINA;11°;Jhon Alberto;Uso indebido de tecnología;Grave;Resuelto
+281;ANA;QUIJANO;11°;Jose Fernando;Uso indebido de tecnología;Grave;Resuelto
+282;SAULO;CERON;11°;Alfonso;Uso indebido de tecnología;Grave;Resuelto
+283;WILMER;BARRIOS;11°;Jhon Edison;Uso indebido de tecnología;Grave;Resuelto
+284;MIRIAM;BEDOYA;11°;Edilberto De jesus;Uso indebido de tecnología;Grave;Resuelto
+285;EMPERATRIZ;MILLAN;9°;Luis Alberto;Faltas de respeto;Grave;Resuelto
+286;GUSTAVO;JESUS;9°;Arquimedes;Faltas de respeto;Grave;Resuelto
+287;MARIA;LOMBANA;9°;Jose Fernando;Faltas de respeto;Grave;Resuelto
+288;EDGAR;PICON;9°;Jorge Tulio;Faltas de respeto;Grave;Resuelto
+289;MARGARITA;VARGAS;9°;Juan Carlos;Faltas de respeto;Grave;Resuelto
+290;ADELA;CARDONA;9°;Juan Carlos;Robo;Muy Grave;Pentiente
+291;HENIO;SARMIENTO;9°;Joismer;Robo;Muy Grave;Pentiente
+292;ANDERSON;JIMENEZ;9°;Ricardo Alberto;Robo;Muy Grave;Pentiente
+293;CLAUDIA;GONZALEZ;9°;Diego Felipe;Robo;Muy Grave;Pentiente
+294;GELMIS;RIVERA;9°;Cristian Camilo;Faltas de respeto;Grave;Resuelto
+295;RAFAEL;GONZALEZ;9°;Julian Andres;Faltas de respeto;Grave;Resuelto
+296;NOHORA;MERCADO;9°;David;Faltas de respeto;Grave;Resuelto
+297;SILVIO;VALENCIA;9°;Arbey;Faltas de respeto;Grave;Resuelto
+298;JULIAN;MORA;10°;Rigoberto;Fraude académico;Muy Grave;Resuelto
+299;JHON;GONZALEZ;11°;Gustavo Arnoldo;Fraude académico;Muy Grave;Resuelto
+300;DEISY;FORERO;9°;Juan Carlos;Ausencias injustificadas;Leve;Resuelto
+301;MARCO;GARCIA;9°;Victor Andres;Ausencias injustificadas;Leve;Resuelto
+302;HERNANDO;RAMIREZ;9°;Carlos Marino;Ausencias injustificadas;Leve;Resuelto
+303;NATASHA;GARCIA;9°;Carmelo Ramon;Ausencias injustificadas;Leve;Resuelto
+304;OMAR;TOBON;9°;Carlos;Ausencias injustificadas;Leve;Resuelto
+305;JHON;OSPINA;9°;Jairo;Ausencias injustificadas;Leve;Resuelto
+306;DIEGO;ORTIZ;9°;Juan Carlos;Violencia física ;Muy Grave;Resuelto
+307;JAIBERTH;JESUS;9°;Juan Gregorio;Violencia física ;Muy Grave;Resuelto
+308;MARY;CORRALES;9°;Carlos Alberto;Violencia física ;Muy Grave;Resuelto
+309;ANGIE;LOZANO;9°;Andres Eduardo;Violencia física ;Muy Grave;Resuelto
+310;LEIDY;ALZATE;9°;Hernan;Violencia física ;Muy Grave;Resuelto
+311;ROQUE;TOLOSA;9°;Alejandro;Violencia física ;Muy Grave;Resuelto
+312;OSCAR;OSPITIA;9°;Eder Guillermo;Acoso escolar;Grave;Resuelto
+313;DIEGO;MARIN;9°;Rodrigo Alonso;Acoso escolar;Grave;Resuelto
+314;SANDRA;GOMEZ;9°;Roberto Arleyo;Acoso escolar;Grave;Resuelto
+315;JENNY;OSORIO;6°;Pedro Nel;Acoso escolar;Grave;Resuelto
+316;HERMES;LARA;6°;Mario Ernesto;Acoso escolar;Grave;Resuelto
+317;FRANCISCO;SAMPAYO;6°;Mario Javier;Acoso escolar;Grave;Resuelto
+318;FULVIO;SOTO;6°;Amaury Rafael;Robo ;Muy Grave;Pentiente
+319;DIANA;MOLINA;6°;Efrain Jose;Robo ;Muy Grave;Pentiente
+320;ANA;CEBALLOS;6°;Nestor Eduardo;Robo ;Muy Grave;Pentiente
+321;JUAN;ESPINOSA;6°;Carlos Ramon;Robo ;Muy Grave;Pentiente
+322;JORGE;BAENA;6°;Tony Fernando;Robo ;Muy Grave;Pentiente
+323;LUCIA;RODRIGUEZ;6°;Edwin;Robo ;Muy Grave;Pentiente
+324;RODOLFO;LOPEZ;6°;Juan Manuel;Plagio o copia;Grave;Pentiente
+325;BRITT;SANCHEZ;6°;Franz Joao;Plagio o copia;Grave;Pentiente
+326;RICARDO;RAMÍREZ;6°;Pablo Sergio sandino;Plagio o copia;Grave;Pentiente
+327;RUSVEL;NIETO;6°;Javier;Plagio o copia;Grave;Pentiente
+328;JUAN;ACERO;6°;Mario Enrique;Plagio o copia;Grave;Pentiente
+329;HARLINZON;ROJAS;6°;Nelson Enrique;Plagio o copia;Grave;Pentiente
+330;TONIO;OLMOS;6°;Carlos Julian;Ausencias injustificadas;Leve;Resuelto
+331;JAISSON;CARREÑO;6°;Juan Carlos;Ausencias injustificadas;Leve;Resuelto
+332;OSCAR;CELY;6°;Carlos Mauricio;Ausencias injustificadas;Leve;Resuelto
+333;YENNY;CARDENAS;6°;Juan Carlos;Violencia física ;Muy Grave;Resuelto
+334;CRISTIAN;PULGARIN;6°;Henry;Violencia física ;Muy Grave;Resuelto
+335;LUIS;MURILLO;6°;Marco Antonio;Violencia física ;Muy Grave;Resuelto
+336;FLOR;HURTADO;6°;Julio Mauricio;Acoso escolar;Grave;Resuelto
+337;GLORIA;ALZATE;6°;Jose Daniel;Acoso escolar;Grave;Resuelto
+338;LILIAM;ESTRELLA;6°;Jesus Parmenio;Acoso escolar;Grave;Resuelto
+339;FREDY;QUINTERO;6°;Jorge;Robo ;Muy Grave;Pentiente
+340;CATERINE;VANEGAS;6°;Julio Cesar;Robo ;Muy Grave;Pentiente
+341;OSCAR;MORA;6°;Milton Fredy;Robo ;Muy Grave;Pentiente
+342;NELSON;ROJAS;6°;Juan Diego;Plagio o copia;Grave;Pentiente
+343;CAMILO;PEDRAZA;6°;Javier Alberto;Plagio o copia;Grave;Pentiente
+344;JEHAN;SERRANO;6°;Fernando;Plagio o copia;Grave;Pentiente
+345;SILVIA;CORAL;6°;Edgar Mauricio;Plagio o copia;Grave;Pentiente
+346;MAURICIO;BALLEN;6°;Diego Alonso;Plagio o copia;Grave;Pentiente
+347;WILTON;CASTRO;6°;Luis Humberto;Plagio o copia;Grave;Pentiente
+348;ANDREA;CALVO;6°;Feisar Fernando;Acoso escolar;Grave;Resuelto
+349;VALENTINA;;6°;Edin Jarbey;Acoso escolar;Grave;Resuelto
+350;JULIAN;GRANADA;6°;Luis Blaimir;Acoso escolar;Grave;Resuelto
+351;JOSÉ;OCAMPO;6°;Luis Armando;Acoso escolar;Grave;Resuelto
+352;BAISSER;JIMENEZ;6°;Carlos Arturo;Acoso escolar;Grave;Resuelto
+353;KAREN;MERCHAN;6°;Franklin De jesus;Acoso escolar;Grave;Resuelto
+354;ANA;GARZON;6°;Harol;Ausencias injustificadas;Leve;Resuelto
+355;DANIEL;JESUS;6°;Carlos;Ausencias injustificadas;Leve;Resuelto
+356;MELISSA;TOBON;6°;Carlos Alexander;Ausencias injustificadas;Leve;Resuelto
+357;LUZ;RAMIREZ;6°;Guidobaldo;Ausencias injustificadas;Leve;Resuelto
+358;RONAL;MURIEL;6°;Nelson Mario;Robo ;Muy Grave;Pentiente
+359;JORGE;VALENCIA;6°;Esquilo;Robo ;Muy Grave;Pentiente
+360;JHON;MONTERO;6°;Jose Ignacio;Robo ;Muy Grave;Pentiente
+361;JUAN;MONTOYA;7°;Nicetzech Tucidides;Acoso escolar;Grave;Resuelto
+362;OLINDA;ALVAREZ;7°;Gerson;Acoso escolar;Grave;Resuelto
+363;ROSARIO;PILAR;7°;Alvaro;Acoso escolar;Grave;Resuelto
+364;MARIA;CIFUENTES;7°;Hernando;Acoso escolar;Grave;Resuelto
+365;DIEGO;ZAPATA;7°;Alvaro Hernando;Acoso escolar;Grave;Resuelto
+366;GLORIA;PINILLA;7°;Ignacio Antonio;Acoso escolar;Grave;Resuelto
+367;PABLO;ORDOÑEZ;7°;Javier;Violencia física;Muy Grave;Resuelto
+368;MIRLEIS;SOLAR;7°;Jaime Arturo;Violencia física;Muy Grave;Resuelto
+369;FERNANDO;BELLO;7°;Pedro Augusto;Violencia física;Muy Grave;Resuelto
+370;GERMAN;BECERRA;7°;Jorge Enrique;Violencia física;Muy Grave;Resuelto
+371;MARTHA;MARTINEZ;7°;Cesar Augusto;Violencia física;Muy Grave;Resuelto
+372;ALEJANDRO;URIBE;7°;Oscar Mauricio;Violencia física;Muy Grave;Resuelto
+373;JULIO;VARGAS;7°;Wilson;Plagio o copia;Grave;Resuelto
+374;MARIA;CARMEN;7°;William;Plagio o copia;Grave;Resuelto
+375;CARLOS;MUÑOZ;7°;Eliberto;Plagio o copia;Grave;Resuelto
+376;ANA;VELOZA;7°;Ricardo Heriberto;Plagio o copia;Grave;Resuelto
+377;LINA;VEGA;7°;Jaime Augusto;Plagio o copia;Grave;Resuelto
+378;DIANA;VERA;7°;Miguel Antonio;Plagio o copia;Grave;Resuelto
+379;EDWAR;DUEÑAS;7°;Jairo;Robo;Muy Grave;Pentiente
+380;JULIAN;PATERNINA;7°;Miguel Andres;Robo;Muy Grave;Pentiente
+381;JUAN;BUITRAGO;7°;Carlos Alberto;Robo;Muy Grave;Pentiente
+382;EDWIN;PAVA;7°;Jesus David;Robo;Muy Grave;Pentiente
+383;JOSE;CORREDOR;7°;Fedor Francisco;Ausencias injustificadas;Leve;Resuelto
+384;JEANNETTE;DE;7°;Jorge Andres;Ausencias injustificadas;Leve;Resuelto
+385;HERNAN;MORENO;7°;Abel Joaquin;Ausencias injustificadas;Leve;Resuelto
+386;JOSE;CALDERON;7°;Jaime;Ausencias injustificadas;Leve;Resuelto
+387;LEDA;LOPEZ;7°;Jose Miguel;Ausencias injustificadas;Leve;Resuelto
+388;LUIS;GONZALEZ;7°;Luis Carlos;Ausencias injustificadas;Leve;Resuelto
+389;MARGARITA;GIL;7°;William Alberto;Acoso escolar;Grave;Resuelto
+390;LUDWING;VALERO;7°;Javier Francisco;Acoso escolar;Grave;Resuelto
+391;MARCELA;GRANADOS;7°;Micael Alfonso;Acoso escolar;Grave;Resuelto
+392;JHON;LUGO;8°;Jorge Luis;Faltas de respeto;Grave;Resuelto
+393;MILETH;AGAMEZ;8°;Walter Adolfo;Faltas de respeto;Grave;Resuelto
+394;CARLOS;SALAZAR;8°;Jesus Antonio;Faltas de respeto;Grave;Resuelto
+395;BONIFACIO;PALMAR;8°;Julio Armando;Faltas de respeto;Grave;Resuelto
+396;YURLEY;NAUSA;8°;Gabriel Alfonso;Faltas de respeto;Grave;Resuelto
+397;JOSE;HINCAPIE;8°;Pedro Rafael;Faltas de respeto;Grave;Resuelto
+398;ISMAEL;NAMEN;8°;Fredy Antonio;Robo;Muy Grave;Pentiente
+399;ANDREA;NAVAS;8°;Jose Julian;Robo;Muy Grave;Pentiente
+400;JOHANNA;SANTOS;8°;Miguel Eduardo;Robo;Muy Grave;Pentiente
+401;GUILLERMO;PEREZ;8°;Jesus Eduardo;Robo;Muy Grave;Pentiente
+402;DANIEL;RAMIREZ;8°;Luis Eduardo;Robo;Muy Grave;Pentiente
+403;ADRIANA;RODRIGUEZ;8°;Smelin Jose;Robo;Muy Grave;Pentiente
+404;ERICK;GALEANO;8°;Eduardo;Violencia física;Muy Grave;Resuelto
+405;SANDRA;RIVEROS;8°;Lenin Aduar;Violencia física;Muy Grave;Resuelto
+406;MARIA;JORDAN;8°;Oscar Mauricio;Violencia física;Muy Grave;Resuelto
+407;FEDERICO;GUTIÉRREZ;8°;Didier Alexzander;Violencia física;Muy Grave;Resuelto
+408;ORLANDO;JESUS;8°;Edward Sinibaldo;Violencia física;Muy Grave;Resuelto
+409;LIBIA;OCAMPO;8°;Camilo Andres;Violencia física;Muy Grave;Resuelto
+410;TOMAS;SILVA;8°;Pablo;Acoso escolar;Grave;Resuelto
+411;BENJAMIN;TORRES;8°;Brayan Efrain;Acoso escolar;Grave;Resuelto
+412;CAMILO;ORTEGON;8°;Julio Ernesto;Acoso escolar;Grave;Resuelto
+413;PAOLA;RAMIREZ;8°;Astolfo Dalmiro;Acoso escolar;Grave;Resuelto
+414;OSCAR;RODRIGUEZ;8°;Italo Fernando;Acoso escolar;Grave;Resuelto
+415;EDWAR;RIOS;8°;Luis Fernando;Acoso escolar;Grave;Resuelto
+416;ZULMA;GOMEZ;8°;Felipe Adolfo;Faltas de respeto;Grave;Resuelto
+417;JUAN;ARENAS;8°;Jorge Rigoberto;Robo;Muy Grave;Pentiente
+418;JHON;LOPEZ;8°;Cruz Nelson;Violencia física;Muy Grave;Resuelto
+419;MIGUEL;CARDOZO;8°;Wilber Jesus;Acoso escolar;Grave;Resuelto
+420;ANDRÉS;HERNÁNDEZ;8°;Jose Arles;Faltas de respeto;Grave;Resuelto
+421;GABRIEL;PEÑA;8°;Juan Guillermo;Robo;Muy Grave;Pentiente
+422;CLAUDIA;CUELLAR;8°;Juan Carlos;Violencia física;Muy Grave;Resuelto
+423;EDUIN;CUENCA;9°;Jorge Javier;Faltas de respeto;Grave;Resuelto
+424;ADRIANA;FERRER;9°;Jairo Edmundo;Faltas de respeto;Grave;Resuelto
+425;JUAN;DÍAZ;9°;Jorge Enrique;Faltas de respeto;Grave;Resuelto
+426;OSCAR;LIZCANO;9°;Nestor Eugenio;Faltas de respeto;Grave;Resuelto
+427;MALFREN;PADILLA;9°;Edgar Antonio;Faltas de respeto;Grave;Resuelto
+428;DIEGO;JESUS;9°;Luis Afranio;Faltas de respeto;Grave;Resuelto
+429;CARLOS;CRIOLLO;9°;Julio Cesar;Violencia física;Muy Grave;Resuelto
+430;OSCAR;SUAREZ;9°;Martin Eduardo;Violencia física;Muy Grave;Resuelto
+431;HUMBERTO;VANEGAS;9°;Henry Santiago;Violencia física;Muy Grave;Resuelto
+432;YOLANDA;MONSALVE;9°;Pio Leon;Violencia física;Muy Grave;Resuelto
+433;LUZ;MURILLO;9°;Carlos Enrique;Violencia física;Muy Grave;Resuelto
+434;JOSE;PARRADO;9°;Javier Edmundo;Plagio o copia;Grave;Resuelto
+435;JANETH;GARCIA;9°;Carlos Julio;Plagio o copia;Grave;Resuelto
+436;CARLOS;MENDEZ;9°;Ivan Alexander;Plagio o copia;Grave;Resuelto
+437;DARIO;CAICEDO;9°;Cesar Ernesto;Plagio o copia;Grave;Resuelto
+438;JAIRO;;9°;Luis Alfonso;Plagio o copia;Grave;Resuelto
+439;FELIPE;CORREA;9°;Fredy Rommel;Plagio o copia;Grave;Resuelto
+440;LEIDY;MESA;9°;Edgar Eliecer;Robo;Muy Grave;Pentiente
+441;LUZ;ALVAREZ;9°;Carlos Enrique;Robo;Muy Grave;Pentiente
+442;GUSTAVO;BONILLA;9°;Jaime Mauricio;Robo;Muy Grave;Pentiente
+443;HECTOR;RENDÓN;9°;Carlos Leonardo;Robo;Muy Grave;Pentiente
+444;TATIANA;TORRES;9°;Luis Carlos;Robo;Muy Grave;Pentiente
+445;LUIS;VILLEGAS;9°;Miguel Angel;Robo;Muy Grave;Pentiente
+446;MARIO;CUELLAR;9°;Luis Antonio;Acoso escolar;Grave;Resuelto
+447;ALVARO;MARTINEZ;9°;Jaime Arturo;Acoso escolar;Grave;Resuelto
+448;MANUEL;JESUS;9°;Alveyro Manuel;Acoso escolar;Grave;Resuelto
+449;JORGE;TOVAR;9°;Robert;Acoso escolar;Grave;Resuelto
+450;OMAR;BENJUMEA;9°;Mario Fernando;Acoso escolar;Grave;Resuelto
+451;SAID;LAMK;9°;Armando Arturo;Acoso escolar;Grave;Resuelto
+452;YELITSA;LAGUNA;9°;David Orlando;Acoso escolar;Grave;Resuelto
+453;ELKIN;SUAREZ;9°;Alvaro Hernan;Acoso escolar;Grave;Resuelto
+454;ALVARO;GARCIA;10°;Diego Fernando;Fraude académico;Muy Grave;Pentiente
+455;JORGE;GARI;10°;John Jairo;Fraude académico;Muy Grave;Pentiente
+456;DIEGO;RIVERA;10°;Jaime Alberto;Fraude académico;Muy Grave;Pentiente
+457;PATRICIA;HURTADO;10°;Luis Fernando;Fraude académico;Muy Grave;Pentiente
+458;MARÍA;GIL;10°;Carlos Eduardo;Fraude académico;Muy Grave;Pentiente
+459;DIANA;TORO;10°;Norberto;Fraude académico;Muy Grave;Pentiente
+460;DAVID;JIMENEZ;10°;Mario Andres;Uso indebido de tecnología;Grave;Pentiente
+461;HERNAN;CASTILLO;10°;Ivan Oswaldo;Uso indebido de tecnología;Grave;Pentiente
+462;DANIEL;LOPEZ;10°;Jaime Alberto;Uso indebido de tecnología;Grave;Pentiente
+463;RUTH;VIZCAINO;10°;Carlos Eugenio;Uso indebido de tecnología;Grave;Pentiente
+464;LEIDY;CRUZ;10°;Jorge Enrique;Uso indebido de tecnología;Grave;Pentiente
+465;ANA;CARMONA;10°;Jorge Eliecer;Uso indebido de tecnología;Grave;Pentiente
+466;SEBASTIAN;ANDRADE;10°;Carlos Alberto;Daño en las instalaciones;Muy Grave;Pentiente
+467;YEISON;GUILOMBO;10°;Plinio Hernando;Daño en las instalaciones;Muy Grave;Pentiente
+468;VICTOR;SANCHEZ;10°;Luis Ramon;Daño en las instalaciones;Muy Grave;Pentiente
+469;OMAR;ROJAS;10°;Jorge Eler;Daño en las instalaciones;Muy Grave;Pentiente
+470;ANGELA;SANCHEZ;10°;Jairo;Daño en las instalaciones;Muy Grave;Pentiente
+471;DANIELA;GUTIERREZ;10°;William Ivan;Daño en las instalaciones;Muy Grave;Pentiente
+472;WALDINA;VEGA;10°;Wilson;Violencia física ;Muy Grave;Resuelto
+473;LUIS;ZEA;10°;German Alfonso;Violencia física ;Muy Grave;Resuelto
+474;FERNANDO;OLASCUAGA;10°;Cesar Augusto;Violencia física ;Muy Grave;Resuelto
+475;ANDREA;HERRERA;10°;Javier Alfonso;Violencia física ;Muy Grave;Resuelto
+476;ANGIE;LIZARAZO;10°;Rafael Eduardo;Violencia física ;Muy Grave;Resuelto
+477;LUIS;OSSA;10°;Eder Humberto;Violencia física ;Muy Grave;Resuelto
+478;LEIDY;CRUZ;10°;Esteban Eduardo;Robo;Muy Grave;Pentiente
+479;EDWAR;RIOS;10°;Jesus Elias;Robo;Muy Grave;Pentiente
+480;JUAN;ARENAS;10°;Juan Carlos;Robo;Muy Grave;Pentiente
+481;DAYAN;MALDONADO;10°;Omar;Robo;Muy Grave;Pentiente
+482;OSCAR;BALLESTEROS;10°;Carlos Alberto;Faltas de respeto;Grave;Resuelto
+483;BEATRIZ;TIBADUIZA;10°;Holger;Faltas de respeto;Grave;Resuelto
+484;CARLOS;CUELLAR;10°;Jorge Alfredo;Faltas de respeto;Grave;Resuelto
+485;CARLOS;CORTES;11°;Freddy;Uso de sustancias prohibidas;Muy Grave;Resuelto
+486;ANA;CARRERO;11°;Alvaro;Uso de sustancias prohibidas;Muy Grave;Resuelto
+487;DIANA;QUINONEZ;11°;Carlos Yamid;Uso de sustancias prohibidas;Muy Grave;Resuelto
+488;EUSTORGIO;LOPEZ;11°;Elkin Yesid;Uso de sustancias prohibidas;Muy Grave;Resuelto
+489;CARLOS;MONSALVE;11°;Julio Cesar;Uso de sustancias prohibidas;Muy Grave;Resuelto
+490;XIOMARA;BALANTA;11°;Juan Gabriel;Uso de sustancias prohibidas;Muy Grave;Resuelto
+491;CONCEPCIÓN;ALDANA;11°;Fernando Aurelio;Robo;Muy Grave;Pentiente
+492;EDWAR;MURILLO;11°;Alexander;Robo;Muy Grave;Pentiente
+493;CLARA;RAMOS;11°;Edwin Martin;Robo;Muy Grave;Pentiente
+494;CÉSAR;HERRERA;11°;Fabian De jesus;Robo;Muy Grave;Pentiente
+495;NURY;PADILLA;11°;Jorge;Robo;Muy Grave;Pentiente
+496;ANDRES;QUINA;11°;Carlos Alberto;Robo;Muy Grave;Pentiente
+497;HUGO;MEJIA;11°;Ernesto;Robo;Muy Grave;Pentiente
+498;ALEXANDRA;HERRERA;11°;Orlando;Faltas de respeto;Grave;Resuelto
+499;LUZ;RINCON;11°;Reinaldo;Faltas de respeto;Grave;Resuelto
+500;WILLIAM;PALOMINO;11°;Ivan Gerardo;Faltas de respeto;Grave;Resuelto
+501;JOSE;MUCA;11°;Carlos Augusto;Faltas de respeto;Grave;Resuelto
+502;DORIS;VALENCIA;11°;Leonardo Alberto;Faltas de respeto;Grave;Resuelto
+503;OSCAR;ESCOBAR;11°;Manuel Armando;Faltas de respeto;Grave;Resuelto
+504;SANDRA;LONDOÑO;11°;Daniel Guillermo;Uso indebido de tecnología;Grave;Pentiente
+505;ELIANA;JARAMILLO;11°;Hernando;Uso indebido de tecnología;Grave;Pentiente
+506;ANGELICA;MAYOLO;11°;Alvaro;Uso indebido de tecnología;Grave;Pentiente
+507;RUBEN;VILLABONA;11°;Hernando;Uso indebido de tecnología;Grave;Pentiente
+508;JUDITH;SALAZAR;11°;Raul Hernando;Uso indebido de tecnología;Grave;Pentiente
+509;VICTOR;RHENALS;11°;Miguel Angel;Uso indebido de tecnología;Grave;Pentiente
+510;ANGELA;OLAYA;11°;Fabian Andres;Fraude académico;Muy Grave;Pentiente
+511;LUZ;ARIAS;11°;Yeison Rene;Fraude académico;Muy Grave;Pentiente
+512;MAGALY;GUZMAN;11°;German Ignacio;Fraude académico;Muy Grave;Pentiente
+513;ISOLINA;SILVA;11°;Oscar Ivan;Fraude académico;Muy Grave;Pentiente
+514;SARA;GARCIA;11°;Jose Fernando;Fraude académico;Muy Grave;Pentiente
+515;KELLY;ROCHA;11°;Walter Rafael;Fraude académico;Muy Grave;Pentiente
+516;LUIS;QUINTERO;6°;Adalberto;Ausencias injustificadas;Leve;Resuelto
+517;FULVIA;BENAVIDES;6°;Alfonso Luis;Acoso escolar;Grave;Resuelto
+518;DIANA;ANDRADE;6°;Carlos Jose;Plagio o copia;Grave;Resuelto
+519;LUZ;ESCOBAR;6°;Jose William;Ausencias injustificadas;Leve;Resuelto
+520;ROGERS;DEVIA;6°;Jose Gustavo;Ausencias injustificadas;Leve;Resuelto
+521;CESAR;BUITRAGO;6°;Jose Alfonso;Ausencias injustificadas;Leve;Resuelto
+522;DIANA;RIOS;7°;German;Acoso escolar;Grave;Resuelto
+523;CAMILO;PEREZ;7°;Pedro Luis;Acoso escolar;Grave;Resuelto
+524;CIELO;RUSINQUE;7°;Carlos Arturo;Acoso escolar;Grave;Resuelto
+525;CESAR;ESCALANTE;7°;Marcos Alexander;Violencia física;Muy Grave;Resuelto
+526;IVAN;QUESADA;7°;Felipe Eduardo;Violencia física;Muy Grave;Resuelto
+527;EDGAR;AMEZQUITA;7°;Gustavo Adolfo;Violencia física;Muy Grave;Resuelto
+528;JUAN;CELY;7°;Rodrigo;Ausencias injustificadas;Leve;Resuelto
+529;MARIA;GONZALEZ;7°;Jose Roberto;Ausencias injustificadas;Leve;Resuelto
+530;MILENA;ROSERO;7°;Hector Alfredo;Ausencias injustificadas;Leve;Resuelto
+531;MARIA;CORONEL;8°;Daniel Edgardo;Faltas de respeto;Grave;Resuelto
+532;RICARDO;RAMÍREZ;8°;Jose Fernando;Faltas de respeto;Grave;Resuelto
+533;MARIA;ZARATE;8°;Andres Felipe;Faltas de respeto;Grave;Resuelto
+534;YOLANDA;HERNANDEZ;8°;Jorge Herney;Robo;Muy Grave;Pentiente
+535;BYRON;ZAMBRANO;8°;Ignacio Gabriel;Robo;Muy Grave;Pentiente
+536;CLARA;VERA;8°;Wilson Andres;Robo;Muy Grave;Pentiente
+537;FREDY;ORREGO;8°;Lorenzo Jose;Violencia física;Muy Grave;Resuelto
+538;CAROL;TAVERA;8°;Hernan Nicolas;Violencia física;Muy Grave;Resuelto
+539;.JOSE;BANDA;8°;Jaime Eduardo;Violencia física;Muy Grave;Resuelto
+540;JOSE;DUARTE;8°;Crispin Ulises;Acoso escolar;Grave;Resuelto
+541;LUIS;RIOS;8°;Angel Francisco;Acoso escolar;Grave;Resuelto
+542;CLARA;VALENCIA;8°;Jorge Ramiro;Acoso escolar;Grave;Resuelto
+543;CARLOS;BETANCURTH;8°;Johan Enrique;Plagio o copia;Grave;Resuelto
+544;ANDRES;CASTRO;8°;Elkin Manuel;Plagio o copia;Grave;Resuelto
+545;OSCAR;LIZCANO;8°;Rodrigo Hernan;Plagio o copia;Grave;Resuelto
+546;JAIVER;PEREZ;8°;Luis Carlos;Plagio o copia;Grave;Resuelto
+547;CLAUDIA;GARCIA;8°;Jhonny;Faltas de respeto;Grave;Resuelto
+548;ALEXIS;RINCÓN;8°;Wilson;Faltas de respeto;Grave;Resuelto
+549;EDGAR;CUBIDES;8°;Raul;Faltas de respeto;Grave;Resuelto
+550;GABRIEL;GOMEZ;8°;Cristobal Alonso;Robo;Muy Grave;Pentiente
+551;ANGELA;CARVAJAL;8°;Carlos Mario;Robo;Muy Grave;Pentiente
+552;JORGE;MUÑOZ;8°;Guillermo Leon;Robo;Muy Grave;Pentiente
+553;LEONOR;RODRIGUEZ;8°;Luis Alberto;Violencia física;Muy Grave;Resuelto
+554;DIANA;PALACIO;8°;Jorge Ivan;Violencia física;Muy Grave;Resuelto
+555;MARIA;GUTIERREZ;8°;Wilson De jesus;Violencia física;Muy Grave;Resuelto
+556;CARLOS;DE;8°;Wilson Alberto;Acoso escolar;Grave;Resuelto
+557;CLARIBEL;NIETO;8°;Alvaro Rafael;Acoso escolar;Grave;Resuelto
+558;MARIA;ANGULO;8°;Francisco Javier;Acoso escolar;Grave;Resuelto
+559;GRACE;MILLAN;8°;Carlos Enrique;Acoso escolar;Grave;Resuelto
+560;JEISON;MONTOYA;6°;Wilmar Alexis;Ausencias injustificadas;Leve;Resuelto
+561;GABRIEL;RODRIGUEZ;6°;Mario Fernando;Ausencias injustificadas;Leve;Resuelto
+562;YULIETH;CORTES;6°;Wilfredo;Ausencias injustificadas;Leve;Resuelto
+563;JORGE;HINCAPIE;6°;Carlos Mario;Ausencias injustificadas;Leve;Resuelto
+564;JUAN;ALFARO;6°;Norberto;Ausencias injustificadas;Leve;Resuelto
+565;SANDRA;LOPEZ;6°;Yoalveth;Ausencias injustificadas;Leve;Resuelto
+566;RICARDO;BERNAL;10°;Carlos;Daño en las instalaciones;Muy Grave;Pentiente
+567;ANGELA;PARRA;10°;Jose Luis;Daño en las instalaciones;Muy Grave;Pentiente
+568;FIDEL;SANCHEZ;10°;Alveiro;Daño en las instalaciones;Muy Grave;Pentiente
+569;VICTOR;GALLEGO;10°;Elox Gabriel;Daño en las instalaciones;Muy Grave;Pentiente
+570;ELIAS;CARABALI;10°;John Edison;Uso de sustancias prohibidas;Muy Grave;Pentiente
+571;SAMIR;PALACIO;10°;Nestor Raul;Uso de sustancias prohibidas;Muy Grave;Pentiente
+572;KELLY;CUBIDES;10°;Diego Fernando;Uso de sustancias prohibidas;Muy Grave;Pentiente
+573;KARENT;MARTINEZ;10°;Jorge William;Uso de sustancias prohibidas;Muy Grave;Pentiente
+574;CLELIA;ANAYA;11°;Luis Carlos;Fraude académico;Muy Grave;Resuelto
+575;ALDEMAR;ANDRADE;11°;Mario Gustavo;Fraude académico;Muy Grave;Resuelto
+576;PABLO;ORDOÑEZ;11°;Javier;Fraude académico;Muy Grave;Resuelto
+577;SANTIAGO;DUQUE;11°;Ramon;Fraude académico;Muy Grave;Resuelto
+578;ROY;BARRERAS;11°;Pedro Antonio;Fraude académico;Muy Grave;Resuelto
+579;LLANEDT;MARTINEZ;11°;Jesus Alberto;Uso indebido de tecnología;Muy Grave;Resuelto
+580;MARIA;URRUTIA;11°;Rodrigo;Uso indebido de tecnología;Muy Grave;Resuelto
+581;MARCO;SANCHEZ;11°;Jorge Mauricio;Uso indebido de tecnología;Muy Grave;Resuelto
+582;SANDRA;CASTAÑEDA;11°;Julio Cesar;Uso indebido de tecnología;Muy Grave;Resuelto
+583;ELISA;CADENA;11°;Justo Pastor;Uso indebido de tecnología;Muy Grave;Resuelto
+584;JONATHAN;DIAZ;9°;Carlos Jose;Faltas de respeto;Grave;Resuelto
+585;ROSARIO;NAVARRO;9°;Hernan Camilo;Faltas de respeto;Grave;Resuelto
+586;GERMAN;GIL;9°;Camilo Ernesto;Faltas de respeto;Grave;Resuelto
+587;ESTEBAN;HERNANDEZ;9°;William;Faltas de respeto;Grave;Resuelto
+588;DIANA;RODAS;9°;Cromwell Enrique;Faltas de respeto;Grave;Resuelto
+589;LUZ;ALARCON;9°;Aderson Aleximandro;Robo;Muy Grave;Pentiente
+590;INGRID;JIMENEZ;9°;Carlos Alberto;Robo;Muy Grave;Pentiente
+591;JAIME;CONTRERAS;9°;Omar Augusto;Robo;Muy Grave;Pentiente
+592;HERIBERTO;MUÑOZ;9°;Hugo Cesar;Robo;Muy Grave;Pentiente
+593;GORKY;CALDERON;9°;Nelson Augusto;Faltas de respeto;Grave;Resuelto
+594;ETHEL;ROJAS;9°;Fernando;Faltas de respeto;Grave;Resuelto
+595;LUISA;GIRALDO;9°;Miguel Angel;Faltas de respeto;Grave;Resuelto
+596;WILSON;VARGAS;9°;William;Faltas de respeto;Grave;Resuelto
+597;CARLOS;CHINCHILLA;10°;Cesar Julio;Fraude académico;Muy Grave;Resuelto
+598;CRISTIAN;BOHORQUEZ;11°;Cristian Mauricio;Fraude académico;Muy Grave;Resuelto
+599;MARIA;ACEVEDO;9°;Jairo;Fraude académico;Muy Grave;Resuelto
+600;CATALINA;ACEVEDO;9°;Joaquin;Ausencias injustificadas;Leve;Resuelto
+601;RUBEN;BARONA;9°;Carlos;Ausencias injustificadas;Leve;Resuelto
+602;CARLOS;RESTREPO;9°;Rodrigo;Ausencias injustificadas;Leve;Resuelto
+603;LUIS;;9°;Fabio Andres;Ausencias injustificadas;Leve;Resuelto
+604;FRANCISCO;ARIAS;9°;Fabian Alexis;Ausencias injustificadas;Leve;Resuelto
+605;WILLIAM;CALVACHE;9°;Alexander;Ausencias injustificadas;Leve;Resuelto
+606;CARMEN;PEREZ;9°;Paulino Jose;Violencia física ;Muy Grave;Pentiente
+607;EDILMA;MELO;9°;Andy Alexander;Violencia física ;Muy Grave;Pentiente
+608;JOSE;REY;9°;Juan Carlos;Violencia física ;Muy Grave;Pentiente
+609;ANDRES;OSORIO;9°;Eves;Violencia física ;Muy Grave;Pentiente
+610;DAGOBERTO;CASTRO;9°;Eldrin Eduardo;Violencia física ;Muy Grave;Pentiente
+611;JORGE;SARMIENTO;9°;Danilo Fabian;Violencia física ;Muy Grave;Pentiente
+612;ADRIANA;ROSALES;9°;Michael Jose;Acoso escolar;Grave;Pentiente
+613;MARCELA;MERCADO;9°;Luis Alberto;Acoso escolar;Grave;Pentiente
+614;DUMAR;FIGUEREDO;6°;Daniel Anibal;Acoso escolar;Grave;Pentiente
+615;JHON;LOPEZ;6°;Luis Antonio;Acoso escolar;Grave;Pentiente
+616;WILLIAM;VARGAS;6°;Jose Luis;Acoso escolar;Grave;Pentiente
+617;SERGIO;QUIÑONES;6°;Honer Fidencio;Acoso escolar;Grave;Pentiente
+618;JAIME;MORA;6°;Ricardo Arcadio;Robo ;Muy Grave;Resuelto
+619;RICARDO;MONTENEGRO;6°;Carlos Julio;Robo ;Muy Grave;Resuelto
+620;ALEXANDRA;ORTEGA;6°;Hector;Robo ;Muy Grave;Resuelto
+621;ALBERTO;RODRIGUEZ;6°;Nestor Jaime;Robo ;Muy Grave;Resuelto
+622;YONNY;FERNANDEZ;6°;Ivan Mauricio;Robo ;Muy Grave;Resuelto
+623;CLAUDIA;URIBE;6°;Marco Fidel;Robo ;Muy Grave;Resuelto
+624;GLORIA;FLOREZ;6°;John Alexander;Plagio o copia;Grave;Resuelto
+625;PAULA;LOPEZ;6°;Carlos Alfonso;Plagio o copia;Grave;Resuelto
+626;CESAR;TORRES;6°;Jhon James;Plagio o copia;Grave;Resuelto
+627;EDWARD;PEDREROS;6°;Herney De jesus;Plagio o copia;Grave;Pentiente
+628;ORIANA;GAVIRIA;6°;Pablo Jose;Plagio o copia;Grave;Pentiente
+629;GLORIA;VARGAS;6°;Enaldo Anibal;Plagio o copia;Grave;Pentiente
+630;CAMILO;SAAVEDRA;6°;Jorge Luis;Ausencias injustificadas;Leve;Pentiente
+631;CLARA;MONTILLA;6°;Orlando;Ausencias injustificadas;Leve;Pentiente
+632;LUZ;DURAN;6°;Carlos Arturo;Ausencias injustificadas;Leve;Pentiente
+633;OSCAR;PANTOJA;6°;Hector Roberto;Violencia física ;Muy Grave;Pentiente
+634;EDGAR;FUENTES;6°;Carlos Humberto;Violencia física ;Muy Grave;Pentiente
+635;BEATRIZ;GONZALEZ;6°;Jose Alonso;Violencia física ;Muy Grave;Pentiente
+636;ANA;OCHOA;6°;Dagoberto;Acoso escolar;Grave;Pentiente
+637;OSCAR;CALDERON;6°;Modesto;Acoso escolar;Grave;Pentiente
+638;OMAR;BASTIDAS;6°;Fabio Adalberto;Acoso escolar;Grave;Pentiente
+639;IRMA;MALLAMA;6°;Luis Carlos;Robo ;Muy Grave;Resuelto
+640;JULIAN;FERNANDEZ;6°;Raul Alberto;Robo ;Muy Grave;Resuelto
+641;KATTYA;BAQUERO;6°;Henry Francisco;Robo ;Muy Grave;Resuelto
+642;ANGI;VELASQUEZ;6°;Jairo Alonso;Plagio o copia;Grave;Resuelto
+643;PAULA;RAMIREZ;6°;Alonso De la trinida;Plagio o copia;Grave;Resuelto
+644;JUAN;MONTAÑA;6°;Cesar Alfonso;Plagio o copia;Grave;Resuelto
+645;ISMAEL;NAMEN;6°;Dario Enrique;Plagio o copia;Grave;Resuelto
+646;LAURA;QUINTERO;6°;Nestor Augusto;Plagio o copia;Grave;Resuelto
+647;GUSTAVO;GONZALEZ;6°;Jaime Antonio;Plagio o copia;Grave;Resuelto
+648;ARTURO;LUNA;6°;Efren;Acoso escolar;Grave;Resuelto
+649;JESUS;CUERVO;6°;Guillermo;Acoso escolar;Grave;Pentiente
+650;HENRY;VELASQUEZ;6°;Jose Alfredo;Acoso escolar;Grave;Pentiente
+651;ALEJANDRO;VILLANI;6°;Guillermo;Acoso escolar;Grave;Pentiente
+652;ANDRES;PENA;6°;Hugo Alfonso;Acoso escolar;Grave;Pentiente
+653;BEATRIZ;JIMENEZ;6°;Misael Antonio;Acoso escolar;Grave;Resuelto
+654;CLAUDIA;CRISTANCHO;6°;Fernando Antonio;Ausencias injustificadas;Leve;Resuelto
+655;NELSON;MUÑOZ;6°;Luis Fernando;Ausencias injustificadas;Leve;Resuelto
+656;MIGUEL;ROMERO;6°;Cesar Augusto;Ausencias injustificadas;Leve;Resuelto
+657;FLOR;RUEDA;6°;Ricardo;Ausencias injustificadas;Leve;Resuelto
+658;LAURA;GIL;6°;Hader;Robo ;Muy Grave;Resuelto
+659;ANA;MESA;6°;Jorge Augusto;Robo ;Muy Grave;Resuelto
+660;MARIA;GIL;7°;Alvaro Raul;Robo ;Muy Grave;Resuelto
+661;JAVIER;HERNANDEZ;7°;Jairo;Acoso escolar;Grave;Resuelto
+662;LEIDY;NEIRA;7°;Roman Ignacio;Acoso escolar;Grave;Resuelto
+663;LUZ;CUERVO;7°;Luis Alejandro;Acoso escolar;Grave;Resuelto
+664;LUISA;VASQUEZ;7°;Luis Mario;Acoso escolar;Grave;Resuelto
+665;LAURA;AHUMADA;7°;Jose Nelson;Acoso escolar;Grave;Resuelto
+666;MARIO;CARVAJAL;7°;Mauricio;Acoso escolar;Grave;Pentiente
+667;DAVID;OCHOA;7°;Jaime;Violencia física;Muy Grave;Pentiente
+668;JUAN;BETANCUR;7°;Jorge Hernan;Violencia física;Muy Grave;Pentiente
+669;MANUEL;RIAÑO;7°;Jaider De jesus;Violencia física;Muy Grave;Pentiente
+670;HARVING;ESPITIA;7°;Manuel Augusto;Violencia física;Muy Grave;Pentiente
+671;RODRIGO;HERNANDEZ;7°;Emiro;Violencia física;Muy Grave;Pentiente
+672;HENRY;USME;7°;Jairo Ignacio;Violencia física;Muy Grave;Pentiente
+673;LINA;FAJARDO;7°;Jose Daniel;Plagio o copia;Grave;Pentiente
+674;FELIPE;SANCHEZ;7°;Hans Aldo;Plagio o copia;Grave;Pentiente
+675;JUAN;JARAMILLO;7°;Jairo Rafael;Plagio o copia;Grave;Pentiente
+676;REINALDO;PRIETO;7°;Jaime Fernando;Plagio o copia;Grave;Pentiente
+677;SANDRA;BORRAEZ;7°;Jose Orlando;Plagio o copia;Grave;Pentiente
+678;CAMILO;ACHURY;7°;Juan Carlos;Plagio o copia;Grave;Resuelto
+679;RAFAEL;MUÑOZ;7°;Jose Antonio;Robo;Muy Grave;Resuelto
+680;FABIO;ANGEL;7°;Julio Cesar;Robo;Muy Grave;Resuelto
+681;MARIA;LOS;7°;Edgar;Robo;Muy Grave;Resuelto
+682;JOSE;BOCANEGRA;7°;Nelson De jesus;Robo;Muy Grave;Resuelto
+683;FERNEY;PADILLA;7°;Ricardo;Ausencias injustificadas;Leve;Resuelto
+684;SAIDA;PEÑA;7°;Hernando Enrique;Ausencias injustificadas;Leve;Resuelto
+685;SAMIR;ANGARITA;7°;Gustavo;Ausencias injustificadas;Leve;Resuelto
+686;CARLOS;CARO;7°;Luis Rafael;Ausencias injustificadas;Leve;Resuelto
+687;NELSON;CALDERÓN;7°;Daniel Fernando;Ausencias injustificadas;Leve;Pentiente
+688;SORIANA;RUIZ;7°;Marlon Alejandro;Ausencias injustificadas;Leve;Pentiente
+689;GERMAN;DONOSO;7°;Carlos Arturo;Acoso escolar;Grave;Pentiente
+690;OSMAR;ARIAS;7°;Harold;Acoso escolar;Grave;Pentiente
+691;CARLOS;ARANDA;8°;Francisco;Acoso escolar;Grave;Pentiente
+692;CLAUDIA;SALAZAR;8°;Carlos Eduardo;Faltas de respeto;Grave;Pentiente
+693;YESSIN;CAUSIL;8°;Carlos Alberto;Faltas de respeto;Grave;Pentiente
+694;JAIRO;JESUS;8°;Carlos Alberto;Faltas de respeto;Grave;Pentiente
+695;LUZ;MEJIA;8°;Rodrigo De jesus;Faltas de respeto;Grave;Pentiente
+696;PATRICIA;RESTREPO;8°;Luis Miguel;Faltas de respeto;Grave;Pentiente
+697;FELIX;CORDOBA;8°;Jairo;Faltas de respeto;Grave;Pentiente
+698;CONSTANZA;ALARCON;8°;Manuel Ernesto;Robo;Muy Grave;Pentiente
+699;CAROLINA;RUIZ;8°;Hector Julio;Robo;Muy Grave;Resuelto
+700;SANDRA;CIFUENTES;8°;Carlos William;Robo;Muy Grave;Resuelto
+701;BRAULIO;ESPINOSA;8°;Alejandro;Robo;Muy Grave;Resuelto
+702;JORGE;ELEJALDE;8°;Alejandro;Robo;Muy Grave;Resuelto
+703;RICARDO;GIRALDO;8°;Manuel Antonio;Robo;Muy Grave;Resuelto
+704;ABDUL;FATAT;8°;Luis Magen;Violencia física;Muy Grave;Resuelto
+705;LADY;CARDONA;8°;Carlos Alberto;Violencia física;Muy Grave;Resuelto
+706;CARLOS;CASSIANI;8°;Henry Ernesto;Violencia física;Muy Grave;Resuelto
+707;MIGUEL;ESCOBAR;8°;Manuel Mariano;Violencia física;Muy Grave;Resuelto
+708;CARLOS;RUIZ;8°;Edgar Luis;Violencia física;Muy Grave;Resuelto
+709;EZEQUIEL;VILLABONA;8°;Rosemberg;Violencia física;Muy Grave;Pentiente
+710;HERNAN;ALVAREZ;8°;Yaneira Isabel;Acoso escolar;Grave;Pentiente
+711;LUIS;SEGURA;8°;Derly Rocio;Acoso escolar;Grave;Pentiente
+712;YEYSON;PINEDA;8°;Alix Rubiela;Acoso escolar;Grave;Pentiente
+713;JOSE;GONZALEZ;8°;Elvia Isabel;Acoso escolar;Grave;Resuelto
+714;OSCAR;RAMIREZ;8°;Maria Mercedes;Acoso escolar;Grave;Resuelto
+715;EDITA;PIMIENTA;8°;Adelaida;Acoso escolar;Grave;Resuelto
+716;NOE;RODRÍGUEZ;8°;Vilma Asceneth;Faltas de respeto;Grave;Resuelto
+717;DIANA;CORCHO;8°;Miryam;Robo;Muy Grave;Resuelto
+718;MARIA;CARDONA;8°;Dora Emilia;Violencia física;Grave;Resuelto
+719;ZORAYA;DÍAZ;8°;Clara Ines;Acoso escolar;Grave;Resuelto
+720;EDWIN;MORENO;8°;Magda Mabel;Faltas de respeto;Grave;Resuelto
+721;JULIO;NOVOA;8°;Alba Rocio;Robo;Muy Grave;Resuelto
+722;GONZALO;JIMÉNEZ;9°;Maria Gloria;Violencia física;Muy Grave;Resuelto
+723;EDGAR;ARIAS;9°;Olga Lucia;Faltas de respeto;Grave;Resuelto
+724;JULIO;ACOSTA;9°;Yenni Paola;Faltas de respeto;Grave;Resuelto
+725;SAUL;GIRALDO;9°;Lida Maritza;Faltas de respeto;Grave;Resuelto
+726;JORGE;TORRES;9°;Myriam Stella;Faltas de respeto;Grave;Pentiente
+727;JOHN;DELGADO;9°;Alba Marina;Faltas de respeto;Grave;Pentiente
+728;CARLOS;RAMIREZ;9°;Odilia Mari;Faltas de respeto;Grave;Pentiente
+729;FRANCISCO;MEZA;9°;Guiomar;Violencia física;Muy Grave;Pentiente
+730;CARLOS;RUIZ;9°;Subley Maria;Violencia física;Muy Grave;Pentiente
+731;LAURENT;LOAIZA;9°;Luz Marina;Violencia física;Muy Grave;Pentiente
+732;JENNIFER;MOGOLLON;9°;Ana Angelica;Violencia física;Muy Grave;Pentiente
+733;SANDRO;BORDA;9°;Maria Resfa;Violencia física;Muy Grave;Pentiente
+734;LEANDRO;SARMIENTO;9°;Karin;Plagio o copia;Grave;Pentiente
+735;ERIKA;FALLA;9°;Sandra Patricia;Plagio o copia;Grave;Pentiente
+736;JOAQUIN;URREGO;9°;Gladis Omaira;Plagio o copia;Grave;Pentiente
+737;SANDRA;ACEVEDO;9°;Marleny;Plagio o copia;Grave;Pentiente
+738;MIGUEL;ROBLEDO;9°;Liliana Beatriz;Plagio o copia;Grave;Resuelto
+739;FELIPE;PUENTES;9°;Martha Luz;Plagio o copia;Grave;Resuelto
+740;GIOVANNI;RAMOS;9°;Evelsy Estrella;Robo;Muy Grave;Resuelto
+741;JULIANA;RESTREPO;9°;Marla Luz;Robo;Muy Grave;Resuelto
+742;ORLANDO;GONZALEZ;9°;Maribel;Robo;Muy Grave;Resuelto
+743;ALFREDO;ROJAS;9°;Paola;Robo;Muy Grave;Resuelto
+744;MARIO;MAHECHA;9°;Olga Lucia;Robo;Muy Grave;Resuelto
+745;MARÍA;LONDOÑO;9°;Tatiana Mercedes;Robo;Muy Grave;Resuelto
+746;MARTHA;TORRES;9°;Diana Isabel;Acoso escolar;Grave;Resuelto
+747;MARIA;ARELLANO;9°;Diana Patricia;Acoso escolar;Grave;Pentiente
+748;JULIAN;PRADA;9°;Claudia Paola;Acoso escolar;Grave;Pentiente
+749;LILIANA;GUACA;9°;Mayra Luz;Acoso escolar;Grave;Pentiente
+750;LUIS;ROSSO;9°;Angelica Maria;Acoso escolar;Grave;Pentiente
+751;CESAR;VALENCIA;9°;Piedad Johanna;Acoso escolar;Grave;Pentiente
+752;ANDRES;MUÑOZ;9°;Alba Del socorro;Acoso escolar;Grave;Pentiente
+753;NORA;BARTOLO;10°;Martha Isabel;Acoso escolar;Grave;Pentiente
+754;MANUEL;TABORDA;10°;Rosibel De jesus;Fraude académico;Muy Grave;Pentiente
+755;MARIA;AVELLANEDA;10°;Vanessa;Fraude académico;Muy Grave;Pentiente
+756;JAIRO;MARULANDA;10°;Maria Jose;Fraude académico;Muy Grave;Pentiente
+757;EDWIN;CHAPARRO;10°;Sthefany Liliana;Fraude académico;Muy Grave;Pentiente
+758;WILLIAM;MAYORGA;10°;Wendy Adabeiva;Fraude académico;Muy Grave;Pentiente
+759;ANDREA;REAL;10°;Candelaria De jesus;Fraude académico;Muy Grave;Resuelto
+760;MARIA;MONTOYA;10°;Carolina;Uso indebido de tecnología;Muy Grave;Resuelto
+761;MIGUEL;ARISTIZABAL;10°;Lizy;Uso indebido de tecnología;Muy Grave;Resuelto
+762;JOSE;ZAMORA;10°;Lilibelle;Uso indebido de tecnología;Muy Grave;Resuelto
+763;SANTAMARIA;RICARDO;10°;Marjorie;Uso indebido de tecnología;Muy Grave;Resuelto
+764;PLINIO;FORERO;10°;Betzy Mariglor;Uso indebido de tecnología;Muy Grave;Resuelto
+765;DANNY;ESCALANTE;10°;Luz Margarita;Uso indebido de tecnología;Muy Grave;Resuelto
+766;BRENDA;CORTES;10°;Carolina Maria;Daño en las instalaciones;Muy Grave;Resuelto
+767;JUAN;AGUDELO;10°;Katrina;Daño en las instalaciones;Muy Grave;Resuelto
+768;OSCAR;PERENGUEZ;10°;Yuraima;Daño en las instalaciones;Muy Grave;Resuelto
+769;ADALBERTO;DAVID;10°;Paola Maria;Daño en las instalaciones;Muy Grave;Resuelto
+770;ORLANDO;MEDINA;10°;Yulieth Del carmen;Daño en las instalaciones;Muy Grave;Resuelto
+771;KELLY;OLAYA;10°;Belia Esther;Daño en las instalaciones;Muy Grave;Resuelto
+772;MARTHA;GARCIA;10°;Tania Isabel;Violencia física ;Muy Grave;Resuelto
+773;RODRIGO;MARTÍNEZ;10°;Yulieth Estella;Violencia física ;Muy Grave;Resuelto
+774;ROSELIN;ROSALES;10°;Alma Lucia;Violencia física ;Muy Grave;Resuelto
+775;ELSA;MORALES;10°;Hermilda Rosa;Violencia física ;Muy Grave;Resuelto
+776;DIDIER;CHILITO;10°;Ligia;Violencia física ;Muy Grave;Resuelto
+777;TITO;LOVO;10°;Martha Cecilia;Violencia física ;Muy Grave;Resuelto
+778;HENRY;SAUREZ;10°;Martha Sofia;Robo;Muy Grave;Resuelto
+779;JOSE;CORDOBA;10°;Mariela;Robo;Muy Grave;Pentiente
+780;NIDIA;MARTINEZ;10°;Doris Nuvia;Robo;Muy Grave;Pentiente
+781;NESTOR;GUITARRERO;10°;Aminta Pahola;Robo;Muy Grave;Pentiente
+782;HERNAN;VARGAS;10°;Luz Esperanza;Faltas de respeto;Grave;Pentiente
+783;JOSE;RINCON;10°;Rocio Del pilar;Faltas de respeto;Grave;Pentiente
+784;JUAN;MOZO;11°;Beatriz Eugenia;Faltas de respeto;Grave;Pentiente
+785;CRISTIAN;SALAS;11°;Harmida;Uso de sustancias prohibidas;Muy Grave;Pentiente
+786;JAVIER;MEJIA;11°;Yamile;Uso de sustancias prohibidas;Muy Grave;Pentiente
+787;EDNA;MORA;11°;Nydia;Uso de sustancias prohibidas;Muy Grave;Pentiente
+788;JAIBER;BERMUDEZ;11°;Elva Mireya;Uso de sustancias prohibidas;Muy Grave;Pentiente
+789;LUIS;DONOSO;11°;Flor Marina;Uso de sustancias prohibidas;Muy Grave;Pentiente
+790;ANA;CANO;11°;Norma Patricia;Uso de sustancias prohibidas;Muy Grave;Pentiente
+791;CARMEN;MILLAN;11°;Nancy Milena;Robo;Muy Grave;Resuelto
+792;MANUEL;RUDAS;11°;Maria Deyamira;Robo;Muy Grave;Resuelto
+793;TITO;CRISSIEN;11°;Giovanna Andrea;Robo;Muy Grave;Resuelto
+794;DIEGO;LLANOS;11°;Yaqueline;Robo;Muy Grave;Resuelto
+795;MARIA;SOCORRO;11°;Aleida Maria;Robo;Muy Grave;Resuelto
+796;EFIGENIA;VEGA;11°;Blanca Yaneth;Robo;Muy Grave;Resuelto
+797;LAURA;DUARTE;11°;Linda Consuelo;Robo;Muy Grave;Resuelto
+798;CESAR;ALZATE;11°;Sonia Esperanza;Faltas de respeto;Grave;Resuelto
+799;CAROLINA;CANO;11°;Nubia Esperanza;Faltas de respeto;Grave;Resuelto
+800;IVAN;MESA;11°;Anna Kateryne;Faltas de respeto;Grave;Pentiente
+801;KARENT;MARTINEZ;11°;Gloria Isabel;Faltas de respeto;Grave;Pentiente
+802;MARIA;GRANADA;11°;Elvia;Faltas de respeto;Grave;Pentiente
+803;ANDRÉS;RIVADENEIRA;11°;Martha Cecilia;Faltas de respeto;Grave;Pentiente
+804;ELIANA;VELEZ;11°;Martha Lucia;Uso indebido de tecnología;Muy Grave;Pentiente
+805;MANUEL;GUTIERREZ;11°;Fanny;Uso indebido de tecnología;Muy Grave;Pentiente
+806;DIANA;PARRA;11°;Diana Patricia;Uso indebido de tecnología;Muy Grave;Pentiente
+807;IBIS;MONTALVO;11°;Rosalba;Uso indebido de tecnología;Muy Grave;Pentiente
+808;DIEGO;GARCIA;11°;Ana Elvira;Uso indebido de tecnología;Muy Grave;Pentiente
+809;NELSY;CHICANGANA;11°;Alicia;Uso indebido de tecnología;Muy Grave;Resuelto
+810;LUIS;CERON;11°;Maria Del consuelo;Fraude académico;Muy Grave;Resuelto
+811;JUAN;OVIEDO;11°;Mabel Del carmen;Fraude académico;Muy Grave;Resuelto
+812;LUIS;DIAZ;11°;Esperanza Blanca dil;Fraude académico;Muy Grave;Resuelto
+813;YOVANNY;DIAZ;11°;Lucrecia;Fraude académico;Muy Grave;Resuelto
+814;ALBERTO;MIRANDA;11°;Angelica Maria;Fraude académico;Muy Grave;Resuelto
+815;RAFAEL;RAMIREZ;6°;Lina Patricia;Fraude académico;Muy Grave;Resuelto
+816;GERMAN;JESUS;6°;Maria Victoria;Ausencias injustificadas;Leve;Resuelto
+817;WILMAR;JESÚS;6°;Paula Liliana;Acoso escolar;Grave;Resuelto
+818;FABIAN;GIRALDO;6°;Sandra Lorena;Plagio o copia;Grave;Resuelto
+819;OSCAR;CUENCA;6°;Bernardita;Ausencias injustificadas;Leve;Pentiente
+820;JUAN;VASQUEZ;6°;Deyanira;Ausencias injustificadas;Leve;Pentiente
+821;WANNER;SUÁREZ;7°;Luz Estella;Ausencias injustificadas;Leve;Pentiente
+822;CRISTOBAL;MAZO;7°;Elsa Gladys;Acoso escolar;Grave;Resuelto
+823;ALSILVER;MENDIETA;7°;Diana Marcela;Acoso escolar;Grave;Resuelto
+824;CARLOS;QUINTERO;7°;Sandra Milena;Acoso escolar;Grave;Resuelto
+825;LISANDRO;JUNCO;7°;Carolina;Violencia física;Muy Grave;Resuelto
+826;EDGAR;CRISTANCHO;7°;Luz Estella;Violencia física;Muy Grave;Resuelto
+827;EDGAR;HORMAZA;7°;Dora Ofelia;Violencia física;Muy Grave;Resuelto
+828;GUSTAVO;VARGAS;7°;Fabiola;Ausencias injustificadas;Leve;Resuelto
+829;ALIRIO;GONZALEZ;7°;Lina Maria;Ausencias injustificadas;Leve;Resuelto
+830;YANET;BERMUDEZ;8°;Claudia Nancy;Ausencias injustificadas;Leve;Resuelto
+831;CARLOS;GIRALDO;8°;Mery Cecilia;Faltas de respeto;Grave;Resuelto
+832;JUAN;RUSSY;8°;Gloria Deicy;Faltas de respeto;Grave;Resuelto
+833;CAMILO;ALMANZA;8°;Maria Elsa beatriz;Faltas de respeto;Grave;Resuelto
+834;CAROLINA;VELASQUEZ;8°;Julieta;Robo;Muy Grave;Resuelto
+835;SANTIAGO;VALENCIA;8°;Claudia Liliana;Robo;Muy Grave;Resuelto
+836;GLEYCI;VARGAS;8°;Angela Andrea;Robo;Muy Grave;Resuelto
+837;OSCAR;CALDERON;8°;Luz Edith;Violencia física;Muy Grave;Resuelto
+838;LEIDY;RICO;8°;Sonia Carmenza;Violencia física;Muy Grave;Resuelto
+839;WILLIAM;VASQUEZ;8°;Nidia Maria;Violencia física;Muy Grave;Resuelto
+840;MÓNICA;HERRERA;8°;Maria Alejandra;Acoso escolar;Grave;Pentiente
+841;VICTOR;SANDOVAL;8°;Maria Fernanda;Acoso escolar;Grave;Pentiente
+842;MARCO;CARDONA;8°;Claudia Patricia;Acoso escolar;Grave;Pentiente
+843;PAOLA;PARRA;8°;Viviana Eugenia;Plagio o copia;Grave;Pentiente
+844;SANDRA;ROYA;8°;Sandra Milena;Plagio o copia;Grave;Resuelto
+845;SORAYA;MONTOYA;8°;Aura Maria;Plagio o copia;Grave;Resuelto
+846;HERNANDO;PRADA;8°;Gina Paola;Plagio o copia;Grave;Resuelto
+847;MARLEN;GARZON;8°;Antonia;Faltas de respeto;Grave;Resuelto
+848;GERARDO;MONTENEGRO;8°;Adriana;Faltas de respeto;Grave;Resuelto
+849;CARLOS;VILLADA;8°;Leidy Milena;Faltas de respeto;Grave;Resuelto
+850;ISABEL;;8°;Mary Marlene;Robo;Muy Grave;Resuelto
+851;MARIA;ROSERO;8°;Tatiana Isabel;Robo;Muy Grave;Resuelto
+852;SANDRA;PRIETO;8°;Amparo Del carmen;Robo;Muy Grave;Resuelto
+853;ALVARO;GARZON;8°;Lorena Del carmen;Violencia física;Muy Grave;Resuelto
+854;CESAR;CARRILLO;8°;Elizabeth Margoth;Violencia física;Muy Grave;Resuelto
+855;JAIME;RESTREPO;8°;Amparo Isabel;Violencia física;Muy Grave;Resuelto
+856;DANIEL;ESTRADA;8°;Margarita Maria;Acoso escolar;Grave;Resuelto
+857;JOSE;PALMA;8°;Judith Rosina;Acoso escolar;Grave;Resuelto
+858;JUAN;BERNAL;8°;Cruz Elena;Acoso escolar;Grave;Resuelto
+859;DAYRON;LEON;6°;Bleyner;Acoso escolar;Grave;Pentiente
+860;LAURA;PABON;6°;Silvia Leonor;Ausencias injustificadas;Leve;Pentiente
+861;CLAUDIA;CARMEN;6°;Karine;Ausencias injustificadas;Leve;Pentiente
+862;MARÍA;MARTÍNEZ;6°;Magda Liliana;Ausencias injustificadas;Leve;Pentiente
+863;SOLANLLY;MORENO;6°;Odeth Cristina;Ausencias injustificadas;Leve;Pentiente
+864;BEATRIZ;ENCISO;6°;Ana Maria;Ausencias injustificadas;Leve;Pentiente
+865;OSCAR;SIZA;10°;Viviana Jazmin;Ausencias injustificadas;Leve;Resuelto
+866;CARLOS;POSADA;10°;Ivonne Rocio;Daño en las instalaciones;Muy Grave;Resuelto
+867;LAURA;JIMENEZ;10°;Lili Alejandra;Daño en las instalaciones;Muy Grave;Resuelto
+868;SANTIAGO;MONTOYA;10°;Ana Lucia;Daño en las instalaciones;Muy Grave;Resuelto
+869;JOSE;MARIN;10°;Monica Lisbeth;Daño en las instalaciones;Muy Grave;Resuelto
+870;KAREN;LEON;10°;Olga Sofia;Uso de sustancias prohibidas;Muy Grave;Resuelto
+871;MILLER;DIFREDY;10°;Carmen Amelia;Uso de sustancias prohibidas;Muy Grave;Resuelto
+872;CARMEN;VALDERRAMA;10°;Patricia Liliana;Uso de sustancias prohibidas;Muy Grave;Resuelto
+873;NERIO;ALVIS;11°;Leri Amanda;Uso de sustancias prohibidas;Muy Grave;Resuelto
+874;ANA;TRUJILLO;11°;Rubiela Amparo;Fraude académico;Muy Grave;Resuelto
+875;RAFAEL;DURAN;11°;Bertha Cecilia;Fraude académico;Muy Grave;Resuelto
+876;MENDOZA;MARIO;11°;Martha Cecilia;Fraude académico;Muy Grave;Resuelto
+877;JESUS;HERRERA;11°;Yaneth Rosario;Fraude académico;Muy Grave;Resuelto
+878;JENNY;OSORIO;11°;Margarita Addy carol;Fraude académico;Muy Grave;Pentiente
+879;ALBEIRO;NOVOA;11°;Ana Lucia;Uso indebido de tecnología;Muy Grave;Resuelto
+880;NUBIA;WILCHES;11°;Ana Beatriz;Uso indebido de tecnología;Muy Grave;Resuelto
+881;YOHANY;MARTINEZ;11°;Alina Maria;Uso indebido de tecnología;Muy Grave;Resuelto
+882;OSCAR;JESUS;11°;Sandra Liliana;Uso indebido de tecnología;Muy Grave;Pentiente
+883;CARLOS;YARA;9°;Flor Maria;Uso indebido de tecnología;Muy Grave;Resuelto
+884;JOSE;ROMERO;9°;Jessyca Melody;Faltas de respeto;Grave;Resuelto
+885;NELLY;PARDO;9°;Gloria Nelly;Faltas de respeto;Grave;Resuelto
+886;JOHNATAN;HERNANDEZ;9°;Adriana Paola;Faltas de respeto;Grave;Resuelto
+887;CATALINA;ARBOLEDA;9°;Constanza;Faltas de respeto;Grave;Resuelto
+888;JOSE;CASTRO;9°;Diana Alejandra;Faltas de respeto;Grave;Resuelto
+889;FREDY;FONSECA;9°;Erika Milena;Robo;Muy Grave;Resuelto
+890;HERNAN;ALVAREZ;9°;Mery Constanza;Robo;Muy Grave;Resuelto
+891;NOHORA;SANCHEZ;9°;Gina Marcela;Robo;Muy Grave;Resuelto
+892;LUIS;PEREZ;9°;Kathalina Maria;Robo;Muy Grave;Resuelto
+893;ARVEY;ACOSTA;9°;Irma;Faltas de respeto;Grave;Resuelto
+894;CARMEN;GUTIERREZ;9°;Ana Josefa;Faltas de respeto;Grave;Resuelto
+895;ALVARO;MIRANDA;9°;Jacqueline;Faltas de respeto;Grave;Resuelto
+896;LEONARDO;CASTILLO;10°;Flor Ibel;Faltas de respeto;Grave;Resuelto
+897;EMILIO;HERNANDEZ;11°;Yanira;Fraude académico;Muy Grave;Resuelto
+898;YHINA;LOMBANA;9°;Olga Catalina;Fraude académico;Muy Grave;Resuelto
+899;ANYI;BARRERA;9°;Marisol;Ausencias injustificadas;Leve;Resuelto
+900;MAURICIO;CARMONA;9°;Martha Lucia;Ausencias injustificadas;Leve;Resuelto
+901;ANDRES;MORA;9°;Rosmery;Ausencias injustificadas;Leve;Pentiente
+902;MARIA;MORENO;9°;Laura Esperanza;Ausencias injustificadas;Leve;Pentiente
+903;MIGUEL;GOMEZ;9°;Luz Marina;Ausencias injustificadas;Leve;Pentiente
+904;ALEXANDER;MEDINA;9°;Fabiola;Ausencias injustificadas;Leve;Pentiente
+905;FERNANDO;SALGADO;9°;Edith Esther;Violencia física ;Muy Grave;Pentiente
+906;ELICERIO;PASCUAS;9°;Martha Liliana;Violencia física ;Muy Grave;Pentiente
+907;CESAR;FRANCO;9°;Mariel Yowanna;Violencia física ;Muy Grave;Resuelto
+908;JULIO;GOMEZ;9°;Claudia Liliana;Violencia física ;Muy Grave;Resuelto
+909;EDY;PATIÑO;9°;Sara Esther;Violencia física ;Muy Grave;Resuelto
+910;CARLOS;HURTADO;9°;Suyi Patricia;Violencia física ;Muy Grave;Resuelto
+911;GERARDO;BUCHELLI;9°;Diana Lorena;Acoso escolar;Grave;Resuelto
+912;NORA;BARTOLO;9°;Martha Ines;Acoso escolar;Grave;Resuelto
+913;CESAR;;6°;Diana;Acoso escolar;Grave;Resuelto
+914;GINA;GOMEZ;6°;Giovanny;Acoso escolar;Grave;Resuelto
+915;MARIBEL;HERNANDEZ;6°;Gloria Emilce;Acoso escolar;Grave;Pentiente
+916;ANA;TORRES;6°;Monica Maria;Acoso escolar;Grave;Pentiente
+917;HUBERTO;VÁSQUEZ;6°;Gloria Patricia;Robo ;Muy Grave;Pentiente
+918;HUGO;CASANOVA;6°;Catalina;Robo ;Muy Grave;Pentiente
+919;JUAN;ORTEGA;6°;Yohana;Robo ;Muy Grave;Pentiente
+920;ANDRES;PARRA;6°;Diana Marcela;Robo ;Muy Grave;Pentiente
+921;ROJAS;NELLY;6°;Nelly Maritza;Robo ;Muy Grave;Pentiente
+922;ANA;CARVAJAL;6°;Catalina;Robo ;Muy Grave;Pentiente
+923;ANGELA;SARMIENTO;6°;Sandra Patricia;Plagio o copia;Muy Grave;Pentiente
+924;LAURA;VANEGAS;6°;Natalia Andrea;Plagio o copia;Muy Grave;Pentiente
+925;NICOLAS;NAMEN;6°;Ana Milena;Plagio o copia;Muy Grave;Pentiente
+926;ELEAZAR;HERNANDEZ;6°;Diana Carolina;Plagio o copia;Muy Grave;Pentiente
+927;LIGIA;ARANA;6°;Lina Clemencia;Plagio o copia;Muy Grave;Pentiente
+928;NILSON;OROZCO;6°;Maria Del rosario;Plagio o copia;Muy Grave;Pentiente
+929;MILAYEV;RODRIGUEZ;6°;Luz Stella;Ausencias injustificadas;Leve;Pentiente
+930;HECTOR;HERNANDEZ;6°;Olga Myriam;Ausencias injustificadas;Leve;Pentiente
+931;CARLOS;FRASSER;6°;Gloria Ines;Ausencias injustificadas;Leve;Pentiente
+932;MARIA;FRANCO;6°;Martha Lucia;Violencia física ;Muy Grave;Pentiente
+933;ALVARO;DOMINGUEZ;6°;Sandra Elizabeth;Violencia física ;Muy Grave;Resuelto
+934;MARTHA;RAMIREZ;6°;Gloria Del socorro;Violencia física ;Muy Grave;Resuelto
+935;MARIA;SUAREZ;6°;Diana Maria;Acoso escolar;Grave;Resuelto
+936;JORGE;DAZA;6°;Martha Lucia;Acoso escolar;Grave;Resuelto
+937;LEONARDO;GALVIS;6°;Sandra Yaneth;Acoso escolar;Grave;Resuelto
+938;OSCAR;PINILLA;6°;Francy Jehin;Robo ;Muy Grave;Resuelto
+939;MARIA;SOCORRO;6°;Celina;Robo ;Muy Grave;Pentiente
+940;JORGE;RAMOS;6°;Sandra Maria;Robo ;Muy Grave;Pentiente
+941;AMALIA;CARMEN;6°;Carolina;Plagio o copia;Muy Grave;Pentiente
+942;GUILLERMO;VALENCIA;6°;Lina Constanza;Plagio o copia;Muy Grave;Pentiente
+943;LUZ;DUQUE;6°;Luz Adriana;Plagio o copia;Muy Grave;Resuelto
+944;HERIBERTO;MEJIA;6°;Vilma Ofelia;Plagio o copia;Muy Grave;Resuelto
+945;JUAN;NOVOA;6°;Claudia Patricia;Plagio o copia;Muy Grave;Resuelto
+946;LUZ;MOYANO;6°;Alma Beatriz;Plagio o copia;Muy Grave;Resuelto
+947;MONICA;AVELLANEDA;6°;Seneida Del carmen;Acoso escolar;Grave;Resuelto
+948;OMAR;ESPINOSA;6°;Yudis Ferneis;Acoso escolar;Grave;Resuelto
+949;ALVARO;CORDOBA;6°;Diana Carolina;Acoso escolar;Grave;Resuelto
+950;CLAUDIA;CARMEN;6°;Yolanda Del socorro;Acoso escolar;Grave;Resuelto
+951;ELSA;NOGUERA;6°;Blanca Alicia;Acoso escolar;Grave;Resuelto
+952;JAIRO;DE;6°;Vilma Zoraida;Acoso escolar;Grave;Pentiente
+953;MARIA;AVELLANEDA;6°;Maria Eugenia;Ausencias injustificadas;Leve;Pentiente
+954;INGRID;MONTEALEGRE;6°;Alma Rocio;Ausencias injustificadas;Leve;Pentiente
+955;ELKIN;ROMERO;6°;Luz Myrian;Ausencias injustificadas;Leve;Pentiente
+956;SANDRA;ROJAS;6°;Dora Liliana;Ausencias injustificadas;Leve;Pentiente
+957;OCTAVIO;JESUS;6°;Rosibeth Del rosario;Robo ;Muy Grave;Pentiente
+958;MONICA;LOPEZ;6°;Rocio;Robo ;Muy Grave;Pentiente
+959;MARIA;LARA;7°;Aura Julia;Robo ;Muy Grave;Resuelto
+960;LUIS;FLOREZ;7°;Olga Patricia;Acoso escolar;Grave;Resuelto
+961;ADRIANA;VASQUEZ;7°;Ana Patricia;Acoso escolar;Grave;Resuelto
+962;GINA;HERRERA;7°;Gloria Beatriz;Acoso escolar;Grave;Resuelto
+963;ERIKA;RAMIREZ;7°;Rosa Elena;Acoso escolar;Grave;Resuelto
+964;LAURA;MOJICA;7°;Liliana Del rosario;Acoso escolar;Grave;Resuelto
+965;ADOLFO;ZARATE;7°;Rosa Eugenia;Acoso escolar;Grave;Pentiente
+966;JORGE;CARBONELL;7°;Aida Elena;Violencia física;Muy Grave;Pentiente
+967;GUSTAVO;MARTINEZ;7°;Elva Angela;Violencia física;Muy Grave;Pentiente
+968;CARLOS;BERDUGO;7°;Ruth Silvana;Violencia física;Muy Grave;Pentiente
+969;JORGE;MEJIA;7°;Nelly Eugenia;Violencia física;Muy Grave;Pentiente
+970;FRANCIA;MORALES;7°;Norha Cristina;Violencia física;Muy Grave;Pentiente
+971;ALONSO;GALLO;7°;Yaqueline Del carmen;Violencia física;Muy Grave;Pentiente
+972;LUIS;ZAPATA;7°;Lesly Yohana;Plagio o copia;Muy Grave;Pentiente
+973;EDUARDO;FRANCO;7°;Luz Stella;Plagio o copia;Muy Grave;Pentiente
+974;NICOLAS;DE;7°;Nelida;Plagio o copia;Muy Grave;Pentiente
+975;BERNARDO;POSSE;7°;Maria Cecilia;Plagio o copia;Muy Grave;Pentiente
+976;VIRNA;JOHNSON;7°;Alba Irene;Plagio o copia;Muy Grave;Pentiente
+977;CARLOS;REYES;7°;Leda Maria;Plagio o copia;Muy Grave;Resuelto
+978;ELIZABETH;SANDOVAL;7°;Erika Johanna;Robo;Muy Grave;Resuelto
+979;WALTER;TORO;7°;Claudia Lorena;Robo;Muy Grave;Resuelto
+980;CARLOS;GAVIRIA;7°;Yicela;Robo;Muy Grave;Resuelto
+981;JOSE;SERNA;7°;Veronica;Robo;Muy Grave;Resuelto
+982;CARLOS;PEREZ;7°;Aliz Johana;Ausencias injustificadas;Leve;Resuelto
+983;LAURA;HERNANDEZ;7°;Gloria Virginia;Ausencias injustificadas;Leve;Resuelto
+984;JORGE;RAMIREZ;7°;Maria Elena;Ausencias injustificadas;Leve;Resuelto
+985;YONNY;DELGADO;7°;Lilia Estela;Ausencias injustificadas;Leve;Resuelto
+986;FRANCY;;7°;Aura Lucero;Ausencias injustificadas;Leve;Resuelto
+987;CARLOS;OROZCO;7°;Mailde;Ausencias injustificadas;Leve;Resuelto
+988;MARÍA;PILAR;7°;Luz Dary;Acoso escolar;Grave;Resuelto
+989;VIVIAN;RODRIGUEZ;7°;Gloria Edith;Acoso escolar;Grave;Resuelto
+990;RAFAEL;DURAN;8°;Patricia;Acoso escolar;Grave;Resuelto
+991;RODOLFO;HERNANDEZ;8°;Elcy;Faltas de respeto;Grave;Resuelto
+992;HEIDY;NIETO;8°;Vilma Edith;Faltas de respeto;Grave;Resuelto
+993;DANILO;BARON;8°;Adalgiza;Faltas de respeto;Grave;Resuelto
+994;LEONARDO;SIAGAMA;8°;Adriana;Faltas de respeto;Grave;Resuelto
+995;JOSE;SANCHEZ;8°;Rosmira;Faltas de respeto;Grave;Pentiente
+996;JORGE;PACHECO;8°;Maria Lucenia;Faltas de respeto;Grave;Pentiente
+997;DILIA;ARAGON;8°;Diana Patricia;Robo;Muy Grave;Pentiente
+998;ASTRID;HERRERA;8°;Noralba;Robo;Muy Grave;Resuelto
+999;ARMANDO;JESUS;8°;Liliana;Robo;Muy Grave;Resuelto
+1000;SALLY;MAHECHA;8°;Angela Lucia;Robo;Muy Grave;Resuelto
+1001;EDILSON;SILVA;8°;Carmen Lucia;Robo;Muy Grave;Resuelto
+1002;JOHN;;8°;Jeny Andrea;Robo;Muy Grave;Resuelto
+1003;JORGE;OSORIO;8°;Natalia;Violencia física;Muy Grave;Resuelto
+1004;EDUARDO;GONZALEZ;8°;Donna Samanda;Violencia física;Muy Grave;Resuelto
+1005;YANNETH;HOLGUIN;8°;Lina Maria;Violencia física;Muy Grave;Resuelto
+1006;CRIS;RAMOS;8°;Viviana Patricia;Violencia física;Muy Grave;Resuelto
+1007;MARIA;BELTRÁN;8°;Sandra Patricia;Violencia física;Muy Grave;Resuelto
+1008;ALVARO;ORDUÑA;8°;Lina Marcela;Violencia física;Muy Grave;Resuelto
+1009;YANETH;BARRANCO;8°;Shirley;Acoso escolar;Grave;Resuelto
+1010;ESPERANZA;SIERRA;8°;Irene Amparo;Acoso escolar;Grave;Resuelto
+1011;ANDRES;GOMEZ;8°;Diana Lucia;Acoso escolar;Grave;Pentiente
+1012;YENNY;ALVARADO;8°;Estela Maria;Acoso escolar;Grave;Pentiente
+1013;FABIAN;BETANCUR;8°;Erica Luz;Acoso escolar;Grave;Pentiente
+1014;SEBASTIAN;ZAPATA;8°;Yolanda;Acoso escolar;Grave;Resuelto
+1015;LAURA;MORALES;8°;Miryam Isabel;Faltas de respeto;Grave;Resuelto
+1016;CESAR;FLOREZ;8°;Sara Isabel;Robo;Muy Grave;Resuelto
+1017;REINALDO;BELTRAN;8°;Xiomara Luz;Violencia física;Muy Grave;Resuelto
+1018;WILMAR;OROZCO;8°;Martha Claudia merced;Acoso escolar;Grave;Resuelto
+1019;DIANA;HENAO;8°;Rita Antonia;Faltas de respeto;Grave;Resuelto
+1020;ANTONIO;PEREZ;8°;Vivian Mercedes;Robo;Muy Grave;Resuelto
+1021;PAULA;LOAIZA;9°;Cielo Del carmen;Violencia física;Muy Grave;Resuelto
+1022;CARLOS;RINCON;9°;Floralba;Faltas de respeto;Grave;Resuelto
+1023;ELIANA;GIRALDO;9°;Emma Doris;Faltas de respeto;Grave;Resuelto
+1024;FERNANDO;GOMEZ;9°;Maria De la paz;Faltas de respeto;Grave;Resuelto
+1025;CARLOS;CORREA;9°;Beatriz Elena;Faltas de respeto;Grave;Resuelto
+1026;SERGIO;IBARRA;9°;Melida Esther;Faltas de respeto;Grave;Resuelto
+1027;JAIME;SALAZAR;9°;Rosa Del carmen;Faltas de respeto;Grave;Pentiente
+1028;JOSE;MANRIQUE;9°;Pilar Del rosario;Violencia física;Muy Grave;Pentiente
+1029;SANDRA;ROYA;9°;Mady Janeth;Violencia física;Muy Grave;Pentiente
+1030;ALEXANDRA;;9°;Tatiana Del carmen;Violencia física;Muy Grave;Pentiente
+1031;JAIRO;MEJIA;9°;Zoraida Esther;Violencia física;Muy Grave;Pentiente
+1032;MAGDA;REYES;9°;Ledis Esther;Violencia física;Muy Grave;Pentiente
+1033;GLORIA;TORRES;9°;Carmen Elisa;Plagio o copia;Muy Grave;Pentiente
+1034;JORGE;VANEGAS;9°;Judith Esther;Plagio o copia;Muy Grave;Pentiente
+1035;DAIRO;GOMEZ;9°;Patricia Eugenia;Plagio o copia;Muy Grave;Resuelto
+1036;CARLOS;QUEVEDO;9°;Luz Estela;Plagio o copia;Muy Grave;Resuelto
+1037;SANDRA;CIENDUA;9°;Yasmini Maria;Plagio o copia;Muy Grave;Resuelto
+1038;GERMÁN;BERMÚDEZ;9°;Ingrid Isabel;Plagio o copia;Muy Grave;Resuelto
+1039;FRANCISCO;CHAUX;9°;Claudia Patricia;Robo;Muy Grave;Resuelto
+1040;SANDRA;ACOSTA;9°;Tatiana;Robo;Muy Grave;Resuelto
+1041;CLARA;LOVERA;9°;Claudia Patricia;Robo;Muy Grave;Resuelto
+1042;NANCY;PARDO;9°;Martha Lucia;Robo;Muy Grave;Resuelto
+1043;FABIAN;ESCUDERO;9°;Margarita Isabel;Robo;Muy Grave;Resuelto
+1044;SANDRA;CASTRO;9°;Isabel Paola;Robo;Muy Grave;Resuelto
+1045;GLORIA;FLOREZ;9°;Julieta;Acoso escolar;Grave;Resuelto
+1046;ANDREA;SALDARRIAGA;9°;Ludgarda;Acoso escolar;Grave;Resuelto
+1047;HERNANDO;HENRIQUEZ;9°;Maria Del pilar;Acoso escolar;Grave;Resuelto
+1048;JUAN;CUADROS;9°;Mayda Del carmen;Acoso escolar;Grave;Resuelto
+1049;ERLES;ESPINOSA;9°;Leadith Maria;Acoso escolar;Grave;Resuelto
+1050;JENNIFER;ROSARIO;9°;Ingrid Catherine;Acoso escolar;Grave;Pentiente
+1051;HUGO;PEREZ;9°;Maria Claudia;Acoso escolar;Grave;Pentiente
+1052;MARISELA;PEREZ;10°;Karen Cecilia;Acoso escolar;Grave;Pentiente
+1053;GUILLERMO;MUÑOZ;10°;Margarita Rosa;Fraude académico;Muy Grave;Pentiente
+1054;JUAN;GIL;10°;Adriana Margarita;Fraude académico;Muy Grave;Resuelto
+1055;LUIS;SIERRA;10°;Margarita Rosa;Fraude académico;Muy Grave;Resuelto
+1056;JUAN;BOTERO;10°;Yanet;Fraude académico;Muy Grave;Resuelto
+1057;YUDY;PULGARIN;10°;Jimy Estella;Fraude académico;Muy Grave;Resuelto
+1058;JORGE;MENDOZA;10°;Maribel Luz;Fraude académico;Muy Grave;Resuelto
+1059;ENRIQUE;LÓPEZ;10°;Junne De jesus;Uso indebido de tecnología;Muy Grave;Resuelto
+1060;DIANA;CASTAÑEDA;10°;Marla Judith;Uso indebido de tecnología;Muy Grave;Resuelto
+1061;JUDITH;RAMOS;10°;Maryoly Paola;Uso indebido de tecnología;Muy Grave;Resuelto
+1062;CARLOS;VANEGAS;10°;Claudia Patricia;Uso indebido de tecnología;Muy Grave;Resuelto
+1063;ERICK;ROMERO;10°;Ruby Margoth;Uso indebido de tecnología;Muy Grave;Resuelto
+1064;ANDRES;DIAZ;10°;Ana Gabriela;Uso indebido de tecnología;Muy Grave;Resuelto
+1065;ROCIO;PILAR;10°;Marina;Daño en las instalaciones;Muy Grave;Resuelto
+1066;FERNANDO;GONZALEZ;10°;Laura Virginia;Daño en las instalaciones;Muy Grave;Resuelto
+1067;JENNY;RUÍZ;10°;Ledys Maria;Daño en las instalaciones;Muy Grave;Resuelto
+1068;JOHANNA;DIAZ;10°;Eline Mercedes;Daño en las instalaciones;Muy Grave;Resuelto
+1069;MARIA;PEREZ;10°;Dilma Del carmen;Daño en las instalaciones;Muy Grave;Resuelto
+1070;ROLANDO;MANTILLA;10°;Lucy Elena;Daño en las instalaciones;Muy Grave;Resuelto
+1071;RENE;ROMERO;10°;Teresa De jesus;Violencia física ;Muy Grave;Resuelto
+1072;ADRIANA;ROMERO;10°;Nohora Helena;Violencia física ;Muy Grave;Resuelto
+1073;MARIA;DELGADO;10°;Josefina;Violencia física ;Muy Grave;Resuelto
+1074;GUSTAVO;CAMACHO;10°;Nolys Alicia;Violencia física ;Muy Grave;Resuelto
+1075;YENNY;SABOGAL;10°;Maria Teresa;Violencia física ;Muy Grave;Resuelto
+1076;JOSE;OSPINA;10°;Paola Rocio;Violencia física ;Muy Grave;Resuelto
+1077;EDA;ROYS;10°;Pilinlorena;Robo;Muy Grave;Resuelto
+1078;MARCIAL;GRUESO;10°;Sandra Ximena;Robo;Muy Grave;Pentiente
+1079;MARTHA;OSPINA;10°;Diana Carolina;Robo;Muy Grave;Pentiente
+1080;GABRIEL;PARRA;10°;Doris Elena;Robo;Muy Grave;Pentiente
+1081;ISMARE;SANCHEZ;10°;Ginna Paola;Faltas de respeto;Grave;Pentiente
+1082;JORGE;ORTEGA;10°;Sandra Milena;Faltas de respeto;Grave;Pentiente
+1083;CAMILA;ROJAS;11°;Diana Isabel;Faltas de respeto;Grave;Pentiente
+1084;NEMESIO;ROYS;11°;Luz Alba;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1085;DANIEL;SALAZAR;11°;Ariadna Raquel;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1086;FABIÁN;CAICEDO;11°;Mayra Alejandra;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1087;ERIKA;ZAPATA;11°;Fanny Alejandra;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1088;MARCO;VERA;11°;Maria Fernanda;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1089;HECTOR;GALEANO;11°;Evelyn Sofia;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1090;MARIO;ANAMA;11°;Nubia Esperanza;Robo;Muy Grave;Resuelto
+1091;JORGE;PALACIO;11°;Natalia Andrea;Robo;Muy Grave;Resuelto
+1092;DANIEL;VALLEJO;11°;Maria Jimena;Robo;Muy Grave;Resuelto
+1093;GIOVANNA;REY;11°;Luz Adriana;Robo;Muy Grave;Resuelto
+1094;CARLOS;BAENA;11°;Sandra Milena;Robo;Muy Grave;Resuelto
+1095;MARLON;AGUILAR;11°;Andrea Carolina;Robo;Muy Grave;Resuelto
+1096;MARITZA;CASTRO;11°;Diana Carolina;Robo;Muy Grave;Resuelto
+1097;JULIETA;DE;11°;Paola Andrea;Faltas de respeto;Grave;Resuelto
+1098;FLOR;MARIN;11°;Diana Marcela;Faltas de respeto;Grave;Resuelto
+1099;JOSE;JESUS;11°;Gala Maria;Faltas de respeto;Grave;Pentiente
+1100;LILY;LEVY;11°;Ingrid;Faltas de respeto;Grave;Pentiente
+1101;ALFREDO;AYALA;11°;Carmen Socorro;Faltas de respeto;Grave;Pentiente
+1102;MYRIAM;MELO;11°;Gloria Stella;Faltas de respeto;Grave;Pentiente
+1103;ANGELA;JARAMILLO;11°;Nancy;Uso indebido de tecnología;Muy Grave;Pentiente
+1104;YANETH;CARABALLO;11°;Melida Ruth;Uso indebido de tecnología;Muy Grave;Pentiente
+1105;NATHALIA;GIL;11°;Martha Lucia;Uso indebido de tecnología;Muy Grave;Pentiente
+1106;LUZ;RIVERA;11°;Marcela;Uso indebido de tecnología;Muy Grave;Pentiente
+1107;ZORAIDA;CHALELA;11°;Martha Lucia;Uso indebido de tecnología;Muy Grave;Pentiente
+1108;EDUARDO;FRANCO;11°;Gloria Ines;Uso indebido de tecnología;Muy Grave;Resuelto
+1109;MARIO;PARDO;11°;Fabiola Lucero;Fraude académico;Muy Grave;Resuelto
+1110;ANA;CASAS;11°;Jannet Lorena;Fraude académico;Muy Grave;Resuelto
+1111;AURORA;FIGUEROA;11°;Liliana Margot;Fraude académico;Muy Grave;Resuelto
+1112;WALTER;BUSTAMANTE;11°;Roxana;Fraude académico;Muy Grave;Resuelto
+1113;DIANA;MEZA;11°;Betty Leonarda;Fraude académico;Muy Grave;Resuelto
+1114;JOSE;ROSALES;6°;Adriana;Fraude académico;Muy Grave;Resuelto
+1115;BRASILIA;SINISTERRA;6°;Andrea Maria;Ausencias injustificadas;Leve;Resuelto
+1116;JUAN;CARDENAS;6°;Elsa Geduy;Acoso escolar;Grave;Resuelto
+1117;JOSE;ALONSO;6°;Nancy Esperanza;Plagio o copia;Muy Grave;Resuelto
+1118;WILMER;SALAZAR;6°;Rosa Maria;Ausencias injustificadas;Leve;Pentiente
+1119;ANDRI;OSORIO;6°;Sandra Ines;Ausencias injustificadas;Leve;Pentiente
+1120;ALVARO;CHARRY;7°;Maria Fernanda;Ausencias injustificadas;Leve;Pentiente
+1121;RUBIELA;GONZALEZ;7°;Claudia Patricia;Acoso escolar;Grave;Resuelto
+1122;MARIANGELA;BLANCO;7°;Ana Sofia;Acoso escolar;Grave;Resuelto
+1123;LINA;ALFONSO;7°;Lizbet Adriana;Acoso escolar;Grave;Resuelto
+1124;JOSE;GONZALEZ;7°;Elsa Yasmin;Violencia física;Muy Grave;Resuelto
+1125;CRISPIN;JESUS;7°;Nataly;Violencia física;Muy Grave;Resuelto
+1126;JANER;GALVAN;7°;Luz Marina;Violencia física;Muy Grave;Resuelto
+1127;GINA;PEREZ;7°;Maria Andrea;Ausencias injustificadas;Leve;Resuelto
+1128;NIDIA;PUENTES;7°;Marisol;Ausencias injustificadas;Leve;Resuelto
+1129;JUAN;SALDARRIAGA;8°;Yissela Del carmen;Ausencias injustificadas;Leve;Resuelto
+1130;CARLOS;SERRANO;8°;Clara;Faltas de respeto;Grave;Resuelto
+1131;CLAUDIA;DIAZ;8°;Lila Del rosario;Faltas de respeto;Grave;Resuelto
+1132;ADRIANA;CHILD;8°;Stella Del rosario;Faltas de respeto;Grave;Resuelto
+1133;YENNY;SANCHEZ;8°;Martha Ligia;Robo;Muy Grave;Resuelto
+1134;MONICA;MARITZA;8°;Debora Isabel;Robo;Muy Grave;Resuelto
+1135;JASBLLEIDY;GARCÍA;8°;Nora Cristina;Robo;Muy Grave;Resuelto
+1136;JAIRO;BUSTAMANTE;8°;Omaris Susana;Violencia física;Muy Grave;Resuelto
+1137;GUSTAVO;VELEZ;8°;Irina Paola;Violencia física;Muy Grave;Resuelto
+1138;SANDRA;OVALLE;8°;Diana Mireya;Violencia física;Muy Grave;Resuelto
+1139;EDGAR;GOMEZ;8°;Helena Del rocio;Acoso escolar;Grave;Pentiente
+1140;CARLOS;BARROS;8°;Yina Marcela;Acoso escolar;Grave;Pentiente
+1141;JORGE;ARCINIEGAS;8°;Flor Angela;Acoso escolar;Grave;Pentiente
+1142;RAFAEL;ARANGUREN;8°;Yolanda;Plagio o copia;Muy Grave;Pentiente
+1143;JOSE;AZA;8°;Maria Eugenia;Plagio o copia;Muy Grave;Resuelto
+1144;MARTHA;PALACIOS;8°;Maria Elena;Plagio o copia;Muy Grave;Resuelto
+1145;DAVID;GUERRERO;8°;Luz Daly;Plagio o copia;Muy Grave;Resuelto
+1146;YURI;GUATAPI;8°;Sonya Esmeralda;Faltas de respeto;Grave;Resuelto
+1147;CARLOS;MARIN;8°;Maria Emilia;Faltas de respeto;Grave;Resuelto
+1148;CLARA;MONTILLA;8°;Ana Joaquina;Faltas de respeto;Grave;Resuelto
+1149;CAROLINA;RINCÓN;8°;Martha Lucia;Robo;Muy Grave;Resuelto
+1150;WILFREDO;RODRIGUEZ;8°;Maria Claudia;Robo;Muy Grave;Resuelto
+1151;JOSE;GONZALEZ;8°;Lilia;Robo;Muy Grave;Resuelto
+1152;CARLOS;DÍAZ;8°;Nancy;Violencia física;Muy Grave;Resuelto
+1153;YAIR;PRETEL;8°;Navet Del carmen;Violencia física;Muy Grave;Resuelto
+1154;EDUARDO;ROBLES;8°;Narda Rocio;Violencia física;Muy Grave;Resuelto
+1155;NOHORA;SANCHEZ;8°;Yahayra;Acoso escolar;Grave;Resuelto
+1156;ÁNGELA;CORTÉS;8°;Cruz Viviana;Acoso escolar;Grave;Resuelto
+1157;MARIA;MAR;8°;Lorleidy;Acoso escolar;Grave;Resuelto
+1158;JUAN;SOTO;6°;Suky Del carmen;Acoso escolar;Grave;Pentiente
+1159;MONICA;RODRIGUEZ;6°;Iris Pascuala;Ausencias injustificadas;Leve;Pentiente
+1160;JHENIFER;SINDEI;6°;Keti;Ausencias injustificadas;Leve;Pentiente
+1161;LUISA;TRUJILLO;6°;Yacira;Ausencias injustificadas;Leve;Pentiente
+1162;HERLIN;MOSQUERA;6°;Beatriz Eugenia;Ausencias injustificadas;Leve;Pentiente
+1163;JAIME;BONILLA;6°;Tatiana;Ausencias injustificadas;Leve;Pentiente
+1164;BLANCA;CLAVIJO;10°;Neyda Silvana;Ausencias injustificadas;Leve;Resuelto
+1165;LUZ;MAYA;10°;Diana Maria;Daño en las instalaciones;Muy Grave;Resuelto
+1166;CAROLINA;BAYONA;10°;Klara Eugenia;Daño en las instalaciones;Muy Grave;Resuelto
+1167;JHON;GIRALDO;10°;Sonia;Daño en las instalaciones;Muy Grave;Resuelto
+1168;ELEAZAR;JESUS;10°;Luz Damaris;Daño en las instalaciones;Muy Grave;Resuelto
+1169;MARIA;ARBELAEZ;10°;Olga;Uso de sustancias prohibidas;Muy Grave;Resuelto
+1170;MARIA;GUZMAN;10°;Katia;Uso de sustancias prohibidas;Muy Grave;Resuelto
+1171;JAIRO;LOPEZ;10°;Claudia Jimena;Uso de sustancias prohibidas;Muy Grave;Resuelto
+1172;YENNY;SUAREZ;11°;Laura Maria;Uso de sustancias prohibidas;Muy Grave;Resuelto
+1173;JUAN;RANGEL;11°;Keinly Leandra;Fraude académico;Muy Grave;Resuelto
+1174;JOHANNA;MORA;11°;Lina Andrea;Fraude académico;Muy Grave;Resuelto
+1175;DIANA;ALJURE;11°;Leidy Andrea;Fraude académico;Muy Grave;Resuelto
+1176;BERNARDO;SANMIGUEL;11°;Juliet Andrea;Fraude académico;Muy Grave;Resuelto
+1177;ALEJANDRA;URIBE;11°;Claudia Ximena;Fraude académico;Muy Grave;Pentiente
+1178;LINA;TABORDA;11°;Lorena;Uso indebido de tecnología;Muy Grave;Resuelto
+1179;EFRAIN;RAMIREZ;11°;Oneida;Uso indebido de tecnología;Muy Grave;Resuelto
+1180;GINA;ALBARRACIN;11°;Elba Regina;Uso indebido de tecnología;Muy Grave;Resuelto
+1181;DIANA;CARMEN;11°;Eloisa Elena;Uso indebido de tecnología;Muy Grave;Pentiente
+1182;JESSICA;ROCERO;9°;Maria Cristina;Uso indebido de tecnología;Muy Grave;Resuelto
+1183;ASTRID;CHAVARRIA;9°;Alba Rosa;Faltas de respeto;Grave;Resuelto
+1184;JOSÉ;ARCINIEGAS;9°;Margarita Rosa;Faltas de respeto;Grave;Resuelto
+1185;JOSE;MACIAS;9°;Maritza Leonor;Faltas de respeto;Grave;Resuelto
+1186;JAVIER;PARRA;9°;Elena;Faltas de respeto;Grave;Resuelto
+1187;JORGE;GONZALEZ;9°;Rosa Maria;Faltas de respeto;Grave;Resuelto
+1188;ANGELA;OSPINA;9°;Maritza Ester;Robo;Muy Grave;Resuelto
+1189;JAVIER;CAMPILLO;9°;Edelvis Del socorro;Robo;Muy Grave;Resuelto
+1190;LEIDY;CHALPARIZAN;9°;Monica Patricia;Robo;Muy Grave;Resuelto
+1191;JOSE;CAMPO;9°;Isabel;Robo;Muy Grave;Resuelto
+1192;ALEXANDRA;GIRALDO;9°;Leyla Esther;Faltas de respeto;Grave;Resuelto
+1193;DARIO;PIÑEROS;9°;Dolores Margoth;Faltas de respeto;Grave;Resuelto
+1194;ELIANA;BRAVO;9°;Shirley Karina;Faltas de respeto;Grave;Resuelto
+1195;DERLY;LOPEZ;10°;Maria Beatriz;Faltas de respeto;Grave;Resuelto
+1196;MARIA;PILAR;11°;Graciela Del rosario;Fraude académico;Muy Grave;Resuelto
+1197;TEOFILO;BORJA;10°;Ingrid Paola;Fraude académico;Muy Grave;Resuelto
+1198;LUIS;FLOREZ;10°;Francia Elena;Fraude académico;Muy Grave;Resuelto
+1199;MARIA;GIRALDO;10°;Ivania Del rosario;Ausencias injustificadas;Leve;Resuelto
+1200;ANA;ORTEGA;10°;Suly Samira;Ausencias injustificadas;Leve;Pentiente
+1201;ELKIN;CHACON;10°;Maria Luisa;Ausencias injustificadas;Leve;Pentiente
+1202;ANGEL;CABRERA;10°;Claudia Yadira;Ausencias injustificadas;Leve;Pentiente
+1203;JICKSON;RAMOS;10°;Natalia Alexandra;Ausencias injustificadas;Leve;Pentiente
+1204;PABLO;CARO;11°;Ana Cristina;Ausencias injustificadas;Leve;Pentiente
+1205;MARIANA;MATALLANA;11°;Charlie Alexandra;Violencia física ;Muy Grave;Pentiente
+1206;GINNA;ROJAS;11°;Natalia;Violencia física ;Muy Grave;Resuelto
+1207;DARYENY;GIRALDO;11°;Magda Patricia;Violencia física ;Muy Grave;Resuelto
+1208;EDINSON;MARTINEZ;11°;Maria Fernanda;Violencia física ;Muy Grave;Resuelto
+1209;DIANA;CASTRO;11°;Monica Giovanna;Violencia física ;Muy Grave;Resuelto
+1210;JUAN;COLMENARES;11°;Martha Irene;Violencia física ;Muy Grave;Resuelto
+1211;MIGUEL;ROMO;11°;Tania Cecilia;Acoso escolar;Grave;Resuelto
+1212;EDUARDO;PINEDA;11°;Martha Lucia;Acoso escolar;Grave;Resuelto
+1213;LILIANA;PINILLA;11°;Elizabeth;Acoso escolar;Grave;Resuelto
+1214;JHON;PORTILLO;11°;Cruz Elena;Acoso escolar;Grave;Pentiente
+1215;ANDRES;STAPPER;11°;Angela Maria;Acoso escolar;Grave;Pentiente
+1216;SANDRA;BUITRAGO;11°;Rosa Stella;Acoso escolar;Grave;Pentiente
+1217;ELIANA;PEREZ;11°;Betty Catherine;Robo ;Muy Grave;Pentiente
+1218;HUGO;GÓMEZ;11°;Amanda Carolina;Robo ;Muy Grave;Pentiente
+1219;PEDRO;DUARTE;11°;Angela Maria;Robo ;Muy Grave;Pentiente
+1220;LINA;CAMARGO;11°;Katerine;Robo ;Muy Grave;Pentiente
+1221;CARLOS;CAMARGO;11°;Sara;Robo ;Muy Grave;Pentiente
+1222;DIANA;ALFONSO;11°;Blanca Ines;Robo ;Muy Grave;Pentiente
+1223;JAIRO;VARGAS;11°;Teresa De jesus;Plagio o copia;Muy Grave;Pentiente
+1224;CARLOS;ESCOBAR;11°;Leidy Cecilia;Plagio o copia;Muy Grave;Pentiente
+1225;GUILLERMO;ROBAYO;11°;Delly;Plagio o copia;Muy Grave;Pentiente
+1226;ALBA;ROMERO;11°;Betsy Yasmin;Plagio o copia;Muy Grave;Pentiente
+1227;ENRIQUE;MORENO;11°;Betsy;Plagio o copia;Muy Grave;Pentiente
+1228;RAFAEL;DURAN;11°;Paula Yaneth;Plagio o copia;Muy Grave;Pentiente
+1229;DIDIER;TORRES;11°;Maria Paula;Ausencias injustificadas;Leve;Pentiente
+1230;LAURO;ARTURO;11°;Jenny Adriana;Ausencias injustificadas;Leve;Pentiente
+1231;LUIS;RUIZ;11°;Yaneth Rocio;Ausencias injustificadas;Leve;Pentiente
+1232;LILIANA;COGOLLO;11°;Diana Alexandra;Violencia física ;Muy Grave;Resuelto
+1233;MARCELA;DORIA;11°;Helga Johanna;Violencia física ;Muy Grave;Resuelto
+1234;ALEXANDER;MALDONADO;11°;Genny Liliana;Violencia física ;Muy Grave;Resuelto
+1235;JHON;ROSERO;6°;Gloria Milena;Acoso escolar;Grave;Resuelto
+1236;OSCAR;VELASQUEZ;6°;Ruby Alejandra;Acoso escolar;Grave;Resuelto
+1237;RODOLFO;ASTAIZA;6°;Rosa;Acoso escolar;Grave;Resuelto
+1238;YURANY;GONZALEZ;6°;Lenis Joana;Robo ;Muy Grave;Pentiente
+1239;NATALIA;FORERO;6°;Zaida Johana;Robo ;Muy Grave;Pentiente
+1240;GLORIA;PRECIADO;6°;Liliana Patricia;Robo ;Muy Grave;Pentiente
+1241;SAYDA;CASTAÑO;7°;Ingrid Johanna;Plagio o copia;Muy Grave;Pentiente
+1242;DANIELA;MONTOYA;7°;Marly  sidney;Plagio o copia;Muy Grave;Resuelto
+1243;LAURA;GONZALEZ;7°;Paola Katherine;Plagio o copia;Muy Grave;Resuelto
+1244;JUAN;MUÑOZ;7°;Yoneisa;Plagio o copia;Muy Grave;Resuelto
+1245;LUZ;ALZATE;7°;Diana Carolina;Plagio o copia;Muy Grave;Resuelto
+1246;ARCESE;MEJIA;7°;Dayce;Plagio o copia;Muy Grave;Resuelto
+1247;EDGAR;PEDRAZA;7°;Angelica Maria;Acoso escolar;Grave;Resuelto
+1248;LAURA;HERNANDEZ;7°;Angelica Maria;Acoso escolar;Grave;Resuelto
+1249;CAMILO;WILLS;7°;Silvia Juliana;Acoso escolar;Grave;Resuelto
+1250;GISSELA;ARIAS;8°;Lyda Johanna;Acoso escolar;Grave;Resuelto
+1251;CARMEN;RESTREPO;8°;Lizzeth Tatiana;Acoso escolar;Grave;Pentiente
+1252;JUAN;BUITRAGO;8°;Janeth Rocio;Acoso escolar;Grave;Pentiente
+1253;VICTOR;SANDOVAL;8°;Carolina;Ausencias injustificadas;Leve;Pentiente
+1254;EDGAR;BERNAL;8°;Melissa;Ausencias injustificadas;Leve;Pentiente
+1255;ORLANDO;BENITEZ;8°;Maria Carolina;Ausencias injustificadas;Leve;Pentiente
+1256;ASTIRD;QUIROZ;8°;Martha Karolina;Ausencias injustificadas;Leve;Pentiente
+1257;MANUEL;AYALA;8°;Martha Patricia;Robo ;Muy Grave;Pentiente
+1258;SEBASTIAN;CARRANZA;8°;Karolain;Robo ;Muy Grave;Resuelto
+1259;MAURICIO;PORTILLA;8°;Claudia Patricia;Robo ;Muy Grave;Resuelto
+1260;MANUEL;ARANGO;8°;Lady Janet;Acoso escolar;Grave;Resuelto
+1261;DANIELA;GONZALEZ;8°;Luisa Esperanza;Acoso escolar;Grave;Resuelto
+1262;GHEIDY;GALLO;8°;Clara Ines fatima;Acoso escolar;Grave;Resuelto
+1263;SERGIO;MARULANDA;8°;Gina Patricia;Acoso escolar;Grave;Resuelto
+1264;JUAN;SANABRIA;8°;Maria Cristina;Acoso escolar;Grave;Pentiente
+1265;DIANA;RIOS;8°;Gladys Milena;Acoso escolar;Grave;Pentiente
+1266;LUZ;BLANDON;8°;Diana Carolina;Violencia física;Muy Grave;Pentiente
+1267;OSCAR;VALDES;8°;Carolina;Violencia física;Muy Grave;Pentiente
+1268;NELSON;ANGARITA;8°;Natalia;Violencia física;Muy Grave;Pentiente
+1269;CARLOS;ESCOBAR;8°;Viky Esperanza;Violencia física;Muy Grave;Pentiente
+1270;MARÍA;MORENO;8°;Claudia Patricia;Violencia física;Muy Grave;Pentiente
+1271;ANDREA;ROMERO;8°;Amparo;Violencia física;Muy Grave;Pentiente
+1272;LINA;RODRIGUEZ;8°;Maria Clemencia;Plagio o copia;Muy Grave;Pentiente
+1273;OSCAR;REY;8°;Nubia;Plagio o copia;Muy Grave;Pentiente
+1274;CLAUDIA;LADINO;8°;Zoraida;Plagio o copia;Muy Grave;Pentiente
+1275;JOSE;BERNAL;8°;Martha Ligia;Plagio o copia;Muy Grave;Pentiente
+1276;RODRIGO;CASTAÑO;8°;Rosa Marleny;Plagio o copia;Muy Grave;Resuelto
+1277;HUMBERTO;CALABRIA;8°;Liliana Mercedes;Plagio o copia;Muy Grave;Resuelto
+1278;EDUARDO;SILVA;8°;Alexandra;Robo;Muy Grave;Resuelto
+1279;DANIEL;CAMPO;6°;Nedezhda Galina;Robo;Muy Grave;Resuelto
+1280;CRISTIAN;RIOS;6°;Katherine Marialeth;Robo;Muy Grave;Resuelto
+1281;LILIANA;RESTREPO;6°;Laura Rocio;Robo;Muy Grave;Resuelto
+1282;OSCAR;PAREDES;6°;Elcy;Ausencias injustificadas;Leve;Resuelto
+1283;JORGE;CABRERA;6°;Alexandra Smith;Ausencias injustificadas;Leve;Resuelto
+1284;MACIEL;ECHAVARRIA;6°;Luisa Fernanda;Ausencias injustificadas;Leve;Resuelto
+1285;MARTHA;ARAMENDIZ;10°;Aura Yineth;Ausencias injustificadas;Leve;Resuelto
+1286;SILVIA;CARMONA;10°;Ruth Carolina;Ausencias injustificadas;Leve;Resuelto
+1287;DAVID;RUIZ;10°;Yurany Paola;Ausencias injustificadas;Leve;Resuelto
+1288;MARTHA;ORTIZ;10°;Olga Lucia;Acoso escolar;Grave;Resuelto
+1289;JOSE;PINTO;10°;Nidia Esperanza;Acoso escolar;Grave;Resuelto
+1290;RAFAEL;GARTNER;10°;Maria Liliana;Acoso escolar;Grave;Resuelto
+1291;NESTOR;HERNANDEZ;10°;Luz Angela;Faltas de respeto;Grave;Resuelto
+1292;ROBINSON;BENÍTEZ;11°;Marta Alexandra;Faltas de respeto;Grave;Resuelto
+1293;OSCAR;BETANCUR;9°;Yudy Edith;Faltas de respeto;Grave;Resuelto
+1294;WILLIAM;CAMARGO;9°;Nelly Johanna;Faltas de respeto;Grave;Pentiente
+1295;HILDA;;9°;Valentina;Faltas de respeto;Grave;Pentiente
+1296;JAIRO;CONTRERAS;9°;Carol Eliza;Faltas de respeto;Grave;Pentiente
+1297;LENA;ACOSTA;9°;Johanna;Robo;Muy Grave;Resuelto
+1298;DIANA;DIAZ;9°;Alina;Robo;Muy Grave;Resuelto
+1299;CAROLINA;GUTIÉRREZ;9°;Claudia Johana;Robo;Muy Grave;Resuelto
+1300;ANDREA;PILAR;6°;Marisol;Robo;Muy Grave;Resuelto
+1301;JAVIER;PÉREZ;6°;Julia Esther;Robo;Muy Grave;Resuelto
+1302;JOSÉ;ROJAS;6°;Gloria Marina;Robo;Muy Grave;Resuelto
+1303;ANGELA;VEGA;6°;Gloria Patricia;Violencia física;Grave;Resuelto
+1304;JAMES;GARCIA;7°;Heidi;Violencia física;Grave;Resuelto
+1305;MANUEL;ACEVEDO;7°;Julia Esther;Violencia física;Grave;Resuelto
+1306;JAIRO;MORENO;7°;Piedad Cristina;Violencia física;Grave;Resuelto
+1307;GLORIA;SUAREZ;7°;Ana Maria;Violencia física;Grave;Resuelto
+1308;PATRICIA;JIMENEZ;7°;Luz Dary;Violencia física;Grave;Resuelto
+1309;SUSANA;RAMON;7°;Luz Marina;Acoso escolar;Grave;Resuelto
+1310;LUZ;JARAMILLO;7°;Celia Maria;Acoso escolar;Grave;Pentiente
+1311;HECTOR;CARVAJAL;7°;Tatiana Paola;Acoso escolar;Grave;Pentiente
+1312;ANA;SANCHEZ;7°;Nachicel;Acoso escolar;Grave;Pentiente
+1313;ANGELA;MARTINEZ;8°;Nidla Ivon;Acoso escolar;Grave;Resuelto
+1314;KAREN;MERCHAN;8°;Luz Angela;Acoso escolar;Grave;Resuelto
+1315;JOSE;CORTÉS;8°;Anny;Faltas de respeto;Grave;Resuelto
+1316;LUCAS;ARBOLEDA;8°;Luz Dary;Robo;Muy Grave;Resuelto
+1317;AMPARO;MONTAÑA;8°;Maria De las mercede;Violencia física;Muy Grave;Resuelto
+1318;BRASILIA;SINISTERRA;8°;Nina Del carmen;Acoso escolar;Grave;Resuelto
+1319;ISABEL;ROSERO;8°;Rosa Amelia;Faltas de respeto;Grave;Resuelto
+1320;JOSE;INSUASTI;8°;Alba Luz;Robo;Muy Grave;Resuelto
+1321;JOSEFINA;SÁNCHEZ;8°;Ana Lucia;Violencia física;Muy Grave;Resuelto
+1322;SARA;PIÑEROS;8°;Maria Rosalba;Faltas de respeto;Grave;Resuelto
+1323;DARMAR;CASTAÑEDA;8°;Liliana;Faltas de respeto;Grave;Resuelto
+1324;RICHARD;FONSECA;8°;Cielo Esperanza;Faltas de respeto;Grave;Resuelto
+1325;MARIA;GOMEZ;8°;Jacquelin;Faltas de respeto;Grave;Resuelto
+1326;GERSSON;CASTILLO;8°;Mery Esperanza;Faltas de respeto;Grave;Pentiente
+1327;ALEXANDER;CONTRERAS;8°;Doris;Faltas de respeto;Grave;Pentiente
+1328;LUIS;GARCIA;8°;Sandra Janeth;Violencia física;Muy Grave;Pentiente
+1329;DINA;RODRIGUEZ;8°;Sandra Teresa;Violencia física;Muy Grave;Pentiente
+1330;CARLOS;BELLO;8°;Luz Marleny;Violencia física;Muy Grave;Pentiente
+1331;JENNYS;YANCES;8°;Sonia Patricia;Violencia física;Muy Grave;Pentiente
+1332;ANA;ANGULO;8°;Mabel Yamira del pil;Violencia física;Muy Grave;Pentiente
+1333;MIGUEL;SANCHEZ;8°;Martha Cecilia;Plagio o copia;Muy Grave;Pentiente
+1334;GUADALBERTO;MARMOLEJO;8°;Marcela;Plagio o copia;Muy Grave;Resuelto
+1335;LUCILA;VIDAL;8°;Maria Victoria;Plagio o copia;Muy Grave;Resuelto
+1336;CLAUDIA;OSPINA;8°;Doris Angela;Plagio o copia;Muy Grave;Resuelto
+1337;MARIA;ARELLANO;8°;Alexandra;Plagio o copia;Muy Grave;Resuelto
+1338;ZULMA;FONSECA;8°;Fanny Alcira;Plagio o copia;Muy Grave;Resuelto
+1339;RAFAEL;RATIVA;8°;Juana Cristina;Robo;Muy Grave;Resuelto
+1340;MARGARITA;VILLEGAS;8°;Nohora Leonor;Robo;Muy Grave;Resuelto
+1341;YANETH;FLOREZ;8°;Susana;Robo;Muy Grave;Resuelto
+1342;CARLOS;PATERNINA;6°;Martha Patricia;Robo;Muy Grave;Resuelto
+1343;ANDRÉS;GIRALDO;6°;Olga Lucia;Robo;Muy Grave;Resuelto
+1344;ZULLY;QUILAGUY;6°;Nohora Constanza;Robo;Muy Grave;Resuelto
+1345;LAURA;REYES;6°;Olga Rocio;Acoso escolar;Grave;Resuelto
+1346;BIBIANA;CUARTAS;6°;Martha Rocio;Acoso escolar;Grave;Resuelto
+1347;GLORIA;TOVAR;6°;Dora Alicia;Acoso escolar;Grave;Resuelto
+1348;JACKELINE;OLARTE;10°;Maria Elizabeth;Acoso escolar;Grave;Resuelto
+1349;LUZ;ROA;10°;Martha Patricia;Acoso escolar;Grave;Pentiente
+1350;JHON;ACUÑA;10°;Marlyn Dolores;Acoso escolar;Grave;Pentiente
+1351;SANDRA;MENESES;10°;Blanca Lucia;Acoso escolar;Grave;Pentiente
+1352;MERCEDES;VELASCO;10°;Maria Eugenia;Acoso escolar;Grave;Pentiente
+1353;RIGOBERTO;GOMEZ;10°;Martha Lucia;Fraude académico;Muy Grave;Resuelto
+1354;SERGIO;VALDES;10°;Edith;Fraude académico;Muy Grave;Resuelto
+1355;LYDA;ESQUIVEL;10°;Jackeline;Fraude académico;Muy Grave;Resuelto
+1356;URIAS;HERNANDEZ;11°;Marlen Ofir;Fraude académico;Muy Grave;Resuelto
+1357;HERNAN;SALAZAR;11°;Maria Ruth;Fraude académico;Muy Grave;Resuelto
+1358;LUCAS;GNECCO;11°;Carmen Sorinda;Fraude académico;Muy Grave;Resuelto
+1359;ALVARO;GALLARDO;11°;Martha Lilia;Uso indebido de tecnología;Muy Grave;Resuelto
+1360;HERMAN;GUERRERO;11°;Edith;Uso indebido de tecnología;Muy Grave;Resuelto
+1361;GLORIA;ORTIZ;11°;Martha Ligia;Uso indebido de tecnología;Muy Grave;Resuelto
+1362;MELISSA;FRANCO;11°;Clara Daysi;Uso indebido de tecnología;Muy Grave;Resuelto
+1363;KATHERIN;HORMAZA;11°;Rosalba;Uso indebido de tecnología;Muy Grave;Resuelto
+1364;CLAUDIA;CHICAIZA;11°;Nancy;Uso indebido de tecnología;Muy Grave;Resuelto
+1365;ANTONIO;JESUS;11°;Ruth Monica;Daño en las instalaciones;Muy Grave;Resuelto
+1366;JHON;MADRIGAL;9°;Eliana Maria;Daño en las instalaciones;Muy Grave;Pentiente
+1367;JORMAN;PORRAS;9°;Claudia Cecilia;Daño en las instalaciones;Muy Grave;Pentiente
+1368;MARIA;RIVERA;9°;Olga Lucia;Daño en las instalaciones;Muy Grave;Pentiente
+1369;LILIANA;LAVERDE;9°;Martha Mabel;Daño en las instalaciones;Muy Grave;Pentiente
+1370;CESAR;VENEGAS;9°;Jomary;Daño en las instalaciones;Muy Grave;Pentiente
+1371;DAVID;BOTIA;9°;Ana Teresa;Violencia física ;Muy Grave;Pentiente
+1372;MANUELITA;PATIÑO;9°;Edna Constanza;Violencia física ;Muy Grave;Pentiente
+1373;VALENTINA;SANCHEZ;9°;Luz Dary;Violencia física ;Muy Grave;Pentiente
+1374;YOHANY;BLANCO;9°;Luisa Fernanda;Violencia física ;Muy Grave;Pentiente
+1375;CLAUDIA;GARCIA;9°;Diana Janethe;Violencia física ;Muy Grave;Pentiente
+1376;YAIR;JESUS;9°;Margarita Mercedes;Violencia física ;Muy Grave;Pentiente
+1377;OSCAR;ROCHA;9°;Hilda Maria;Robo;Muy Grave;Pentiente
+1378;EDBERTO;JAIME;9°;Nancy;Robo;Muy Grave;Resuelto
+1379;MARTIN;RAMIREZ;10°;Margarita Maria;Robo;Muy Grave;Resuelto
+1380;INES;ESTEBAN;11°;Diana;Robo;Muy Grave;Resuelto
+1381;NESTOR;BALCAZAR;10°;Angelica Maria;Faltas de respeto;Grave;Resuelto
+1382;MILTON;CORTÉS;10°;Liseth Yolima;Faltas de respeto;Grave;Resuelto
+1383;MARY;OSPINA;10°;Zulma;Faltas de respeto;Grave;Resuelto
+1384;LUZ;LARA;10°;Rosa Maria;Uso de sustancias prohibidas;Muy Grave;Resuelto
+1385;ANDRES;ZAPATA;10°;Hilda Esperanza;Uso de sustancias prohibidas;Muy Grave;Resuelto
+1386;JORGE;TASCON;10°;Alba Rosa;Uso de sustancias prohibidas;Muy Grave;Resuelto
+1387;CRISTIAN;SALAZAR;10°;Yalith Lucia;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1388;ALVARO;MENDOZA;11°;Sara Raquel;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1389;ESPERANZA;ARGUELLO;11°;Nidia Fabiola;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1390;OLGA;ISAZA;11°;Zulma Regina;Robo;Muy Grave;Pentiente
+1391;JOSE;ALIRIO;11°;Herminda;Robo;Muy Grave;Pentiente
+1392;JOSE;LEON;11°;Nancy Yolanda;Robo;Muy Grave;Pentiente
+1393;DUMER;PINO;11°;Martha Jacqueline;Robo;Muy Grave;Pentiente
+1394;RAUL;SANCHEZ;11°;Clara Eugenia;Robo;Muy Grave;Pentiente
+1395;JULIA;GUTIÉRREZ;11°;Jimena Patricia;Robo;Muy Grave;Pentiente
+1396;FERNANDEL;FORERO;11°;Claudia Patricia;Robo;Muy Grave;Pentiente
+1397;ELCY;PEÑALOZA;11°;Libia Teresa;Faltas de respeto;Grave;Pentiente
+1398;FELIPE;FINO;11°;Gloria Liliana;Faltas de respeto;Grave;Pentiente
+1399;MANUELA;MURILLO;11°;Sulma Liliana;Faltas de respeto;Grave;Resuelto
+1400;TATIANA;BELEÑO;11°;Rosa Maria;Faltas de respeto;Grave;Resuelto
+1401;MONICA;PEINADO;11°;Claudia Esperanza;Faltas de respeto;Grave;Resuelto
+1402;WILSON;MONROY;11°;Lucero;Faltas de respeto;Grave;Resuelto
+1403;ALEXANDER;ROCHA;11°;Claudia Yazmin;Uso indebido de tecnología;Muy Grave;Resuelto
+1404;JHON;MAYA;11°;Sandra Biviana;Uso indebido de tecnología;Muy Grave;Resuelto
+1405;JAIME;AREVALO;11°;Janneth Rocio;Uso indebido de tecnología;Muy Grave;Resuelto
+1406;ALVARO;MERCADO;11°;Yohana Marcela;Uso indebido de tecnología;Muy Grave;Resuelto
+1407;CLAUDIA;MEJIA;11°;Nury Constanza;Uso indebido de tecnología;Muy Grave;Resuelto
+1408;DANIEL;JIMENEZ;11°;Maritza;Uso indebido de tecnología;Muy Grave;Resuelto
+1409;GUSTAVO;RINCÓN;11°;Paola Andrea;Fraude académico;Muy Grave;Pentiente
+1410;GERSON;BERMONT;11°;Yuly Ruth;Fraude académico;Muy Grave;Pentiente
+1411;LEONOR;BARON;11°;Jehimy Marcela;Fraude académico;Muy Grave;Pentiente
+1412;MARIA;PILAR;11°;Sandra Elizabeth;Fraude académico;Muy Grave;Pentiente
+1413;CARMENZA;URQUINA;11°;Diana Maritza;Fraude académico;Muy Grave;Resuelto
+1414;LEONEL;CORTES;11°;Maria Del pilar;Fraude académico;Muy Grave;Resuelto
+1415;JOSE;FORERO;11°;Aura Edilma;Ausencias injustificadas;Leve;Resuelto
+1416;FRANCY;SALAZAR;11°;Angela Paola;Acoso escolar;Grave;Resuelto
+1417;ELSY;MELO;11°;Clara Liliana;Plagio o copia;Muy Grave;Resuelto
+1418;OMAR;ROJAS;11°;Nayive Rocio;Ausencias injustificadas;Leve;Resuelto
+1419;YORYANY;TORRES;6°;Hambleydy Paola;Ausencias injustificadas;Leve;Resuelto
+1420;JORGE;SARMIENTO;6°;Luz Mary;Ausencias injustificadas;Leve;Resuelto
+1421;LICIA;CARMEN;6°;Lina Maria;Acoso escolar;Grave;Resuelto
+1422;GIBERT;ROJAS;6°;Elena;Acoso escolar;Grave;Resuelto
+1423;RODOLFO;RIVADENEIRA;6°;Olivia Ines;Acoso escolar;Grave;Resuelto
+1424;JAVIER;PABÓN;6°;Olga Judith;Violencia física;Muy Grave;Resuelto
+1425;MONICA;ARBOLEDA;7°;Sandra Patricia;Violencia física;Muy Grave;Resuelto
+1426;RAFAEL;RATIVA;7°;Diana Paola;Violencia física;Muy Grave;Pentiente
+1427;ANYELLY;OSPINA;7°;Ruth Mariela;Ausencias injustificadas;Leve;Pentiente
+1428;JAVIER;ARROYAVE;7°;Ana Maria;Ausencias injustificadas;Leve;Pentiente
+1429;ESTEBAN;PAEZ;7°;Luz Estela;Ausencias injustificadas;Leve;Pentiente
+1430;YANETH;FLOREZ;7°;Nidia Esperanza;Faltas de respeto;Grave;Pentiente
+1431;ANGELA;NAVARRO;7°;Diana Marcela;Faltas de respeto;Grave;Pentiente
+1432;SEBASTIAN;HERRERA;7°;Maria Inmaculada;Faltas de respeto;Grave;Pentiente
+1433;NYDIA;OSPINA;7°;Diana Paola;Robo;Muy Grave;Pentiente
+1434;ANDRES;LLERAS;8°;Rubi Elena;Robo;Muy Grave;Pentiente
+1435;RUBEN;MENDEZ;8°;Sandra Patricia;Robo;Muy Grave;Pentiente
+1436;RODOLFO;ZEA;8°;Fanny Judith;Violencia física;Muy Grave;Pentiente
+1437;NICOLAS;TENJO;8°;Diana Marcela;Violencia física;Muy Grave;Pentiente
+1438;OMAR;HERNANDEZ;8°;Alexandra;Violencia física;Muy Grave;Resuelto
+1439;MARIA;GODOY;8°;Nancy;Acoso escolar;Grave;Resuelto
+1440;CARMENZA;COTES;8°;Carolina;Acoso escolar;Grave;Resuelto
+1441;ANDRES;PARDO;8°;Nohora Milena;Acoso escolar;Grave;Resuelto
+1442;ANDRÉS;PEÑARANDA;8°;Ingrid Enerieth;Plagio o copia;Muy Grave;Resuelto
+1443;ALBERTO;WILSON;8°;Maria Carolina;Plagio o copia;Muy Grave;Resuelto
+1444;MONICA;CAPACHO;8°;Elcira;Plagio o copia;Muy Grave;Resuelto
+1445;LUISA;TARAZONA;8°;Luisa Yaneth;Plagio o copia;Muy Grave;Resuelto
+1446;LEIDY;GARCIA;8°;Pilin Paola;Faltas de respeto;Grave;Resuelto
+1447;NAVIS;FLOREZ;8°;Yaneth Lorena;Faltas de respeto;Grave;Pentiente
+1448;JULIO;NOVOA;8°;Ana Margarita;Faltas de respeto;Grave;Pentiente
+1449;HARRY;GARCIA;8°;Francia;Robo;Muy Grave;Pentiente
+1450;BRIAN;BARROS;8°;Doris Patricia;Robo;Muy Grave;Pentiente
+1451;LUISA;FLOREZ;8°;Nancy;Robo;Muy Grave;Pentiente
+1452;ESTEBAN;RESTREPO;8°;Marisol;Violencia física;Muy Grave;Pentiente
+1453;CLAUDIA;ECHAVARRIA;8°;Maria Fernanda;Violencia física;Muy Grave;Pentiente
+1454;HARVING;ESPITIA;8°;Derly Constanza;Violencia física;Muy Grave;Pentiente
+1455;JORGE;BEDOYA;8°;Marleny Del carmen;Acoso escolar;Grave;Pentiente
+1456;JOSE;MUCA;8°;Yennys Maria;Acoso escolar;Grave;Pentiente
+1457;JOHANA;PEÑA;8°;Niudis Liudis;Acoso escolar;Grave;Pentiente
+1458;ELIECER;GALVIS;8°;Idayris Yolima;Acoso escolar;Grave;Pentiente
+1459;JHON;LOPEZ;8°;Manet Alejandra;Ausencias injustificadas;Leve;Resuelto
+1460;ENELDA;AVENDAÑO;8°;Luz Stella;Ausencias injustificadas;Leve;Resuelto
+1461;JACKELINE;CASTRO;8°;Patricia Maria;Ausencias injustificadas;Leve;Resuelto
+1462;NESTOR;GUERRERO;8°;Claribet Beatriz;Ausencias injustificadas;Leve;Resuelto
+1463;CARLOS;RAMIREZ;6°;Bielca Yohana;Ausencias injustificadas;Leve;Resuelto
+1464;OLGA;ARROYAVE;6°;Diana Rocio;Ausencias injustificadas;Leve;Resuelto
+1465;JULIANA;TIRADO;6°;Angelica Maria;Daño en las instalaciones;Muy Grave;Resuelto
+1466;HAROLD;CORREA;6°;Ines Yubitsi;Daño en las instalaciones;Muy Grave;Resuelto
+1467;DORIS;MONROY;6°;Faicy;Daño en las instalaciones;Muy Grave;Resuelto
+1468;JUAN;JESUS;6°;Elgar Leonor;Daño en las instalaciones;Muy Grave;Resuelto
+1469;DAVID;BENAVIDES;10°;Katina Liliana;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1470;PAULA;GONGORA;10°;Lina Margarita;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1471;MANUEL;MEJIA;10°;Lixia Josefa;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1472;EDILBERTO;;10°;Maudeth;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1473;LUZ;VARGAS;10°;Maria Alejandra;Fraude académico;Muy Grave;Resuelto
+1474;ANA;BETANCUR;10°;Ingrid Beatriz;Fraude académico;Muy Grave;Resuelto
+1475;EYDI;SANCHEZ;10°;Karen Marie;Fraude académico;Muy Grave;Resuelto
+1476;ROSA;PEREZ;11°;Gloria Ines;Fraude académico;Muy Grave;Resuelto
+1477;JUAN;PAJÓN;9°;Gina Carolina;Fraude académico;Muy Grave;Resuelto
+1478;LUZ;GOMEZ;9°;Shirley Vanessa;Uso indebido de tecnología;Muy Grave;Resuelto
+1479;SILVANO;GUERRERO;9°;Maria Adelina;Uso indebido de tecnología;Muy Grave;Resuelto
+1480;MARIA;FRASSER;9°;Carmenza;Uso indebido de tecnología;Muy Grave;Resuelto
+1481;ANDRES;HATUM;9°;Clara Ines;Uso indebido de tecnología;Muy Grave;Resuelto
+1482;LAURA;CARMONA;9°;Fulvia Mercedes;Uso indebido de tecnología;Muy Grave;Resuelto
+1483;NORMA;QUEJADA;9°;Martha Clemencia;Faltas de respeto;Grave;Resuelto
+1484;PEPITO;MARTINEZ;6°;Cecilia;Faltas de respeto;Grave;Resuelto
+1485;YAIBER;GUZMAN;6°;Maria Del pilar;Faltas de respeto;Grave;Resuelto
+1486;JOSE;MARTINEZ;6°;Nohora Beatriz;Faltas de respeto;Grave;Pentiente
+1487;OMAR;CIFUENTES;6°;Luisa Angela;Faltas de respeto;Grave;Pentiente
+1488;VICTORIA;DÍAZ;7°;Luz Elvia;Robo;Muy Grave;Pentiente
+1489;IVANA;GONZALEZ;7°;Nelly;Robo;Muy Grave;Pentiente
+1490;RODRIGO;ALZATE;7°;Sonia Esther;Robo;Muy Grave;Pentiente
+1491;RUTH;DEL;7°;Luz Myriam;Robo;Muy Grave;Pentiente
+1492;EDUAR;SERRANO;7°;Carmen Patricia;Faltas de respeto;Grave;Pentiente
+1493;BRIYIDT;RAMIREZ;7°;Maria Del carmen;Faltas de respeto;Grave;Pentiente
+1494;DANIEL;WARTENBERG;7°;Luz Myriam;Faltas de respeto;Grave;Pentiente
+1495;RICARDO;BERNAL;7°;Luz Mila;Faltas de respeto;Grave;Pentiente
+1496;CRISTIAN;PARDO;7°;Luz Dilia;Fraude académico;Grave;Pentiente
+1497;EDUARDO;PINILLA;8°;Clara Ines;Fraude académico;Grave;Pentiente
+1498;HUGO;DIAZ;8°;Nidian Soledad;Ausencias injustificadas;Leve;Resuelto
+1499;PABLO;BERNAL;8°;Martha Ligia;Ausencias injustificadas;Leve;Resuelto
+1500;AHILIZ;RINCON;8°;Didima;Ausencias injustificadas;Leve;Resuelto
+1501;WILFREDO;ROSAS;8°;Aydee;Ausencias injustificadas;Leve;Resuelto
+1502;JUAN;LEAL;8°;Jacqueline;Ausencias injustificadas;Leve;Resuelto
+1503;VICTOR;ZUÑIGA;8°;Luz Mireya;Ausencias injustificadas;Leve;Resuelto
+1504;OSCAR;MONTENEGRO;8°;Margarita Maria;Violencia física ;Muy Grave;Resuelto
+1505;EDISON;MORA;8°;Martha Cecilia;Violencia física ;Muy Grave;Resuelto
+1506;ELIECER;GALVIS;8°;Leydy;Violencia física ;Muy Grave;Resuelto
+1507;JORGE;NARVAEZ;8°;Angela Maria;Violencia física ;Muy Grave;Pentiente
+1508;ANA;GIRALDO;8°;Iveth Marysol;Violencia física ;Muy Grave;Pentiente
+1509;JOJHAN;HERRAN;8°;Ana Milena;Violencia física ;Muy Grave;Pentiente
+1510;CRISTINA;MIRANDA;8°;Angela Maria;Acoso escolar;Grave;Pentiente
+1511;ANDRES;ECHEVERRIA;8°;Monica Viviana;Acoso escolar;Grave;Pentiente
+1512;YURI;GUATAPI;8°;Johanna;Acoso escolar;Grave;Pentiente
+1513;SANDRA;CADENA;8°;Lorena;Acoso escolar;Grave;Pentiente
+1514;MÓNICA;MORENO;8°;Adriana Maria;Acoso escolar;Grave;Pentiente
+1515;CRISTHIAN;BARRAGAN;8°;Luz Johanna;Acoso escolar;Grave;Pentiente
+1516;JESUS;CEDEÑO;8°;Alexandra Paola;Robo ;Muy Grave;Pentiente
+1517;OMAR;GARCIA;8°;Maria Elena;Robo ;Muy Grave;Pentiente
+1518;LUCRECIA;LOZADA;8°;Luz Elena;Robo ;Muy Grave;Pentiente
+1519;AMPARO;CRISTANCHO;8°;Rubiela;Robo ;Muy Grave;Resuelto
+1520;ORLANDO;CASTILLO;8°;Alba Luz;Robo ;Muy Grave;Resuelto
+1521;ANA;MORA;8°;Luz Amparo;Robo ;Muy Grave;Resuelto
+1522;LUIS;SEVILLANO;8°;Ana Sara;Plagio o copia;Muy Grave;Resuelto
+1523;JORGE;PASTRANA;8°;Jacqueline;Plagio o copia;Muy Grave;Resuelto
+1524;ORLANDO;CLAVIJO;8°;Alba Lucy;Plagio o copia;Muy Grave;Resuelto
+1525;VICTORIA;JIMENEZ;8°;Hansi Milena;Plagio o copia;Muy Grave;Resuelto
+1526;YOHN;FONSECA;6°;Mary Luz;Plagio o copia;Muy Grave;Resuelto
+1527;ELIECER;LOMELY;6°;Edilma;Plagio o copia;Muy Grave;Resuelto
+1528;JOSE;DAVILA;6°;Maryluz;Ausencias injustificadas;Leve;Resuelto
+1529;GENNY;PADILLA;6°;Luz Adriana;Ausencias injustificadas;Leve;Resuelto
+1530;FRANCO;BENAVIDES;6°;Luz Maria;Ausencias injustificadas;Leve;Resuelto
+1531;ANGIE;RAMIREZ;6°;Melissa;Violencia física ;Muy Grave;Resuelto
+1532;JUAN;MORENO;10°;Leydy Yohana;Violencia física ;Muy Grave;Resuelto
+1533;KATTYA;ORO;10°;Viviana Maria;Violencia física ;Muy Grave;Resuelto
+1534;AMANDA;MENDOZA;10°;Lina Maria;Acoso escolar;Grave;Resuelto
+1535;MARGOTH;RODRIGUEZ;10°;Adriana;Acoso escolar;Grave;Resuelto
+1536;GILMA;MARIN;10°;Maria Victoria;Acoso escolar;Grave;Resuelto
+1537;LINA;ZULUAGA;10°;Maria Eugenia;Robo ;Muy Grave;Resuelto
+1538;LINA;GONZALEZ;10°;Lefia Luz;Robo ;Muy Grave;Resuelto
+1539;PIERRE;GARCIA;10°;Irma;Robo ;Muy Grave;Pentiente
+1540;YUDY;PEÑA;11°;Aracely;Plagio o copia;Muy Grave;Pentiente
+1541;LUIS;QUINTERO;11°;Inirida;Plagio o copia;Muy Grave;Pentiente
+1542;MARTHA;GUTIERREZ;11°;Claudia Patricia;Plagio o copia;Muy Grave;Pentiente
+1543;SANDRA;OSORIO;11°;Maryory;Plagio o copia;Muy Grave;Pentiente
+1544;LINA;LOPEZ;11°;Maria Cristina;Plagio o copia;Muy Grave;Pentiente
+1545;MIGUEL;OLARTE;11°;Maria Victoria;Plagio o copia;Muy Grave;Pentiente
+1546;SANDRA;URRUTIA;11°;Maria Trinidad;Acoso escolar;Grave;Pentiente
+1547;GUIOMAR;VARGAS;11°;Monica Isabel;Acoso escolar;Grave;Pentiente
+1548;MARIO;VARGAS;11°;Clara Ines salome;Acoso escolar;Grave;Pentiente
+1549;VERÓNICA;VALLEJO;11°;Olga Lucia;Acoso escolar;Grave;Pentiente
+1550;AURA;DUARTE;9°;Piedad;Acoso escolar;Grave;Pentiente
+1551;LUIS;APONTE;9°;Adriana Maria;Acoso escolar;Grave;Resuelto
+1552;AUGUSTO;RAMIREZ;9°;Gloria Nancy;Ausencias injustificadas;Leve;Resuelto
+1553;ANA;GARZON;9°;Bibiana;Ausencias injustificadas;Leve;Resuelto
+1554;LESLY;QUIRAMA;9°;Silvia Marlene;Ausencias injustificadas;Leve;Resuelto
+1555;ALTER;GOMEZ;9°;Luz Marina;Ausencias injustificadas;Leve;Resuelto
+1556;LEONARDO;GONGORA;9°;Luz Dary;Robo ;Muy Grave;Resuelto
+1557;DAVID;RUIZ;9°;Luz Maria;Robo ;Muy Grave;Resuelto
+1558;DANIA;HURTADO;9°;Olga Lucia;Robo ;Muy Grave;Resuelto
+1559;MANUEL;CANENCIO;9°;Gloria Margarita;Acoso escolar;Grave;Resuelto
+1560;NICOLAS;CASTILLO;9°;Cecilia Miani;Acoso escolar;Grave;Pentiente
+1561;MARÍA;FRANCO;9°;Gloria Cecilia;Acoso escolar;Grave;Pentiente
+1562;DIEGO;RAMIREZ;9°;Piedad Maria;Acoso escolar;Grave;Pentiente
+1563;CLAUDIA;ALVAREZ;10°;Ana Doris;Acoso escolar;Grave;Pentiente
+1564;YULY;MANOSALVA;11°;Luz Eugenia;Acoso escolar;Grave;Pentiente
+1565;MARIA;SUAREZ;10°;Luz Myriam;Violencia física;Muy Grave;Pentiente
+1566;JAIRO;VARGAS;10°;Marleny Del soc;Violencia física;Muy Grave;Pentiente
+1567;MONICA;FLOREZ;10°;Maria Orfilia;Violencia física;Muy Grave;Pentiente
+1568;SANDRA;RICO;10°;Betty Amancy;Violencia física;Muy Grave;Pentiente
+1569;MARTHA;RODRÍGUEZ;10°;Fabiola Del socorro;Violencia física;Muy Grave;Resuelto
+1570;ARMANDO;VELEZ;10°;Diana Lucia;Violencia física;Muy Grave;Resuelto
+1571;IRENE;TORRES;10°;Aida Cecilia;Plagio o copia;Muy Grave;Resuelto
+1572;DIEGO;FLOREZ;11°;Mariluz;Plagio o copia;Muy Grave;Resuelto
+1573;SERVILIO;ULLOA;11°;Luz Stella;Plagio o copia;Muy Grave;Resuelto
+1574;LYDA;PEREZ;11°;Maria Cristina;Plagio o copia;Muy Grave;Resuelto
+1575;FARYDE;GONZALEZ;11°;Catalina;Plagio o copia;Muy Grave;Resuelto
+1576;YEMY;VELANDIA;11°;Cristina;Plagio o copia;Muy Grave;Resuelto
+1577;ANDRES;GOMEZ;11°;Adriana Emilsen;Robo;Muy Grave;Resuelto
+1578;YANETH;MONTAÑA;11°;Ana Catalina;Robo;Muy Grave;Resuelto
+1579;AIDEE;PARDO;11°;Erika Maria;Robo;Muy Grave;Pentiente
+1580;ALBEIRO;CASTRO;11°;Diana Maria;Robo;Muy Grave;Pentiente
+1581;FABIO;RAMIREZ;11°;Natalia;Ausencias injustificadas;Leve;Pentiente
+1582;SANDRO;MARTINEZ;11°;Carlotina;Ausencias injustificadas;Leve;Resuelto
+1583;FERNANDO;LEAL;11°;Gina Eliza;Ausencias injustificadas;Leve;Resuelto
+1584;DIANA;REY;11°;Carolina Maria;Ausencias injustificadas;Leve;Resuelto
+1585;CAMILO;SANTOS;11°;Luisa Marcela;Ausencias injustificadas;Leve;Resuelto
+1586;MIGUEL;BERNAL;11°;Beatriz Elena;Ausencias injustificadas;Leve;Resuelto
+1587;JIMMY;CARO;11°;Sara Cristina;Acoso escolar;Grave;Resuelto
+1588;MAURICIO;GONZÁLEZ;11°;Liliana Maria;Acoso escolar;Grave;Resuelto
+1589;CESAR;SANCHEZ;11°;Maria Paola;Acoso escolar;Grave;Resuelto
+1590;ANGELA;LONDOÑO;11°;Fabiola De la trinid;Faltas de respeto;Grave;Resuelto
+1591;CAMILA;GOMEZ;11°;Rosmira Del socorro;Faltas de respeto;Grave;Resuelto
+1592;RAFAEL;JARAMILLO;11°;Liliana Del socorro;Faltas de respeto;Grave;Resuelto
+1593;EDGAR;GARCES;11°;Marta Cecilia;Faltas de respeto;Grave;Resuelto
+1594;DIANA;GRAJALES;11°;Elvia Eugenia;Faltas de respeto;Grave;Resuelto
+1595;AMANDA;VEGA;11°;Angela Patricia;Faltas de respeto;Grave;Resuelto
+1596;MARCELA;VERGARA;11°;Lida Maria;Robo;Muy Grave;Resuelto
+1597;ERICK;CASTRO;11°;Beatriz Elena;Robo;Muy Grave;Resuelto
+1598;OSWALDO;PORRAS;11°;Liliana Aidee;Robo;Muy Grave;Resuelto
+1599;ANDREA;GONZALEZ;11°;Beatriz Elena;Robo;Muy Grave;Resuelto
+1600;ENRIQUE;DIAZ;11°;Diana Patricia;Robo;Muy Grave;Pentiente
+1601;MONICA;OSPINA;11°;Candelaria Alcira;Robo;Muy Grave;Pentiente
+1602;ALVARO;VELEZ;11°;Gigliola Alidix;Violencia física;Muy Grave;Pentiente
+1603;RAUL;RODRIGUEZ;6°;Beatriz Eugenia;Violencia física;Muy Grave;Pentiente
+1604;ROSALBA;CALDERON;6°;Bibiana Milena;Violencia física;Muy Grave;Resuelto
+1605;ANDRES;GONZALEZ;6°;Lina Marcela;Violencia física;Muy Grave;Resuelto
+1606;LUISA;VALENCIA;6°;Angela Maria;Violencia física;Muy Grave;Resuelto
+1607;LAURA;VELEZ;6°;Claudia Patricia;Violencia física;Muy Grave;Resuelto
+1608;LUIS;CHAVES;6°;Catalina Maria;Acoso escolar;Grave;Resuelto
+1609;ANGELICA;PARRADO;7°;Reina Maria;Acoso escolar;Grave;Resuelto
+1610;CLAUDIA;MOLINA;7°;Diana Patricia;Acoso escolar;Grave;Resuelto
+1611;SERGIO;BLANDON;7°;Monica;Acoso escolar;Grave;Resuelto
+1612;CLAUDIA;URIBE;7°;Monica Del pilar;Acoso escolar;Grave;Resuelto
+1613;SUSANA;BORRERO;7°;Paula Andrea;Acoso escolar;Grave;Resuelto
+1614;MARIA;CARMEN;7°;Claudia Isabel;Faltas de respeto;Grave;Resuelto
+1615;CARLOS;CORREA;7°;Diana Carmenza;Robo;Muy Grave;Resuelto
+1616;NANCY;MONTAÑA;7°;Yolima Ines;Violencia física;Muy Grave;Resuelto
+1617;DIANA;ANGARITA;7°;Alexandra Viviana;Acoso escolar;Grave;Resuelto
+1618;ADRIANA;SOCORRO;8°;Paula Andrea;Faltas de respeto;Grave;Resuelto
+1619;ANGELA;VARGAS;8°;Maria Isabel;Robo;Muy Grave;Pentiente
+1620;DANIELA;CATAÑO;8°;Leidy Johana;Violencia física;Muy Grave;Pentiente
+1621;ADRIANA;URBINA;8°;Bibiana Andrea;Faltas de respeto;Grave;Pentiente
+1622;JUAN;PEREZ;8°;Susana Maria;Faltas de respeto;Grave;Pentiente
+1623;CAROLINA;CARRILLO;8°;Nathaly;Faltas de respeto;Grave;Pentiente
+1624;OSCAR;ESCOBAR;8°;Viviana Maria;Faltas de respeto;Grave;Pentiente
+1625;ARCENIO;BARRERA;8°;Paula Andrea;Faltas de respeto;Grave;Resuelto
+1626;JULIO;GOMEZ;8°;Lady Johana;Faltas de respeto;Grave;Resuelto
+1627;MARIA;PILAR;8°;Luz Karimen;Violencia física;Muy Grave;Resuelto
+1628;LUZ;VASQUEZ;8°;Martha Liliana;Violencia física;Muy Grave;Resuelto
+1629;LUZ;MARIN;8°;Maria Teresa;Violencia física;Muy Grave;Resuelto
+1630;ALEJANDRO;BOTERO;8°;Libia Del socorro;Violencia física;Muy Grave;Resuelto
+1631;TOMAS;GUARDIOLA;8°;Rubby Maria;Violencia física;Muy Grave;Resuelto
+1632;ERNESTO;BARRERO;8°;Juana De la cruz;Plagio o copia;Muy Grave;Resuelto
+1633;DALGI;LOPEZ;8°;Dilia;Plagio o copia;Muy Grave;Resuelto
+1634;JAQUELINE;CORREA;8°;Nubia Elena;Plagio o copia;Muy Grave;Resuelto
+1635;DAIRO;CARTAGENA;8°;Tania Rocio;Plagio o copia;Muy Grave;Resuelto
+1636;DIEGO;ARIAS;8°;Alicia De la concepc;Plagio o copia;Muy Grave;Resuelto
+1637;ASTRID;ALBADAN;8°;Monica Isabel;Plagio o copia;Muy Grave;Resuelto
+1638;LUISA;TORRES;8°;Katia Maria;Robo;Muy Grave;Pentiente
+1639;DAMIAN;SANCHEZ;8°;Luzvin Natith;Robo;Muy Grave;Resuelto
+1640;MARIA;MATEUS;8°;Zullys De las merced;Robo;Muy Grave;Resuelto
+1641;SANDRA;NIÑO;8°;Angelica Patricia;Robo;Muy Grave;Resuelto
+1642;RICARDO;CASTRO;8°;Alicia Raquel;Robo;Muy Grave;Pentiente
+1643;VICTOR;RODRIGUEZ;8°;Zoraida;Robo;Muy Grave;Resuelto
+1644;NORMAN;ORTIZ;8°;Blanca Luz;Acoso escolar;Grave;Resuelto
+1645;HORACIO;DIAZ;8°;Fenix;Acoso escolar;Grave;Resuelto
+1646;MANUEL;TAMBO;8°;Carolina;Acoso escolar;Grave;Resuelto
+1647;EDGAR;MONTEALEGRE;6°;Laura Marcela;Acoso escolar;Grave;Resuelto
+1648;DIANA;PINEDA;6°;Gloria Patricia;Acoso escolar;Grave;Resuelto
+1649;ANDRES;LOZANO;6°;Soila Yajaira;Acoso escolar;Grave;Resuelto
+1650;ERIKA;RINCON;6°;Diana Cecilia;Acoso escolar;Grave;Resuelto
+1651;DANIEL;MONTES;6°;Maria Eugenia;Acoso escolar;Grave;Resuelto
+1652;DIEGO;CHINOME;6°;Wendy Yuranis;Fraude académico;Muy Grave;Resuelto
+1653;ESTEFANIA;MUÑOZ;10°;Ana Cristina;Fraude académico;Muy Grave;Resuelto
+1654;JOSE;QUEVEDO;10°;Sindi Lucia;Fraude académico;Muy Grave;Resuelto
+1655;ELENA;DUCUARA;10°;Wendy Patricia;Fraude académico;Muy Grave;Resuelto
+1656;MARTHA;RIVEROS;10°;Ella Modesta;Fraude académico;Muy Grave;Resuelto
+1657;GLORIA;GARZON;10°;Zaida Lucia;Fraude académico;Muy Grave;Resuelto
+1658;RUBEN;MAYA;10°;Maria Nela;Uso indebido de tecnología;Muy Grave;Resuelto
+1659;IRMA;BONILLA;10°;Maria Rosario;Uso indebido de tecnología;Muy Grave;Resuelto
+1660;CARLOS;MORALES;11°;Tatiana Margarita;Uso indebido de tecnología;Muy Grave;Resuelto
+1661;CAROL;BURBANO;10°;Policarpa Ines;Uso indebido de tecnología;Muy Grave;Pentiente
+1662;FERNANDO;TORRES;10°;Mary Cruz;Uso indebido de tecnología;Muy Grave;Pentiente
+1663;LICED;ZEA;10°;Yeraida Pabla;Uso indebido de tecnología;Muy Grave;Pentiente
+1664;ELIANA;ESCOBAR;9°;Alejandra Judith;Daño en las instalaciones;Muy Grave;Pentiente
+1665;ROBERTO;NUÑEZ;9°;Deydre De la trinida;Daño en las instalaciones;Muy Grave;Pentiente
+1666;GUILLERMO;SANCHEZ;9°;Mayelis;Daño en las instalaciones;Muy Grave;Pentiente
+1667;ORLANDO;DAVILA;9°;Monica;Daño en las instalaciones;Muy Grave;Resuelto
+1668;ERLEY;ARBOLEDA;6°;Yolanda;Daño en las instalaciones;Muy Grave;Resuelto
+1669;JUAN;GONZÁLEZ;6°;Leonor Constanza;Daño en las instalaciones;Muy Grave;Resuelto
+1670;JUAN;GUTIERREZ;6°;Blanca Cecilia;Violencia física ;Muy Grave;Resuelto
+1671;AURELIO;MEJIA;6°;Lina Maria;Violencia física ;Muy Grave;Resuelto
+1672;JOSE;ACERO;7°;Lynda Melisa;Violencia física ;Muy Grave;Resuelto
+1673;JUAN;VILLAMIZAR;7°;Diana Carolina;Violencia física ;Muy Grave;Resuelto
+1674;MARCO;SILVA;7°;Diana Carolina;Violencia física ;Muy Grave;Resuelto
+1675;JOSE;OVIEDO;7°;Laura Ximena;Violencia física ;Muy Grave;Pentiente
+1676;RUTH;FORERO;7°;Diana Patricia;Robo;Muy Grave;Pentiente
+1677;ANDREA;ALDANA;7°;Clara Ines;Robo;Muy Grave;Pentiente
+1678;PEDRONEL;LOPEZ;7°;Sonia Edith;Robo;Muy Grave;Pentiente
+1679;LEDA;LOPEZ;7°;Ana Ruth;Robo;Muy Grave;Pentiente
+1680;CLARA;MONSALVE;7°;Maureen Adriana;Faltas de respeto;Grave;Pentiente
+1681;CARLOS;MARIN;8°;Ana Betzabe;Faltas de respeto;Grave;Pentiente
+1682;TOMAS;HERNANDEZ;8°;Ligia Marcela;Faltas de respeto;Grave;Pentiente
+1683;BLANCA;CASTILLO;11°;Bibiana Del pilar;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1684;ORLANDO;PEDRAZA;11°;Nardeth Viviana;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1685;HENRY;TORO;11°;Ana Milena;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1686;LILIAN;VARGAS;11°;Francy Astrid;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1687;MARY;CORTES;11°;Claudia Patricia;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1688;SANDRA;GAMBOA;11°;Nohora Del carmen;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1689;OLGA;GALLO;11°;Elizabeth;Robo;Muy Grave;Pentiente
+1690;BENJAMIN;SUAREZ;11°;Silvia Carolina;Robo;Muy Grave;Pentiente
+1691;MANUEL;MORENO;11°;Maria Jose;Robo;Muy Grave;Pentiente
+1692;ADRIANA;ORTIZ;11°;Lina Maria;Robo;Muy Grave;Pentiente
+1693;GINA;MARTINEZ;11°;Dalma Rocio;Robo;Muy Grave;Resuelto
+1694;JENY;HERNANDEZ;8°;Martha Cecilia;Robo;Muy Grave;Resuelto
+1695;WILFRED;OROZCO;8°;Diana Carolina;Robo;Muy Grave;Resuelto
+1696;HANS;PUENTES;8°;Cinthia Patricia;Faltas de respeto;Grave;Resuelto
+1697;MARIA;QUINTERO;8°;Milena Ibeth;Faltas de respeto;Grave;Resuelto
+1698;SANTIAGO;MONTOYA;8°;Thais Alana;Faltas de respeto;Grave;Resuelto
+1699;EHYDER;BARBOSA;8°;Aixa Maria;Faltas de respeto;Grave;Pentiente
+1700;RICARDO;CORREDOR;8°;Maria Isabel;Faltas de respeto;Grave;Pentiente
+1701;AMANDA;ECHEVERRIA;8°;Martha Evangelina;Faltas de respeto;Grave;Pentiente
+1702;ALEXANDER;REDONDO;10°;Maria Consuelo;Uso indebido de tecnología;Muy Grave;Pentiente
+1703;NATALIA;GUEVARA;10°;Livis Melida;Uso indebido de tecnología;Muy Grave;Resuelto
+1704;ROBINSON;JESUS;10°;Marina Mercedes;Uso indebido de tecnología;Muy Grave;Resuelto
+1705;DIEGO;PLATA;10°;Lucila Mercedes;Uso indebido de tecnología;Muy Grave;Resuelto
+1706;NINI;SANCHEZ;10°;Diana Margarita;Uso indebido de tecnología;Muy Grave;Resuelto
+1707;OSBALDO;MADARIAGA;10°;Lucila Leonor;Uso indebido de tecnología;Muy Grave;Resuelto
+1708;JOHANNA;BARBOSA;8°;Gloria Mary;Fraude académico;Muy Grave;Resuelto
+1709;RICARDO;CASTRO;8°;Claudia Patricia;Fraude académico;Muy Grave;Resuelto
+1710;SANDRA;MURCIA;6°;Maria Eugenia;Fraude académico;Muy Grave;Resuelto
+1711;CARLOS;VELASQUEZ;6°;Maria Del pilar;Fraude académico;Muy Grave;Resuelto
+1712;ANNY;BÁEZ;6°;Madeleine Cecilia;Fraude académico;Muy Grave;Pentiente
+1713;LUIS;TAPIAS;6°;Sandra Mildreth;Fraude académico;Muy Grave;Pentiente
+1714;VICTOR;MUÑOZ;6°;Jacqueline Maria;Ausencias injustificadas;Leve;Pentiente
+1715;MARIA;URRUTIA;6°;Maria Mercedes;Acoso escolar;Grave;Pentiente
+1716;MARTHA;HUERTAS;10°;Yajaira Cristina;Plagio o copia;Muy Grave;Pentiente
+1717;CESAR;RAMIREZ;10°;Diana Marcela;Ausencias injustificadas;Leve;Pentiente
+1718;SEBASTIÁN;RAMÍREZ;10°;Ana Marcela;Ausencias injustificadas;Leve;Pentiente
+1719;CLAUDIA;ALVAREZ;10°;Zulay Patricia;Ausencias injustificadas;Leve;Resuelto
+1720;MARIA;PAREJA;10°;Gina Margarita;Acoso escolar;Grave;Resuelto
+1721;CLAUDIA;ZULUAGA;10°;Marisabel;Acoso escolar;Grave;Resuelto
+1722;DIANA;FUENTES;10°;Maria Alexandra;Acoso escolar;Grave;Resuelto
+1723;JUAN;CEBALLOS;10°;Alba Luz;Violencia física;Muy Grave;Resuelto
+1724;ROBERTO;VIDAL;11°;Ivonne Margarita;Violencia física;Muy Grave;Resuelto
+1725;REINERE;LOS;11°;Maria Marcela;Violencia física;Muy Grave;Pentiente
+1726;SIRLENY;CARVAJAL;11°;Tatiana Carolina;Ausencias injustificadas;Leve;Pentiente
+1727;LORENA;ARANDA;11°;Janny Jadith;Ausencias injustificadas;Leve;Pentiente
+1728;CRISTIAN;PULIDO;11°;Piedad Cristina;Ausencias injustificadas;Leve;Pentiente
+1729;EDWARD;MORENO;11°;Fanny;Faltas de respeto;Grave;Pentiente
+1730;MIGUEL;RINCON;11°;Diana Patricia;Faltas de respeto;Grave;Pentiente
+1731;CESAR;CHARRY;11°;Liliana Esther;Faltas de respeto;Grave;Pentiente
+1732;GLORIA;CARMONA;11°;Monica Sofia;Robo;Muy Grave;Pentiente
+1733;YEISON;PALACIO;11°;Livis Yulieth;Robo;Muy Grave;Pentiente
+1734;STEYNER;VALENCIA;9°;Beatriz Helena;Robo;Muy Grave;Pentiente
+1735;PAOLA;MARIN;9°;Mileth Milena;Violencia física;Muy Grave;Pentiente
+1736;KARIN;RONDON;9°;Tania Del carmen;Violencia física;Muy Grave;Pentiente
+1737;BURTON;NUÑEZ;9°;Angela Maria;Violencia física;Muy Grave;Resuelto
+1738;CESAR;ARIAS;9°;Maria Virginia;Acoso escolar;Grave;Resuelto
+1739;DIEGO;OSSA;9°;Darling Stela;Acoso escolar;Grave;Resuelto
+1740;DILY;MAESTRE;9°;Liliana Maria;Acoso escolar;Grave;Resuelto
+1741;JORGE;CABRERA;9°;Alba Liz;Plagio o copia;Muy Grave;Resuelto
+1742;RUTH;RODRIGUEZ;9°;Rosa Elvira;Plagio o copia;Muy Grave;Resuelto
+1743;VERONICA;RIOS;9°;Martha Lucia;Plagio o copia;Muy Grave;Resuelto
+1744;HECTOR;DUSSAN;9°;Uldi Teresa;Plagio o copia;Muy Grave;Resuelto
+1745;DINA;MONTALVO;9°;Luz Stella;Faltas de respeto;Grave;Resuelto
+1746;FREDY;ANAYA;9°;Debora Ibeth;Faltas de respeto;Grave;Resuelto
+1747;JUAN;IRAL;10°;Blanca;Faltas de respeto;Grave;Resuelto
+1748;GERARDO;MONTENEGRO;11°;Loren Julia;Robo;Muy Grave;Resuelto
+1749;RUBEN;ACEVEDO;10°;Nelly;Robo;Muy Grave;Resuelto
+1750;NORBERTO;BLANCO;10°;Ana Milena;Robo;Muy Grave;Resuelto
+1751;CLAUDIA;SALOMÓN;10°;Melania;Violencia física;Muy Grave;Resuelto
+1752;AMERICA;RAMOS;10°;Aura Maria;Violencia física;Muy Grave;Resuelto
+1753;GILBERTO;BAUTISTA;10°;Ruth Mireya;Violencia física;Muy Grave;Resuelto
+1754;VICTOR;ALARCON;10°;Maria Cristina;Acoso escolar;Grave;Resuelto
+1755;ENITH;HERNANDEZ;10°;Magola Eugenia;Acoso escolar;Grave;Pentiente
+1756;CESAR;SIERRA;11°;Ana Dolores;Acoso escolar;Grave;Pentiente
+1757;MARTHA;MENDEZ;11°;Maria Elena;Acoso escolar;Grave;Pentiente
+1758;CLAUDIA;HENAO;11°;Flor Ines;Ausencias injustificadas;Leve;Resuelto
+1759;LUZ;MONZON;11°;Magda Estella;Ausencias injustificadas;Leve;Resuelto
+1760;OSWALDO;QUIROZ;11°;Ilse;Ausencias injustificadas;Leve;Resuelto
+1761;CARLOS;NOVOA;11°;Jacqueline Mabel;Ausencias injustificadas;Leve;Resuelto
+1762;YUDY;PULGARIN;11°;Marleny;Ausencias injustificadas;Leve;Resuelto
+1763;CLEMENCIA;MELO;11°;Luz Marina;Ausencias injustificadas;Leve;Resuelto
+1764;ALEXANDRA;GOMEZ;11°;Maria Cristina;Daño en las instalaciones;Muy Grave;Resuelto
+1765;CARLA;MEJÍA;11°;Piedad;Daño en las instalaciones;Muy Grave;Resuelto
+1766;VIVIANA;GIRALDO;11°;Luzmila;Daño en las instalaciones;Muy Grave;Resuelto
+1767;ANA;CASAS;11°;Stella Del carmen;Daño en las instalaciones;Muy Grave;Resuelto
+1768;DIEGO;ROCHA;11°;Martha;Uso de sustancias prohibidas;Muy Grave;Resuelto
+1769;ORLANDO;MONTENEGRO;11°;Elsa Liliana;Uso de sustancias prohibidas;Muy Grave;Resuelto
+1770;SALIN;IMBOL;11°;Liliana Del socorro;Uso de sustancias prohibidas;Muy Grave;Resuelto
+1771;JULIAN;MONTOYA;11°;Luz Marina;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1772;NORBERTO;;11°;Lucila;Fraude académico;Muy Grave;Pentiente
+1773;YULI;LOPEZ;11°;Vilma Osanna;Fraude académico;Muy Grave;Pentiente
+1774;LUIS;VELANDIA;11°;Gloria Elizabeth;Fraude académico;Muy Grave;Resuelto
+1775;BIBIANA;DURAN;11°;Doris Astrid;Fraude académico;Muy Grave;Resuelto
+1776;MANUEL;LOPEZ;11°;Maria Teresa;Fraude académico;Muy Grave;Resuelto
+1777;HUMBERTO;QUINTERO;11°;Luz Diva;Uso indebido de tecnología;Muy Grave;Resuelto
+1778;WILL;GAMBOA;11°;Margarita Rosa;Uso indebido de tecnología;Muy Grave;Resuelto
+1779;JUAN;BELTRAN;11°;Martha Lucia;Uso indebido de tecnología;Muy Grave;Resuelto
+1780;WALTER;CRIOLLO;11°;Marcela;Uso indebido de tecnología;Muy Grave;Resuelto
+1781;CLAUDIA;CUELLAR;11°;Maria Cecilia;Uso indebido de tecnología;Muy Grave;Resuelto
+1782;NORMA;SAAVEDRA;11°;Martha Lucia;Faltas de respeto;Grave;Resuelto
+1783;TAYMAR;GALLARDO;11°;Martha Lucia;Faltas de respeto;Grave;Resuelto
+1784;DIANA;ROBERTO;11°;Marleny Esneda;Faltas de respeto;Grave;Resuelto
+1785;GHEIDY;GALLO;11°;Mirian Maria;Faltas de respeto;Grave;Resuelto
+1786;JUAN;MARTINEZ;11°;Rosa Carlina;Faltas de respeto;Grave;Resuelto
+1787;LUISA;RONCANCIO;6°;Clara Ines;Robo;Muy Grave;Pentiente
+1788;ANA;GARCIA;6°;Luisa Fernanda;Robo;Muy Grave;Pentiente
+1789;EDUARD;BETANCOURTH;6°;Nubia Graciela;Robo;Muy Grave;Pentiente
+1790;KEIDY;DIAZ;6°;Esperanza;Robo;Muy Grave;Pentiente
+1791;WILFREDO;RODRIGUEZ;6°;Elvia Maria;Faltas de respeto;Grave;Pentiente
+1792;LEYDI;PEREZ;6°;Carmen Patricia;Faltas de respeto;Grave;Pentiente
+1793;CARLOS;CORDOBA;7°;Jeannette;Faltas de respeto;Grave;Pentiente
+1794;JOSE;RODRIGUEZ;7°;Liliana;Faltas de respeto;Grave;Pentiente
+1795;MIGUEL;LOZANO;7°;Nubia Margoth;Fraude académico;Grave;Resuelto
+1796;MARIA;SALGADO;7°;Maria Teresa;Fraude académico;Grave;Resuelto
+1797;LEIDY;CRUZ;7°;Janneth Cecilia;Fraude académico;Grave;Resuelto
+1798;MELISSA;LUNA;7°;Aidee;Ausencias injustificadas;Leve;Resuelto
+1799;PATRICIA;ARIZA;7°;Sandra Ines;Ausencias injustificadas;Leve;Resuelto
+1800;NIXON;PABON;7°;Gloria;Ausencias injustificadas;Leve;Resuelto
+1801;LEOPOLDO;PEÑA;7°;Sandra Liliana;Ausencias injustificadas;Leve;Resuelto
+1802;YOLANDA;ROJAS;8°;Dora Isabel;Ausencias injustificadas;Leve;Resuelto
+1803;NAYARETH;JIMENEZ;8°;Patricia Adela;Ausencias injustificadas;Leve;Resuelto
+1804;TULIA;ALFARO;8°;Rocio Carlota;Violencia física ;Muy Grave;Resuelto
+1805;JESÚS;SALAMANCA;8°;Carmen Rosa;Violencia física ;Muy Grave;Resuelto
+1806;ADOLFO;ZARATE;8°;Amanda;Violencia física ;Muy Grave;Resuelto
+1807;ANTONY;JESUS;8°;Ana Sofia;Violencia física ;Muy Grave;Resuelto
+1808;FRANCISCO;CORDOBA;8°;Emperatriz;Violencia física ;Muy Grave;Resuelto
+1809;HUGO;BELTRAN;8°;Sonia Maribel;Violencia física ;Muy Grave;Resuelto
+1810;BLANCA;RESTREPO;8°;Carolina;Acoso escolar;Grave;Pentiente
+1811;ROBINSON;JESUS;8°;Maria Piedad;Acoso escolar;Grave;Pentiente
+1812;OSCAR;PARRA;8°;Niyireth;Acoso escolar;Grave;Pentiente
+1813;TANIA;BOLAÑOS;8°;Lila Yanneth;Acoso escolar;Grave;Pentiente
+1814;ADELA;MAESTRE;8°;Marisol;Acoso escolar;Grave;Resuelto
+1815;LUISA;VELEZ;8°;Marilin Esther;Acoso escolar;Grave;Resuelto
+1816;OSCAR;PLAZAS;8°;Myriam Stella;Robo ;Muy Grave;Resuelto
+1817;JENNIFER;TAPIA;8°;Martha Lucia;Robo ;Muy Grave;Resuelto
+1818;GLORIA;FLOREZ;8°;Nubia Rosa;Robo ;Muy Grave;Resuelto
+1819;IRMA;RAMIREZ;8°;Luz Mirella;Robo ;Muy Grave;Resuelto
+1820;MANUEL;AGUDELO;8°;Marleny;Robo ;Muy Grave;Resuelto
+1821;NATALIA;LONDOÑO;8°;Marlen;Robo ;Muy Grave;Resuelto
+1822;ORLANDO;GIL;8°;Nancy Jeanet del pil;Plagio o copia;Muy Grave;Resuelto
+1823;DIANA;TORRES;8°;Laura Margarita;Plagio o copia;Muy Grave;Resuelto
+1824;SORAYA;CARO;8°;Pilar Del carmen;Plagio o copia;Muy Grave;Resuelto
+1825;MELANY;AMELL;8°;Myriam;Plagio o copia;Muy Grave;Resuelto
+1826;HECTOR;FORERO;8°;Luz Myriam;Plagio o copia;Muy Grave;Resuelto
+1827;ELIZABETH;SOTO;8°;Martha;Plagio o copia;Muy Grave;Resuelto
+1828;JOSE;LOZANO;8°;Edna Lilia;Ausencias injustificadas;Leve;Resuelto
+1829;ALSILVER;MENDIETA;8°;Martha Lucia;Ausencias injustificadas;Leve;Resuelto
+1830;CARLOS;ESTRADA;8°;Viviana Mercedes;Ausencias injustificadas;Leve;Resuelto
+1831;JOSE;VILLATE;6°;Jussy Mercedes;Violencia física ;Muy Grave;Resuelto
+1832;WILBER;VALLEJO;6°;Rosa Eugenia;Violencia física ;Muy Grave;Resuelto
+1833;JHON;ANDRADE;6°;Diana Zulay;Violencia física ;Muy Grave;Resuelto
+1834;PRUEBAS;JOBS;6°;Rubiela;Acoso escolar;Grave;Resuelto
+1835;PEPITO;MARTINEZ;6°;Maribel;Acoso escolar;Grave;Resuelto
+1836;RUMMENIGGE;ALVAREZ;6°;Dina Ilse;Acoso escolar;Grave;Resuelto
+1837;JAIDER;HUERTAS;10°;Marlen;Robo ;Muy Grave;Resuelto
+1838;JORGE;RAMIREZ;10°;Luz Dary;Robo ;Muy Grave;Pentiente
+1839;FRANCISCO;AYOLA;10°;Ana Carolina;Robo ;Muy Grave;Pentiente
+1840;ORLANDO;MEDINA;10°;Luz Stella;Plagio o copia;Muy Grave;Pentiente
+1841;JOSE;ESPAÑA;10°;Patricia;Plagio o copia;Muy Grave;Pentiente
+1842;ROBERTO;ROMERO;10°;Maria Ubaldina;Plagio o copia;Muy Grave;Pentiente
+1843;MARIA;SILVA;10°;Carmen Giovanna;Plagio o copia;Muy Grave;Pentiente
+1844;SANDRA;CASTIBLANCO;11°;Yolanda;Plagio o copia;Muy Grave;Pentiente
+1845;HEIDY;NIETO;9°;Maria Lourdes;Plagio o copia;Muy Grave;Pentiente
+1846;ELIANA;CARDENAS;9°;Maria Margarita;Acoso escolar;Grave;Pentiente
+1847;JIMY;MONDRAGON;9°;Edna Yamile;Acoso escolar;Grave;Pentiente
+1848;ROBERTO;DAVILA;9°;Maria Alicia;Acoso escolar;Grave;Pentiente
+1849;OVELIO;JIMENEZ;9°;Mariela;Acoso escolar;Grave;Pentiente
+1850;DELANIS;SALAS;9°;Esperanza;Acoso escolar;Grave;Resuelto
+1851;ROBINSON;GARCIA;9°;Blanca Nelly;Acoso escolar;Grave;Resuelto
+1852;MISAEL;RAMIREZ;6°;Anais Rocio;Ausencias injustificadas;Leve;Resuelto
+1853;JAIRO;GOMEZ;6°;Belsy Yamile;Ausencias injustificadas;Leve;Resuelto
+1854;JUAN;VILLA;6°;Dora Evelia;Ausencias injustificadas;Leve;Resuelto
+1855;SARA;CUARTAS;6°;Olga Lucia;Ausencias injustificadas;Leve;Resuelto
+1856;DANIELA;RESTREPO;7°;Maria Cristina;Robo ;Muy Grave;Resuelto
+1857;MARCELA;OSPINA;7°;Esperanza;Robo ;Muy Grave;Resuelto
+1858;HUGO;PALACIO;7°;Nubia;Robo ;Muy Grave;Resuelto
+1859;ANA;MORENO;7°;Elsa Patricia;Acoso escolar;Grave;Pentiente
+1860;JUAN;CHAVARRO;7°;Iris Janeth;Acoso escolar;Grave;Pentiente
+1861;ALEXANDER;GUTIERREZ;7°;Alessandra;Acoso escolar;Grave;Pentiente
+1862;BEATRIZ;MUÑOZ;7°;Jacqueline;Acoso escolar;Grave;Pentiente
+1863;VALENTINA;RAMIREZ;7°;Horfa Victoria;Acoso escolar;Grave;Pentiente
+1864;FEDERICO;VILLEGAS;7°;Gloria Patricia;Acoso escolar;Grave;Pentiente
+1865;MARCELO;GIRALDO;8°;Marisol;Violencia física;Muy Grave;Pentiente
+1866;CARLOS;PRADA;8°;Ludivia;Violencia física;Muy Grave;Pentiente
+1867;MANUEL;MONTAGUT;8°;Emilce;Violencia física;Muy Grave;Pentiente
+1868;LIBIA;ECHEVERRI;8°;Maria Alicia;Violencia física;Muy Grave;Resuelto
+1869;LENA;ACOSTA;8°;Diana Yolima;Violencia física;Muy Grave;Resuelto
+1870;LILIANA;VILLAR;8°;Gloria Stella;Violencia física;Muy Grave;Resuelto
+1871;JOSE;MANGA;8°;Nubia Yaneth;Plagio o copia;Muy Grave;Resuelto
+1872;LUIS;CASAS;8°;Martha;Plagio o copia;Muy Grave;Resuelto
+1873;JOSE;TIRADO;8°;Monica;Plagio o copia;Muy Grave;Resuelto
+1874;ELECSA;CASADIEGO;8°;Aura Patricia;Plagio o copia;Muy Grave;Resuelto
+1875;ALFONSO;MANRIQUE;8°;Sandra Patricia;Plagio o copia;Muy Grave;Resuelto
+1876;JANETH;DUEÑAS;8°;Offir Marina;Plagio o copia;Muy Grave;Resuelto
+1877;PATRICIA;FERIA;8°;Nurian;Robo;Muy Grave;Resuelto
+1878;ANGELY;MAYA;8°;Sandra Isabel;Robo;Muy Grave;Pentiente
+1879;ALICIA;ALFARO;8°;Maria Yolanda;Robo;Muy Grave;Pentiente
+1880;JUAN;LEMA;8°;Claudia Patricia;Robo;Muy Grave;Pentiente
+1881;YOLANDA;GOMEZ;8°;Olga Lucia;Ausencias injustificadas;Leve;Resuelto
+1882;EDGAR;PICON;8°;Marivel;Ausencias injustificadas;Leve;Resuelto
+1883;ANA;ESTRADA;8°;Kaathy Lucia;Ausencias injustificadas;Leve;Resuelto
+1884;NOHORA;OLAYA;8°;Ruth Jimena;Ausencias injustificadas;Leve;Resuelto
+1885;BEATRIZ;SALAZAR;8°;Martha Patricia;Ausencias injustificadas;Leve;Resuelto
+1886;JULIANA;PEREZ;8°;Saydee Katherine;Ausencias injustificadas;Leve;Resuelto
+1887;LEONIDAS;ANAYA;8°;Marta Liliana;Acoso escolar;Grave;Resuelto
+1888;FREDY;HOLGUIN;8°;Claudia Patricia;Acoso escolar;Grave;Resuelto
+1889;JORGE;GARCIA;8°;Marisol;Acoso escolar;Grave;Resuelto
+1890;JAVIER;DIAZ;8°;Claudia Patricia;Faltas de respeto;Grave;Resuelto
+1891;DIANA;RAMIREZ;8°;Lida Rocio;Faltas de respeto;Grave;Resuelto
+1892;EDWIN;VIEDA;8°;Maria Patricia;Faltas de respeto;Grave;Resuelto
+1893;WILLIAM;SOTO;8°;Sandra Stella;Faltas de respeto;Grave;Resuelto
+1894;DIEGO;CHITIVA;6°;Olga Li;Faltas de respeto;Grave;Resuelto
+1895;HUMBERTO;FUENZALIDA;6°;Sandra Patricia;Faltas de respeto;Grave;Resuelto
+1896;CRISTIAN;AGUIRRE;6°;Myriam Cecilia;Robo;Muy Grave;Resuelto
+1897;DIEGO;ORTIZ;6°;Rosa Elvira;Robo;Muy Grave;Resuelto
+1898;JOHN;PACHECO;6°;Alba Judith;Robo;Muy Grave;Resuelto
+1899;WILLIAM;HALABY;6°;Kattia Milena;Robo;Muy Grave;Pentiente
+1900;FELIX;RAMIREZ;10°;Claudia Marcela;Robo;Muy Grave;Pentiente
+1901;YESSENIA;PIÑEROS;10°;Yenny Mireya;Robo;Muy Grave;Pentiente
+1902;FERNADO;TURIZO;10°;Liliana;Violencia física;Muy Grave;Pentiente
+1903;ALVARO;ORDOÑEZ;10°;Gloria Liliana;Violencia física;Muy Grave;Resuelto
+1904;GISELL;PUGLIESE;10°;Fanny;Violencia física;Muy Grave;Resuelto
+1905;MERY;RODRIGUEZ;10°;Sonia Oliva;Violencia física;Muy Grave;Resuelto
+1906;IVAN;MARQUEZ;10°;Ana Rosa;Violencia física;Muy Grave;Resuelto
+1907;ANDREA;GARCIA;10°;Liliana Maria;Violencia física;Muy Grave;Resuelto
+1908;GUSTAVO;GONZALEZ;11°;Alba Cristina;Acoso escolar;Grave;Resuelto
+1909;SANDRA;MARTINEZ;11°;Maritza;Acoso escolar;Grave;Resuelto
+1910;CHRISTIAN;HERAZO;11°;Claudia Adriana del;Acoso escolar;Grave;Resuelto
+1911;RAFAEL;GUZMAN;11°;Gloria Cecilia;Acoso escolar;Grave;Resuelto
+1912;JUAN;RUIZ;11°;Nancy Janneth;Acoso escolar;Grave;Resuelto
+1913;JENNY;GONZALEZ;11°;Janneth Patricia;Acoso escolar;Grave;Resuelto
+1914;LUZ;GUTIERREZ;11°;Diana Marcela;Faltas de respeto;Grave;Resuelto
+1915;CARLOS;GUTIERREZ;11°;Liby Janeth;Robo;Muy Grave;Resuelto
+1916;SOCRATES;BENITEZ;11°;Olga Estela;Violencia física;Muy Grave;Resuelto
+1917;RONALD;SIERRA;11°;Luz Gineth;Acoso escolar;Grave;Resuelto
+1918;ROSALBA;HENAO;9°;Nancy Rocio;Faltas de respeto;Grave;Pentiente
+1919;LILIANA;PACHECO;9°;Emilsen;Robo;Muy Grave;Pentiente
+1920;HECTOR;FRANCO;9°;Clara Yaneth;Violencia física;Muy Grave;Pentiente
+1921;CARMEN;MORA;9°;Diana Marcela;Faltas de respeto;Grave;Pentiente
+1922;MARLENY;MONSALVE;9°;Liliana;Faltas de respeto;Grave;Pentiente
+1923;JHYRA;PINZON;9°;Patricia Milena;Faltas de respeto;Grave;Pentiente
+1924;JUAN;CASTRO;9°;Lizeth Yamile;Faltas de respeto;Grave;Resuelto
+1925;LUZ;RIOS;9°;Andrea;Faltas de respeto;Grave;Resuelto
+1926;SULAY;RIOS;9°;Biviana Rocio;Faltas de respeto;Grave;Resuelto
+1927;JAVIER;MEDINA;9°;Tania Milena;Violencia física;Muy Grave;Resuelto
+1928;GERMAN;CORDON;9°;Magda Lorena;Violencia física;Muy Grave;Resuelto
+1929;VALERIA;RINCON;9°;Rosa Fabiola;Violencia física;Muy Grave;Resuelto
+1930;ELOISA;JIMENEZ;9°;Sandra Jeannette;Violencia física;Muy Grave;Resuelto
+1931;CARLOS;ESCOBAR;10°;Sandra Patricia;Violencia física;Muy Grave;Resuelto
+1932;CARLOS;VARGAS;11°;Martha Isabel;Plagio o copia;Muy Grave;Resuelto
+1933;JUAN;SERRANO;10°;Magdalena Maria;Plagio o copia;Muy Grave;Resuelto
+1934;DANIEL;CONTRERAS;10°;Yadia Eny;Plagio o copia;Muy Grave;Resuelto
+1935;NOHORA;LUNA;10°;Rosalia;Plagio o copia;Muy Grave;Resuelto
+1936;CARLOS;CASTRO;10°;Olga Patricia;Plagio o copia;Muy Grave;Resuelto
+1937;JUAN;GRAJALES;10°;Nubia Stella;Plagio o copia;Muy Grave;Pentiente
+1938;JUAN;CELY;10°;Gloria Yanet;Robo;Muy Grave;Resuelto
+1939;LUZ;SANABRIA;10°;Janneth;Robo;Muy Grave;Resuelto
+1940;ANDRES;GARCIA;11°;Claudia Edilia;Robo;Muy Grave;Resuelto
+1941;LILIANA;OÑATE;11°;Yenny Rocio;Robo;Muy Grave;Pentiente
+1942;JUAN;CORTES;11°;Angela Patricia;Robo;Muy Grave;Resuelto
+1943;JULIAN;MOLINA;11°;Diana Esperanza;Robo;Muy Grave;Resuelto
+1944;KAREN;NIÑO;11°;Adriana Del pilar;Acoso escolar;Grave;Resuelto
+1945;CRISTIAN;RAMIREZ;11°;Ana Elvira;Acoso escolar;Grave;Resuelto
+1946;JOHANNA;VERGARA;11°;Adriana Marcela;Acoso escolar;Grave;Resuelto
+1947;LADY;HERNANDEZ;11°;Maria Victoria;Acoso escolar;Grave;Resuelto
+1948;YEIME;GOMEZ;11°;Karin Amalia;Acoso escolar;Grave;Resuelto
+1949;JORGE;DIAZ;11°;Sandra Patricia;Acoso escolar;Grave;Resuelto
+1950;PATRICIA;GONZALEZ;11°;Magda Liliana;Acoso escolar;Grave;Resuelto
+1951;GUILLERMO;REYES;11°;Monica Ines;Acoso escolar;Grave;Resuelto
+1952;JOHAN;LONDOÑO;11°;Consuelo;Fraude académico;Muy Grave;Resuelto
+1953;JAVIER;RUIZ;11°;Luisa Maria;Fraude académico;Muy Grave;Resuelto
+1954;AMAURY;NUÑEZ;11°;Monica Patricia;Fraude académico;Muy Grave;Resuelto
+1955;CONSUELO;CAICEDO;11°;Alexandra;Fraude académico;Muy Grave;Resuelto
+1956;DIANA;CAMPOS;11°;Sandra Aleyda;Fraude académico;Muy Grave;Resuelto
+1957;ALEJANDRA;GARCIA;11°;Claudia Constanza;Fraude académico;Muy Grave;Resuelto
+1958;EDUARDO;MARTINEZ;11°;Edna Jasbleidy;Uso indebido de tecnología;Muy Grave;Resuelto
+1959;SANDRA;VILARDY;11°;Leonor;Uso indebido de tecnología;Muy Grave;Resuelto
+1960;RAMON;RODRIGUEZ;11°;Yenny Rocio;Uso indebido de tecnología;Muy Grave;Pentiente
+1961;ALVARO;PRADA;11°;Maria Yazmin;Uso indebido de tecnología;Muy Grave;Pentiente
+1962;MARIA;DELGADO;11°;Lizeth Milena;Uso indebido de tecnología;Muy Grave;Pentiente
+1963;IVAN;CAMARGO;11°;Adriana Fernanda;Uso indebido de tecnología;Muy Grave;Pentiente
+1964;LEYDI;HIGIDIO;11°;Jerly Lorena;Daño en las instalaciones;Muy Grave;Pentiente
+1965;GUILLERMO;HERRERA;11°;Martha Jeanneth;Daño en las instalaciones;Muy Grave;Pentiente
+1966;DANIEL;PALACIOS;11°;Marcela Viviana;Daño en las instalaciones;Muy Grave;Resuelto
+1967;LUIS;SAAVEDRA;11°;Diana Del pilar;Daño en las instalaciones;Muy Grave;Resuelto
+1968;CARMEN;BERNAL;11°;Marisol;Daño en las instalaciones;Muy Grave;Resuelto
+1969;JORGE;VILLADA;11°;Carmen Liliana;Daño en las instalaciones;Muy Grave;Resuelto
+1970;LUCAS;MUÑOZ;11°;Angela Maria;Violencia física ;Muy Grave;Resuelto
+1971;JULIO;ALDANA;6°;Angela Fernanda;Violencia física ;Muy Grave;Resuelto
+1972;FLOR;GUTIERREZ;6°;Nancy Monica;Violencia física ;Muy Grave;Resuelto
+1973;JOSE;SOTO;6°;Luz Adela;Violencia física ;Muy Grave;Resuelto
+1974;ANNGY;URIBE;6°;Stella;Violencia física ;Muy Grave;Pentiente
+1975;ALEJANDRA;BOTERO;6°;Consuelo;Violencia física ;Muy Grave;Pentiente
+1976;MONICA;PEINADO;6°;Yanitt Cecilia;Robo;Muy Grave;Pentiente
+1977;YEISON;PALACIO;7°;Nidia Andrea;Robo;Muy Grave;Pentiente
+1978;BIBIANA;ESTRADA;7°;Luz Stella;Robo;Muy Grave;Pentiente
+1979;CLAUDIA;REYES;7°;Nidia Marleny;Robo;Muy Grave;Pentiente
+1980;JULIANA;VILLEGAS;7°;Lolita Maria alejandra;Faltas de respeto;Grave;Pentiente
+1981;CARLOS;;7°;Sandra Isabel;Faltas de respeto;Grave;Pentiente
+1982;JUAN;JARAMILLO;7°;Adriana Esperanza;Faltas de respeto;Grave;Pentiente
+1983;MANUEL;OCORO;11°;Liliana Ros;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1984;MARIA;AREVALO;11°;Maria Clara;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1985;LUZ;BARRETO;11°;Yolima Ximena;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1986;MARIA;FORERO;11°;Maria Mercedes;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1987;KELLI;IDROBO;11°;Alexandra;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1988;LUZ;MORENO;11°;Nataly Carolina;Uso de sustancias prohibidas;Muy Grave;Pentiente
+1989;HERNAN;DAVILA;11°;Vihancy Yahary;Robo;Muy Grave;Pentiente
+1990;RAFAEL;MARIÑO;8°;Ruth Marisol;Robo;Muy Grave;Pentiente
+1991;CLAUDIA;HOYOS;8°;Sandra Milena;Robo;Muy Grave;Pentiente
+1992;ANDRES;ROMERO;8°;Diana Isabel;Robo;Muy Grave;Resuelto
+1993;OSCAR;CARVAJAL;8°;Gina;Robo;Muy Grave;Resuelto
+1994;CLARA;PILAR;8°;Adriana Del pilar;Robo;Muy Grave;Resuelto
+1995;OLGA;RAMÍREZ;8°;Maria Jose;Robo;Muy Grave;Resuelto
+1996;ANDRES;ARROYAVE;8°;Sandra Patricia;Faltas de respeto;Grave;Resuelto
+1997;.JOSE;BANDA;8°;Andrea Liliana;Faltas de respeto;Grave;Resuelto
+1998;CARLOS;SILVA;8°;Blanca Lucero;Faltas de respeto;Grave;Pentiente
+1999;ARIEL;CALDERON;8°;Maria Cristina;Faltas de respeto;Grave;Pentiente
+2000;TOMAS;TOVAR;8°;Adriana Patricia;Faltas de respeto;Grave;Pentiente
+2001;JOSE;MOSCOTE;8°;Carolina;Faltas de respeto;Grave;Pentiente
+2002;SANDRA;DUSSAN;8°;Rosa Esperanza;Uso indebido de tecnología;Muy Grave;Resuelto
+2003;LIZ;HERNANDEZ;8°;Magnolia Teresa;Uso indebido de tecnología;Muy Grave;Resuelto
+2004;KARENT;MARTINEZ;8°;Yudy Adalide;Uso indebido de tecnología;Muy Grave;Resuelto
+2005;AURA;ACEVEDO;8°;Betty Rosmira;Uso indebido de tecnología;Muy Grave;Resuelto
+2006;JULIO;CONTRERAS;8°;Sonia Aideth;Uso indebido de tecnología;Muy Grave;Resuelto
+2007;MIGUEL;PAIPILLA;8°;Luz Elena;Uso indebido de tecnología;Muy Grave;Resuelto
+2008;IRMA;PIÑA;8°;Rocio;Fraude académico;Muy Grave;Resuelto
+2009;INGRID;PAEZ;8°;Susana Idarela;Fraude académico;Muy Grave;Resuelto
+2010;JUAN;OSPINA;8°;Ingrid Rocio;Fraude académico;Muy Grave;Resuelto
+2011;JEAN;LINERO;8°;Diana Patricia;Fraude académico;Muy Grave;Pentiente
+2012;LISETTE;RUEDA;8°;Diana Marcela;Fraude académico;Muy Grave;Pentiente
+2013;LUIS;BAUTISTA;8°;Rosa Alexandra;Fraude académico;Muy Grave;Pentiente
+2014;CRISTOBAL;SIERRA;8°;Marithza Natividad;Ausencias injustificadas;Leve;Pentiente
+2015;MARGARETH;SILVA;6°;Carol Liliana;Acoso escolar;Grave;Pentiente
+2016;MARIA;GUEVARA;6°;Deissy Yanive;Plagio o copia;Muy Grave;Pentiente
+2017;EDITH;BALLESTEROS;6°;Ana Carolina;Ausencias injustificadas;Leve;Pentiente
+2018;LEYDI;REYES;6°;Silvana;Ausencias injustificadas;Leve;Resuelto
+2019;ROGER;CARRILLO;6°;Goethny Fernanda;Ausencias injustificadas;Leve;Resuelto
+2020;JUAN;CADENA;6°;Lidia Janeth;Acoso escolar;Grave;Resuelto
+2021;MERCEDES;ESPINEL;10°;Andrea Viviana;Acoso escolar;Grave;Resuelto
+2022;LAURA;HERNANDEZ;10°;Maria Carolina;Acoso escolar;Grave;Resuelto
+2023;JUAN;BUSTAMANTE;10°;Isabel Cristina;Violencia física;Muy Grave;Resuelto
+2024;FROY;HERNANDEZ;10°;Sonia Astrid;Violencia física;Muy Grave;Pentiente
+2025;ALCIDES;GARCÍA;10°;Ana Celmira;Violencia física;Muy Grave;Pentiente
+2026;LYDA;GONZALEZ;10°;Carmen Lucia;Ausencias injustificadas;Leve;Pentiente
+2027;LUIS;GAITAN;10°;Zully Marcela;Ausencias injustificadas;Leve;Pentiente
+2028;EDGAR;ROJAS;11°;Bertha Cristina;Ausencias injustificadas;Leve;Pentiente
+2029;ADRIANA;LOZANO;9°;Diana Paola;Faltas de respeto;Grave;Pentiente
+2030;JAIME;ALZATE;9°;Sandra Mercedes del;Faltas de respeto;Grave;Pentiente
+2031;CICERON;JIMENEZ;9°;Luisa Margarita;Faltas de respeto;Grave;Pentiente
+2032;JANS;MARTINEZ;9°;Nancy Paola;Robo;Muy Grave;Pentiente
+2033;EDNA;BUSTOS;9°;Sandra Milena;Robo;Muy Grave;Pentiente
+2034;DEISON;ACEVEDO;9°;Heliana Angelica;Robo;Muy Grave;Pentiente
+2035;MARIA;RAMIREZ;9°;Elizabeth;Violencia física;Muy Grave;Pentiente
+2036;JOHN;GÒMEZ;6°;Olga Patricia;Violencia física;Muy Grave;Resuelto
+2037;BEATRIZ;POSADA;6°;Lina Marcela;Violencia física;Muy Grave;Resuelto
+2038;ISMAEL;LEON;6°;Carolina;Acoso escolar;Grave;Resuelto
+2039;MARIA;BOLIVAR;6°;Ivhon Adriana;Acoso escolar;Grave;Resuelto
+2040;EDGAR;BAMBAGUE;7°;Maria Carolina;Acoso escolar;Grave;Resuelto
+2041;WALDIN;DURAN;7°;Margarita Rosa;Plagio o copia;Muy Grave;Resuelto
+2042;CLAUDIA;GELVEZ;7°;Eliana Patricia;Plagio o copia;Muy Grave;Resuelto
+2043;LINA;ARBELAEZ;7°;Maria Alejandra;Plagio o copia;Muy Grave;Resuelto
+2044;GABRIEL;AGON;7°;Sandra Milena del so;Plagio o copia;Muy Grave;Resuelto
+2045;EDNA;PILAR;7°;Cristina;Faltas de respeto;Grave;Resuelto
+2046;ANDRES;VILLEGAS;7°;Ella Dalila;Faltas de respeto;Grave;Resuelto
+2047;CÉSAR;HERRERA;7°;Mislen Andrea;Faltas de respeto;Grave;Resuelto
+2048;CARLOS;CARVAJAL;7°;Shirley Geovanna;Robo;Muy Grave;Resuelto
+2049;CATERINE;KUETGAJE;8°;Karenth Adriana;Robo;Muy Grave;Resuelto
+2050;LEYDY;ROMERO;8°;Sayra Giovana;Robo;Muy Grave;Resuelto
+2051;JUAN;JACOME;8°;Luz Anyeli;Violencia física;Muy Grave;Resuelto
+2052;JULIAN;ROJAS;8°;Erika Alexandra;Violencia física;Muy Grave;Resuelto
+2053;MARILY;VANEGAS;8°;Luz Angela;Violencia física;Muy Grave;Resuelto
+2054;LUIS;CELIS;8°;Andrea;Acoso escolar;Grave;Pentiente
+2055;JAIRO;ESCOBAR;8°;Monica Liliana;Acoso escolar;Grave;Pentiente
+2056;MAR;BANGUERO;8°;Astrid Maried;Acoso escolar;Grave;Pentiente
+2057;JAIME;CASTRO;8°;Carolina;Acoso escolar;Grave;Resuelto
+2058;ALVARO;FATIMA;8°;Tania Milena;Ausencias injustificadas;Leve;Resuelto
+2059;DANIELA;VALENCIA;8°;Lourdes Paola;Ausencias injustificadas;Leve;Resuelto
+2060;MARTHA;FEHO;8°;Diana Fabiola;Ausencias injustificadas;Leve;Resuelto
+2061;NANCY;LOPEZ;8°;Carmenza;Ausencias injustificadas;Leve;Resuelto
+2062;LUZ;HENAO;8°;Delfa Pilar;Ausencias injustificadas;Leve;Resuelto
+2063;JUAN;ARENAS;8°;Claudia Milena;Ausencias injustificadas;Leve;Resuelto
+2064;ANDRÉS;HERNÁNDEZ;8°;Glenis Paola;Daño en las instalaciones;Muy Grave;Resuelto
+2065;LUIS;CHAVES;8°;Nancy Janneth;Daño en las instalaciones;Muy Grave;Resuelto
+2066;CLAUDIA;MANOTAS;8°;Sandra Yamile;Daño en las instalaciones;Muy Grave;Resuelto
+2067;CHARLES;BENAVIDES;8°;Sandra Milena;Daño en las instalaciones;Muy Grave;Resuelto
+2068;ANTONIO;THOMAS;10°;Andrea Nataly;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2069;DAIRA;TELLEZ;10°;Andrea;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2070;JEISSON;HERNÁNDEZ;10°;Mauren Nivet;Uso de sustancias prohibidas;Muy Grave;Pentiente
+2071;ANDRES;ROLDAN;10°;Yenny Elizabeth;Uso de sustancias prohibidas;Muy Grave;Pentiente
+2072;XIMENA;GARCIA;10°;Maria Del pilar;Fraude académico;Muy Grave;Pentiente
+2073;ANA;ARBOLEDA;11°;Sonia Yaneth;Fraude académico;Muy Grave;Resuelto
+2074;ROSA;CESPEDES;10°;Gina Paola;Fraude académico;Muy Grave;Resuelto
+2075;ROSARIO;USECHE;10°;Martha Lucia;Fraude académico;Muy Grave;Resuelto
+2076;LUIS;ALVAREZ;10°;Elsa Victoria;Fraude académico;Muy Grave;Resuelto
+2077;CARLOS;ESQUIAQUI;10°;Sandra Yazmin;Uso indebido de tecnología;Muy Grave;Resuelto
+2078;ALEJANDRA;GARTNER;10°;Angela Maria;Uso indebido de tecnología;Muy Grave;Resuelto
+2079;JUAN;MORALES;11°;Karime;Uso indebido de tecnología;Muy Grave;Resuelto
+2080;GINA;LEON;10°;Liliana;Uso indebido de tecnología;Muy Grave;Resuelto
+2081;BERNARDO;GUTIERREZ;10°;Diana Marcela;Uso indebido de tecnología;Muy Grave;Resuelto
+2082;JONATHAN;MALAGON;10°;Maria Liliana;Faltas de respeto;Grave;Resuelto
+2083;NOHORA;TOVAR;10°;Nathalie Andrea;Faltas de respeto;Grave;Resuelto
+2084;ROSALBA;ORTIZ;10°;Natalia Andrea;Faltas de respeto;Grave;Resuelto
+2085;GENOVEVA;JARABA;11°;Tulia Lorena;Faltas de respeto;Grave;Resuelto
+2086;MARIA;LOS;10°;Ana Maria;Faltas de respeto;Grave;Pentiente
+2087;ANGELA;CUBIDES;10°;Beatriz Helena;Robo;Muy Grave;Pentiente
+2088;ALEXANDER;CORREDOR;10°;Beatriz Eugenia;Robo;Muy Grave;Pentiente
+2089;MARÍA;AYALA;10°;Arianna Yineth;Robo;Muy Grave;Pentiente
+2090;JENNY;CAPOTE;10°;Aura Betulia;Robo;Muy Grave;Pentiente
+2091;JAIME;TENORIO;10°;Consuelo;Faltas de respeto;Grave;Pentiente
+2092;DANIELA;AGUDELO;11°;Amanda Patricia;Faltas de respeto;Grave;Pentiente
+2093;JONATAN;MORALES;11°;Yessica Alexandra;Faltas de respeto;Grave;Pentiente
+2094;DERLY;ARIZA;11°;Lilia Fernanda;Faltas de respeto;Grave;Resuelto
+2095;DIANA;MARIÑO;11°;Liliana Maria;Fraude académico;Grave;Resuelto
+2096;ELVER;MOLINA;11°;Ginna Dolly;Fraude académico;Grave;Resuelto
+2097;RHONAL;NAVARRO;11°;Leonilde;Ausencias injustificadas;Leve;Resuelto
+2098;JUSTINIANO;BRYAN;11°;Nelly Johana;Ausencias injustificadas;Leve;Resuelto
+2099;CARLOS;MARTÍNEZ;11°;Karyna Paola;Ausencias injustificadas;Leve;Resuelto
+2100;DELAIN;ARIAS;11°;Angela Ximena;Ausencias injustificadas;Leve;Resuelto
+2101;NINY;MORENO;11°;Tania;Ausencias injustificadas;Leve;Resuelto
+2102;JHON;LOPEZ;9°;Gilda Yanin;Ausencias injustificadas;Leve;Resuelto
+2103;ALBERTO;VELEZ;9°;Ximena;Violencia física ;Muy Grave;Resuelto
+2104;JULIA;ARRIETA;9°;Luz Andrea;Violencia física ;Muy Grave;Resuelto
+2105;FABIAN;RENDON;9°;Nelly Johanna;Violencia física ;Muy Grave;Resuelto
+2106;YANERIS;COTES;9°;Paulina Viviana;Violencia física ;Muy Grave;Resuelto
+2107;CARLOS;CAMARGO;9°;Maria Liliana;Violencia física ;Muy Grave;Resuelto
+2108;ANA;VELEZ;9°;Angela;Violencia física ;Muy Grave;Resuelto
+2109;ANA;MORENO;9°;Diana Marcela;Acoso escolar;Grave;Pentiente
+2110;NORA;BARTOLO;9°;Pilar Patricia;Acoso escolar;Grave;Pentiente
+2111;HELENE;GOMEZ;9°;Laura Lucrecia;Acoso escolar;Grave;Pentiente
+2112;MILTHON;ARIAS;9°;Sonia Carolina;Acoso escolar;Grave;Pentiente
+2113;PAULO;PÉREZ;9°;Angela Viviana;Acoso escolar;Grave;Resuelto
+2114;CINDY;SUAZA;9°;Claudia Patricia;Acoso escolar;Grave;Resuelto
+2115;ANDRES;RESTREPO;10°;Yenny Del pilar;Robo ;Muy Grave;Resuelto
+2116;LUIS;DUARTE;11°;Martha Isabel;Robo ;Muy Grave;Resuelto
+2117;SERGIO;RAMIREZ;10°;Yarimis Lisbet;Robo ;Muy Grave;Resuelto
+2118;JORGE;CASTAÑO;10°;Claudia Consuelo;Robo ;Muy Grave;Resuelto
+2119;CLARA;GUATAME;10°;Luz Stella;Robo ;Muy Grave;Resuelto
+2120;CESAR;MUÑOZ;10°;Tania Marcela;Robo ;Muy Grave;Resuelto
+2121;MARIA;MUÑOZ;10°;Astrid Johanna;Plagio o copia;Muy Grave;Resuelto
+2122;XIOMARA;PIRAMANRIQUE;10°;Leidi Marcela;Plagio o copia;Muy Grave;Resuelto
+2123;SANDRA;SOCORRO;10°;Lucy Johanna;Plagio o copia;Muy Grave;Resuelto
+2124;JARE;UGARTE;11°;Nancy Paola;Plagio o copia;Muy Grave;Resuelto
+2125;ELIANA;SARMIENTO;11°;Carolina;Plagio o copia;Muy Grave;Resuelto
+2126;SANDRA;CAMARGO;11°;Erika Isabel;Plagio o copia;Muy Grave;Pentiente
+2127;ROBERTO;PEREZ;11°;Migdalia Zulay;Ausencias injustificadas;Leve;Pentiente
+2128;ADRIANA;DEL;11°;Maria Jose;Ausencias injustificadas;Leve;Pentiente
+2129;FREDY;PATIÑO;11°;Juliana;Ausencias injustificadas;Leve;Pentiente
+2130;DIEGO;CONTRERAS;11°;Angelica Maria;Violencia física ;Muy Grave;Pentiente
+2131;JULIAN;POLANIA;11°;Isabel;Violencia física ;Muy Grave;Pentiente
+2132;LILIANA;SALAMANCA;11°;Lina Marcela;Violencia física ;Muy Grave;Pentiente
+2133;FRANCO;VEGA;11°;Luz Dary;Acoso escolar;Grave;Pentiente
+2134;ALEXIS;GOMEZ;11°;Adriana Marcela;Acoso escolar;Grave;Pentiente
+2135;MARCELA;RODRIGUEZ;11°;Xiomara Patricia;Acoso escolar;Grave;Pentiente
+2136;LINA;MARGARITA;11°;Magdalena Del carmen;Robo ;Muy Grave;Pentiente
+2137;MARIA;MONTAÑEZ;11°;Bibiana Angelina;Robo ;Muy Grave;Pentiente
+2138;DIEGO;SAA;11°;Francy Johanna;Robo ;Muy Grave;Resuelto
+2139;RAUL;GUERRERO;11°;Ingrid Johanna;Plagio o copia;Muy Grave;Resuelto
+2140;ALTUS;BAQUERO;11°;Adriana Lucia;Plagio o copia;Muy Grave;Resuelto
+2141;ELEAZAR;HERNANDEZ;11°;Sandra Liliana;Plagio o copia;Muy Grave;Resuelto
+2142;DAVID;GONZALEZ;11°;Martha Carolina;Plagio o copia;Muy Grave;Resuelto
+2143;MARIA;FERREIRA;11°;Sandra Milena;Plagio o copia;Muy Grave;Resuelto
+2144;YIANNY;PALACIOS;11°;Diana Marcela;Plagio o copia;Muy Grave;Resuelto
+2145;MILEDY;GALEANO;11°;Leydy Liliana;Acoso escolar;Grave;Resuelto
+2146;MAIBETH;RIVERO;11°;Diana Mayerly;Acoso escolar;Grave;Resuelto
+2147;JOSE;ARGOTE;11°;Diana Carolina;Acoso escolar;Grave;Pentiente
+2148;MARCELA;CUELLAR;11°;Carolina Del pilar;Acoso escolar;Grave;Pentiente
+2149;RODRIGO;GOMEZ;11°;Lina Paola;Acoso escolar;Grave;Pentiente
+2150;EDGAR;OLARTE;11°;Sandra Ximena;Acoso escolar;Grave;Pentiente
+2151;JASSNEY;OSPINA;11°;Ingrid Dayana;Ausencias injustificadas;Leve;Pentiente
+2152;CLAUDIA;ESCOBAR;11°;Andrea Camila;Ausencias injustificadas;Leve;Pentiente
+2153;ROSA;VASQUEZ;11°;Ana Islober;Ausencias injustificadas;Leve;Pentiente
+2154;HARWY;RAMIREZ;11°;Andrea Alexandraw pa;Ausencias injustificadas;Leve;Pentiente
+2155;KAROL;VILLAMIL;6°;Blanca Nory;Robo ;Muy Grave;Pentiente
+2156;ALEJANDRO;MELO;6°;Angelica;Robo ;Muy Grave;Pentiente
+2157;LUIS;JIMENEZ;6°;Diana Paola;Robo ;Muy Grave;Pentiente
+2158;ROBERTO;CAMACHO;6°;Francia Paola;Acoso escolar;Grave;Pentiente
+2159;JAIME;SUAREZ;6°;Monica Andrea;Acoso escolar;Grave;Resuelto
+2160;CLAUDIA;ACEVEDO;6°;Andrea Paola;Acoso escolar;Grave;Resuelto
+2161;GUSTAVO;REYES;7°;Lilian Andrea;Acoso escolar;Grave;Resuelto
+2162;SANDRA;CASTRO;7°;Bibiana;Acoso escolar;Grave;Resuelto
+2163;EIDI;OSSA;7°;Natalia Andrea;Acoso escolar;Grave;Resuelto
+2164;DIANA;HOYOS;7°;Claudia Patricia;Violencia física;Muy Grave;Resuelto
+2165;JUAN;PERDOMO;7°;Tania Violeta;Violencia física;Muy Grave;Resuelto
+2166;JORGE;VARGAS;7°;Marcela Cecilia;Violencia física;Muy Grave;Resuelto
+2167;EDUARDO;CARRILLO;7°;Adriana Patricia;Violencia física;Muy Grave;Resuelto
+2168;GONZALO;CARREÑO;7°;Adriana Jazmin;Violencia física;Muy Grave;Resuelto
+2169;ALVARO;GONZALEZ;7°;Angela Viviana;Violencia física;Muy Grave;Pentiente
+2170;NEIMAN;GUERRERO;8°;Ivonne Elena;Plagio o copia;Muy Grave;Pentiente
+2171;TANYA;CORTES;8°;Poliana;Plagio o copia;Muy Grave;Pentiente
+2172;ANDREA;PILAR;8°;Jenny Patricia;Plagio o copia;Muy Grave;Pentiente
+2173;RAUL;BUITRAGO;8°;Martha Viviana;Plagio o copia;Muy Grave;Resuelto
+2174;VANESSA;OCHOA;8°;Veronica;Plagio o copia;Muy Grave;Resuelto
+2175;MILTON;GARCIA;8°;Andrea Paola;Plagio o copia;Muy Grave;Resuelto
+2176;WALTER;ACOSTA;8°;Maria Paola;Robo;Muy Grave;Resuelto
+2177;EDUARDO;ARREDONDO;8°;Lina Marcela;Robo;Muy Grave;Resuelto
+2178;JACQUELINE;CUEVAS;8°;Ana Milena;Robo;Muy Grave;Resuelto
+2179;DARIO;PIÑEROS;8°;Lina Maria;Robo;Muy Grave;Resuelto
+2180;GUILLERMO;MOLINA;8°;Maria Paula;Ausencias injustificadas;Leve;Resuelto
+2181;DUBAN;VELASCO;8°;Bibian Eileen;Ausencias injustificadas;Leve;Resuelto
+2182;EDGAR;LEDEZMA;8°;Cristina;Ausencias injustificadas;Leve;Resuelto
+2183;EDGAR;PIÑEROS;8°;Diana Carolina;Ausencias injustificadas;Leve;Resuelto
+2184;GUSTAVO;TORRES;8°;Diana Carolina;Ausencias injustificadas;Leve;Resuelto
+2185;JULIO;GOMEZ;8°;Natalia Paola;Ausencias injustificadas;Leve;Resuelto
+2186;PAOLA;MOLANO;8°;Madia Elena;Acoso escolar;Grave;Pentiente
+2187;JAIRO;PRADA;8°;Yuly Andrea;Acoso escolar;Grave;Pentiente
+2188;LUCY;GARCIA;8°;Maria Camila;Acoso escolar;Grave;Pentiente
+2189;HENRY;RINCON;8°;Monica Alejandra;Faltas de respeto;Grave;Pentiente
+2190;JOSE;BERRIO;8°;Leidy Johanna;Faltas de respeto;Grave;Pentiente
+2191;ADELA;CARDONA;8°;Ana Carolina;Faltas de respeto;Grave;Pentiente
+2192;CARLOS;DUARTE;8°;Yuri Katerine;Faltas de respeto;Grave;Pentiente
+2193;MONCHY;MORENO;8°;Jessica Lorena;Faltas de respeto;Grave;Pentiente
+2194;CARLOS;CORREA;8°;Jayne Ayleen;Faltas de respeto;Grave;Pentiente
+2195;JOSUE;BERNAL;8°;Luisa Fernanda;Robo;Muy Grave;Pentiente
+2196;JUAN;BONILLA;8°;Andrea;Robo;Muy Grave;Pentiente
+2197;JOHANNA;TAVERA;8°;Viviana Andrea;Robo;Muy Grave;Pentiente
+2198;ISABEL;LONDOÑO;8°;Marisol;Robo;Muy Grave;Resuelto
+2199;JULIAN;LOPERA;6°;Angelica Maria;Robo;Muy Grave;Resuelto
+2200;LINA;MEJIA;6°;Ingrid Rony;Robo;Muy Grave;Resuelto
+2201;WILLIAM;PALOMINO;6°;Claudia Lorena;Violencia física;Muy Grave;Resuelto
+2202;LUIS;ARCILA;6°;Ana Maria;Violencia física;Muy Grave;Resuelto
+2203;ANGIE;LOZANO;6°;Hasbleidy Katerine;Violencia física;Muy Grave;Resuelto
+2204;NORMA;FERNANDEZ;6°;Nancy Ximena;Violencia física;Muy Grave;Resuelto
+2205;LAURA;DELGADO;10°;Fabiola;Violencia física;Muy Grave;Resuelto
+2206;OSCAR;RUIZ;10°;Johana Marcela;Violencia física;Muy Grave;Resuelto
+2207;LUIS;ARANGO;10°;Monica;Acoso escolar;Grave;Pentiente
+2208;EDWIN;ARIAS;10°;Laura Marcela;Acoso escolar;Grave;Pentiente
+2209;MARIA;MEDINA;10°;Diana Elena;Acoso escolar;Grave;Pentiente
+2210;GIOVANNI;SEPULVEDA;10°;Maria De los angeles;Acoso escolar;Grave;Pentiente
+2211;RAMIRO;ADAME;10°;Jenifer Carolina;Acoso escolar;Grave;Pentiente
+2212;LUCERO;CANO;11°;Jenny Paola;Acoso escolar;Grave;Pentiente
+2213;JUSTINIANO;ORJUELA;9°;Diana Carolina;Faltas de respeto;Grave;Pentiente
+2214;GOETHNY;GARCIA;9°;Maria Alejandra;Robo;Muy Grave;Pentiente
+2215;ARMANDO;ACOSTA;9°;Maria Viviana;Violencia física;Muy Grave;Pentiente
+2216;CESAR;FLOREZ;9°;Diana Catalina;Acoso escolar;Grave;Pentiente
+2217;DANIEL;MELENDEZ;9°;Rossmery Camila;Faltas de respeto;Grave;Pentiente
+2218;NUBIA;SOLER;9°;Susana;Robo;Muy Grave;Pentiente
+2219;DAYANNA;DUARTE;9°;Carolina Maria;Violencia física;Muy Grave;Resuelto
+2220;CARLOS;DIAZ;6°;Vivian Carolina;Faltas de respeto;Grave;Resuelto
+2221;ANDRES;MOTTA;6°;Angela Maria;Faltas de respeto;Grave;Resuelto
+2222;RUBY;FIQUITIVA;6°;Maria Alejandra;Faltas de respeto;Grave;Resuelto
+2223;CLAUDETTE;CANO;6°;Camila Andrea;Faltas de respeto;Grave;Resuelto
+2224;SILVANO;GUERRERO;7°;Adriana Milena;Faltas de respeto;Grave;Resuelto
+2225;CRUZ;GALVIS;7°;Luz Stella;Faltas de respeto;Grave;Resuelto
+2226;ALVARO;RUIZ;7°;Ines Damaris;Violencia física;Muy Grave;Resuelto
+2227;SARY;PENAGOS;7°;Dulfary;Violencia física;Muy Grave;Resuelto
+2228;WILLIAM;RIVERA;7°;Emeteria;Violencia física;Muy Grave;Resuelto
+2229;GLORIA;CONTRERAS;7°;Soraya Del carmen;Violencia física;Muy Grave;Pentiente
+2230;CAROLINA;ARROYAVE;7°;Emerita;Violencia física;Muy Grave;Pentiente
+2231;JONAS;OROZCO;7°;Edilma;Plagio o copia;Muy Grave;Pentiente
+2232;FRANKLIN;CASTAÑEDA;7°;Alba Luz;Plagio o copia;Muy Grave;Pentiente
+2233;KAREN;ALVAREZ;8°;Sara Lorena;Plagio o copia;Muy Grave;Resuelto
+2234;JOSE;GARCIA;8°;Yiny Lorety;Plagio o copia;Muy Grave;Resuelto
+2235;ROY;GALINDO;8°;Luz Anyela;Plagio o copia;Muy Grave;Resuelto
+2236;CARLOS;MACHADO;8°;Martha Brigitte;Plagio o copia;Muy Grave;Resuelto
+2237;CARLOS;SOCHA;8°;Martha Eugenia;Robo;Muy Grave;Resuelto
+2238;ALBA;GONZALEZ;8°;Alma Yelena;Robo;Muy Grave;Resuelto
+2239;JULIO;SANCHEZ;8°;Elizabet;Robo;Muy Grave;Resuelto
+2240;JUAN;ESCUDERO;8°;Angelica;Robo;Muy Grave;Resuelto
+2241;FREDDY;ARISTIZABAL;8°;Sandra Liliana;Robo;Muy Grave;Resuelto
+2242;CLAUDIA;URIBE;8°;Bellanid;Robo;Muy Grave;Resuelto
+2243;WILLIAM;GAVIRIA;8°;Yurani Lissette;Acoso escolar;Grave;Resuelto
+2244;JENY;HERNANDEZ;8°;Eini Cecilia;Acoso escolar;Grave;Resuelto
+2245;MARIA;MUÑOZ;8°;Katherine;Acoso escolar;Grave;Resuelto
+2246;RICARDO;BUENO;8°;Karen Katiana;Acoso escolar;Grave;Pentiente
+2247;MARIA;VALDES;8°;Diana Ines;Acoso escolar;Grave;Pentiente
+2248;MARIA;NUÑEZ;8°;Malka Irina;Acoso escolar;Grave;Pentiente
+2249;CARLOS;MEJIA;8°;Esilda Maria;Acoso escolar;Grave;Pentiente
+2250;JORGE;RAMIREZ;8°;Katerine;Acoso escolar;Grave;Pentiente
+2251;ADRIANA;PILAR;8°;Betsy;Fraude académico;Muy Grave;Pentiente
+2252;KAROL;MARTINEZ;8°;Doralis Madelein;Fraude académico;Muy Grave;Pentiente
+2253;HUGO;MEJIA;8°;Eliana Margarita;Fraude académico;Muy Grave;Pentiente
+2254;MARIA;MARTIN;8°;Terezzina Del pilar;Fraude académico;Muy Grave;Pentiente
+2255;VICTOR;GAMBOA;8°;Viviana Patricia;Fraude académico;Muy Grave;Pentiente
+2256;LUIS;CUEVA;8°;Nayr Paola;Fraude académico;Muy Grave;Pentiente
+2257;GABRIEL;ANGULO;8°;Angelica Luz;Robo;Muy Grave;Pentiente
+2258;JUAN;AGUILAR;8°;Heilen Yarine;Robo;Muy Grave;Resuelto
+2259;YHON;BOTINA;8°;Saida Maria;Acoso escolar;Grave;Resuelto
+2260;MAGDALENA;REYES;8°;Sandy Miriana;Acoso escolar;Grave;Resuelto
+2261;LUIS;GONZALEZ;8°;Myriam Del carmen;Acoso escolar;Grave;Resuelto
+2262;JHON;SANCHEZ;6°;Delmy Carmenza;Acoso escolar;Grave;Resuelto
+2263;INDIRA;BARRIOS;6°;Ludis Magdalena;Acoso escolar;Grave;Resuelto
+2264;SANDRA;CALDERON;6°;Alcira Etelvina;Acoso escolar;Grave;Resuelto
+2265;EDWAR;RIOS;6°;Yamile;Acoso escolar;Grave;Resuelto
+2266;CESAR;GARCIA;6°;Amanda Cristina;Acoso escolar;Grave;Resuelto
+2267;LIBIER;JIMENEZ;6°;Ana Rocio;Acoso escolar;Grave;Pentiente
+2268;CATALINA;BUENO;10°;Ana Lucia;Daño en las instalaciones;Muy Grave;Pentiente
+2269;CHRISTIAN;JARAMILLO;10°;Paula Vanessa;Violencia física ;Muy Grave;Pentiente
+2270;FERNANDO;MEDINA;10°;Betty Liliana;Violencia física ;Muy Grave;Pentiente
+2271;WILSON;GONZALEZ;10°;Angela Rocio;Violencia física ;Muy Grave;Pentiente
+2272;JUDITH;SALAZAR;10°;Virginia Rosario del pilar;Violencia física ;Muy Grave;Pentiente
+2273;HANAN;OSORIO;10°;Martha Ines;Violencia física ;Muy Grave;Pentiente
+2274;ALEJANDRO;RENTERIA;10°;Sandra Juliana;Violencia física ;Muy Grave;Pentiente
+2275;ELIANA;PAREDES;10°;Angelica Maria;Robo;Muy Grave;Pentiente
+2276;SANDRA;VARÓN;11°;Myriam Socorro;Robo;Muy Grave;Pentiente
+2277;LUPITA;JARAMILLO;11°;Maria Esther;Robo;Muy Grave;Pentiente
+2278;MARTHA;MONROY;11°;Carmen Margarita;Robo;Muy Grave;Pentiente
+2279;EDUBER;GUTIERREZ;11°;Rosalba Eddith;Faltas de respeto;Muy Grave;Resuelto
+2280;RAUL;BARRIGA;11°;Adriana Aleyda;Faltas de respeto;Muy Grave;Resuelto
+2281;CRISTIAN;DIAZ;11°;Luz Marina;Faltas de respeto;Muy Grave;Resuelto
+2282;CAMILO;ALVAREZ;11°;Yajaira;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2283;SANDRA;SANDOVAL;11°;Carmen Lucero;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2284;MARTHA;GRANADOS;11°;Nersa Magally;Uso de sustancias prohibidas;Muy Grave;Pentiente
+2285;LISETH;MONTERO;11°;Diana Patricia;Uso de sustancias prohibidas;Muy Grave;Pentiente
+2286;OSCAR;AMAYA;9°;Rosa Alexandra;Uso de sustancias prohibidas;Muy Grave;Pentiente
+2287;CARLOS;MEJIA;9°;Maura Patricia;Uso de sustancias prohibidas;Muy Grave;Pentiente
+2288;NIEVES;GARCIA;9°;Judith Patricia;Robo;Muy Grave;Pentiente
+2289;JOSE;ORTEGA;9°;Elayne Liliana;Robo;Muy Grave;Pentiente
+2290;LUIS;RIVERA;9°;Doris Cecilia;Robo;Muy Grave;Pentiente
+2291;ALEJANDRO;DE;9°;Haydee;Robo;Muy Grave;Pentiente
+2292;SORANY;MARIN;9°;Maria Angelica;Robo;Muy Grave;Pentiente
+2293;MARÍA;MORENO;9°;Ingrid Yaneth;Robo;Muy Grave;Pentiente
+2294;JOSE;GONZALEZ;9°;Naydu;Robo;Muy Grave;Pentiente
+2295;JAIME;ZAMBRANO;9°;Claudia Marcela;Faltas de respeto;Grave;Pentiente
+2296;LINA;CORREA;9°;Ana Maria;Faltas de respeto;Grave;Resuelto
+2297;JAVIER;MORA;9°;Diana Isabel;Faltas de respeto;Grave;Resuelto
+2298;CAMILO;DELGADO;9°;Yudi Lisved;Faltas de respeto;Grave;Resuelto
+2299;CESAR;RODRIGUEZ;10°;Elsa Patricia;Faltas de respeto;Grave;Resuelto
+2300;JORGE;PLAZA;11°;Luz Stella;Faltas de respeto;Grave;Resuelto
+2301;OMAR;CARRILLO;10°;Maritza;Uso indebido de tecnología;Muy Grave;Resuelto
+2302;CAMILO;ACOSTA;10°;Gloria Amparo;Uso indebido de tecnología;Muy Grave;Resuelto
+2303;HENIO;SARMIENTO;10°;Maria Marcela;Uso indebido de tecnología;Muy Grave;Resuelto
+2304;JUAN;ESCOBAR;10°;Martha Tulia;Uso indebido de tecnología;Muy Grave;Resuelto
+2305;YENNY;OJEDA;10°;Isabel;Uso indebido de tecnología;Muy Grave;Pentiente
+2306;NANCY;MESA;10°;Martha Isabel;Uso indebido de tecnología;Muy Grave;Pentiente
+2307;GILDARDO;LOPEZ;10°;Lilyam;Fraude académico;Muy Grave;Pentiente
+2308;BRYAN;RAMIREZ;11°;Maria Arcinovi;Fraude académico;Muy Grave;Pentiente
+2309;PEDRO;MOLANO;11°;Gloria Amparo;Fraude académico;Muy Grave;Pentiente
+2310;TATIANA;AGUILAR;11°;Libia Patricia;Fraude académico;Muy Grave;Pentiente
+2311;JULIANA;PILAR;11°;Magda Patricia;Fraude académico;Muy Grave;Pentiente
+2312;ANA;GALEANO;11°;Luz Stella;Fraude académico;Muy Grave;Pentiente
+2313;JOSE;CORDOBA;11°;Lilia;Ausencias injustificadas;Leve;Pentiente
+2314;MARIA;GASCA;11°;Olga;Acoso escolar;Grave;Pentiente
+2315;EVER;URIBE;11°;Maria Fernanda;Plagio o copia;Muy Grave;Pentiente
+2316;JULIO;VELA;11°;Carmenza;Ausencias injustificadas;Leve;Pentiente
+2317;OSCAR;CALDERON;11°;Yolanda;Ausencias injustificadas;Leve;Resuelto
+2318;GIOVANNY;RODRÍGUEZ;11°;Carolina;Ausencias injustificadas;Leve;Resuelto
+2319;JORGE;GUEVARA;11°;Elvira;Acoso escolar;Grave;Resuelto
+2320;TALMA;FURNIELES;11°;Gloria;Acoso escolar;Grave;Resuelto
+2321;MARÍA;CARREÑO;11°;Ana Janeth;Acoso escolar;Grave;Resuelto
+2322;NESTOR;SANTAMARIA;11°;Ruth Yamile;Violencia física;Muy Grave;Pentiente
+2323;AURA;GUEVARA;11°;Luz Adriana;Violencia física;Muy Grave;Pentiente
+2324;DONALDO;VIVARES;11°;Luz Constanza;Violencia física;Muy Grave;Pentiente
+2325;CLAUDIA;FORERO;11°;Ariana Enid;Ausencias injustificadas;Leve;Pentiente
+2326;LILIANA;TABORDA;11°;Hilda Maria;Ausencias injustificadas;Leve;Pentiente
+2327;RAUL;MACHADO;11°;Nidian De la merced;Ausencias injustificadas;Leve;Pentiente
+2328;JUAN;CORREA;11°;Marisol;Faltas de respeto;Grave;Pentiente
+2329;NANCY;PADILLA;11°;Rosa Elena;Faltas de respeto;Grave;Pentiente
+2330;DANIELA;AGUDELO;11°;Zaira Stella;Faltas de respeto;Grave;Pentiente
+2331;ALBER;GALLEGO;11°;Ruth Jael;Robo;Muy Grave;Pentiente
+2332;CLAUDIA;PINILLA;11°;Maria Carolina;Robo;Muy Grave;Pentiente
+2333;JHOVAN;SERNA;11°;Luz Stella;Robo;Muy Grave;Pentiente
+2334;MANUEL;BERRIO;11°;Maria Lucero;Violencia física;Muy Grave;Resuelto
+2335;CARLOS;RODRIGUEZ;11°;Sandra Isabel;Violencia física;Muy Grave;Resuelto
+2336;FERNAN;ULATE;11°;Alexandra;Violencia física;Muy Grave;Resuelto
+2337;LUZ;CUARTAS;11°;Marcela;Acoso escolar;Grave;Resuelto
+2338;ANGEL;VELASCO;11°;Olga Patricia;Acoso escolar;Grave;Resuelto
+2339;JULIANA;ACEVEDO;6°;Sandra Liliana;Acoso escolar;Grave;Resuelto
+2340;EDISON;CLAVIJO;6°;Myriam Socorro;Plagio o copia;Muy Grave;Resuelto
+2341;FABIOLA;DE;6°;Luz Edilia;Plagio o copia;Muy Grave;Resuelto
+2342;LUZ;PARAMO;6°;Mary Luz;Plagio o copia;Muy Grave;Resuelto
+2343;VICTOR;CAMACHO;6°;Maria;Plagio o copia;Muy Grave;Pentiente
+2344;JUAN;QUENZA;6°;Claudia Bibiana;Faltas de respeto;Grave;Pentiente
+2345;LUIS;GONZALEZ;7°;Sandra Patricia;Faltas de respeto;Grave;Pentiente
+2346;SERGIO;DIAZ;7°;Diana Rocio;Faltas de respeto;Grave;Pentiente
+2347;NATACHA;VALLEJO;7°;Adriana Lizeth;Robo;Muy Grave;Pentiente
+2348;JAIME;RODRIGUEZ;7°;Maria Alexandra;Robo;Muy Grave;Pentiente
+2349;JUAN;RIVEROS;7°;Sonia Bernarda;Robo;Muy Grave;Pentiente
+2350;SANDRA;CUENCA;7°;Laura Constanza;Violencia física;Muy Grave;Pentiente
+2351;OJEDA;ZAIDA;7°;Patricia;Violencia física;Muy Grave;Pentiente
+2352;JUAN;CORTES;7°;Liliana;Violencia física;Muy Grave;Pentiente
+2353;DUVAN;GONZALEZ;7°;Miryam Esther;Acoso escolar;Grave;Pentiente
+2354;JAVIER;LOPEZ;8°;Tania Isabel;Acoso escolar;Grave;Pentiente
+2355;OMAR;HERNANDEZ;8°;Myreya;Acoso escolar;Grave;Resuelto
+2356;GREGORIO;MARULANDA;8°;Maria De los angeles;Acoso escolar;Grave;Resuelto
+2357;SANDRA;SANCHEZ;8°;Olga Liliana;Ausencias injustificadas;Leve;Resuelto
+2358;ELIZABETH;MUÑOZ;8°;Yaneth;Ausencias injustificadas;Leve;Resuelto
+2359;DANIEL;CALLE;8°;Ximena Matilde;Ausencias injustificadas;Leve;Resuelto
+2360;FIDEL;MERCADO;8°;Adriana;Ausencias injustificadas;Leve;Pentiente
+2361;JANETH;MORERA;8°;Adriana;Ausencias injustificadas;Leve;Pentiente
+2362;KARIME;FONTALVO;8°;Ileana Maria;Ausencias injustificadas;Leve;Pentiente
+2363;ORLANDO;CASTILLO;8°;Rosa Margarita;Daño en las instalaciones;Muy Grave;Pentiente
+2364;MARIA;VELASCO;8°;Ximena Patricia;Daño en las instalaciones;Muy Grave;Pentiente
+2365;NAYIVE;ÁGREDO;8°;Martha Leonor;Daño en las instalaciones;Muy Grave;Pentiente
+2366;ILBA;CARDENAS;8°;Anyul;Daño en las instalaciones;Muy Grave;Pentiente
+2367;MALLATH;MARTINEZ;8°;Beatriz Torcoroma;Violencia física;Muy Grave;Pentiente
+2368;ADRIANA;ARENAS;8°;Gloria Ines;Acoso escolar;Grave;Pentiente
+2369;KAREN;PEREA;8°;Nohora Cristina;Acoso escolar;Grave;Pentiente
+2370;DANIEL;VASQUEZ;8°;Piedad;Acoso escolar;Grave;Pentiente
+2371;YENNY;RUBIO;8°;Sandra Milena;Acoso escolar;Grave;Pentiente
+2372;YOLANDA;AMAYA;8°;Sugey;Fraude académico;Muy Grave;Resuelto
+2373;DAYANA;TAVERA;8°;Eddy Alexandra;Fraude académico;Muy Grave;Resuelto
+2374;CARLOS;ORDOSGOITIA;8°;Maria Del rosario;Fraude académico;Muy Grave;Resuelto
+2375;FREDY;CASTRO;8°;Martha Cecilia;Fraude académico;Muy Grave;Resuelto
+2376;MARIA;DE;11°;Xirys Maria;Uso indebido de tecnología;Muy Grave;Resuelto
+2377;CHARLY;TORRES;11°;Vivian Angelica;Uso indebido de tecnología;Muy Grave;Resuelto
+2378;MARIA;HOLGUÍN;11°;Norma Catherine;Uso indebido de tecnología;Muy Grave;Resuelto
+2379;MARIA;CARRILLO;11°;Silvia Juliana;Uso indebido de tecnología;Muy Grave;Resuelto
+2380;JORGE;ALVAREZ;11°;Ana Milena;Uso indebido de tecnología;Muy Grave;Resuelto
+2381;ANDREA;ESPITIA;11°;Adriana Cristina;Faltas de respeto;Grave;Pentiente
+2382;AMPARO;PALACIO;11°;Laura Gissett;Faltas de respeto;Grave;Pentiente
+2383;MARTHA;DURAN;11°;Dolly Maritza;Faltas de respeto;Grave;Pentiente
+2384;NUBIA;PUERTO;11°;Silvia Juliana;Faltas de respeto;Grave;Pentiente
+2385;CARLOS;RIVEROS;11°;Belenice;Faltas de respeto;Grave;Pentiente
+2386;RUBEN;MAYA;11°;Maria Angelica;Robo;Muy Grave;Pentiente
+2387;MARIA;LAMUS;6°;Silvia Carolina;Robo;Muy Grave;Pentiente
+2388;PEDRO;DIAZ;6°;Paula Andrea;Robo;Muy Grave;Pentiente
+2389;WILLIAM;BARRIOS;10°;Katherine;Robo;Muy Grave;Pentiente
+2390;CRISTIAN;AGUDELO;10°;Liliana Margarita an;Faltas de respeto;Grave;Pentiente
+2391;MAYRA;MURCIA;10°;Claudia Juliana;Faltas de respeto;Grave;Pentiente
+2392;EDUARDO;CELY;10°;Francy Liliana;Faltas de respeto;Grave;Pentiente
+2393;SONIA;ROMERO;10°;Eileen Gabriela;Faltas de respeto;Grave;Resuelto
+2394;CLAUDIA;SERNA;10°;Diana Milena;Fraude académico;Grave;Resuelto
+2395;GABRIEL;SALAZAR;10°;Kelly Johana;Fraude académico;Grave;Resuelto
+2396;LEONOR;BENITEZ;11°;Paola Andrea;Uso indebido de tecnología;Muy Grave;Resuelto
+2397;CARLOS;CASTRO;9°;Indira Margarita;Uso indebido de tecnología;Muy Grave;Resuelto
+2398;FREDY;GARZON;9°;Yuri Del rosario;Uso indebido de tecnología;Muy Grave;Pentiente
+2399;CESAR;MANRIQUE;9°;Josefina Esther;Uso indebido de tecnología;Muy Grave;Pentiente
+2400;CATALINA;POSADA;9°;Angela Teresa;Uso indebido de tecnología;Muy Grave;Pentiente
+2401;DIEGO;ABAD;9°;Beatriz Del carmen;Uso indebido de tecnología;Muy Grave;Pentiente
+2402;CAROLINA;AFANADOR;9°;Ingrid;Daño en las instalaciones;Muy Grave;Pentiente
+2403;MARIA;GARCIA;9°;Marly Esther;Daño en las instalaciones;Muy Grave;Pentiente
+2404;MARTHA;RODRIGUEZ;11°;Yira Rosiris;Daño en las instalaciones;Muy Grave;Pentiente
+2405;OSCAR;JUNCO;11°;Martha Lucia;Daño en las instalaciones;Muy Grave;Pentiente
+2406;SAMIR;CASADIEGO;11°;Gregoria Dominga;Daño en las instalaciones;Muy Grave;Pentiente
+2407;ANGELA;LOPEZ;11°;Liliana Margarita;Daño en las instalaciones;Muy Grave;Pentiente
+2408;DIEGO;PUYO;11°;Adriana Jimena;Violencia física ;Muy Grave;Pentiente
+2409;DAVID;MORALES;11°;Cira Patricia;Violencia física ;Muy Grave;Pentiente
+2410;DIANA;ABAUNZA;11°;Diana Margarita;Violencia física ;Muy Grave;Resuelto
+2411;ALVARO;RUSSO;11°;Diana Patricia;Violencia física ;Muy Grave;Resuelto
+2412;NICOLASA;BEDOYA;11°;Yuli Paulin;Violencia física ;Muy Grave;Resuelto
+2413;CLAUDIA;RIVERA;11°;Lydys Del carmen;Violencia física ;Muy Grave;Resuelto
+2414;RUBY;MARTINEZ;6°;Marisol;Robo;Muy Grave;Resuelto
+2415;REINALDO;GUTIERREZ;6°;Olga Regina;Robo;Muy Grave;Resuelto
+2416;KAREN;ALMANZA;6°;Fanny;Robo;Muy Grave;Resuelto
+2417;HELMAN;CERINZA;6°;Ligia Marcela;Robo;Muy Grave;Resuelto
+2418;GLORIA;CASTRO;6°;Irsa Liliana;Faltas de respeto;Grave;Resuelto
+2419;CAMILO;ESCOBAR;6°;Lida Estefania;Faltas de respeto;Grave;Pentiente
+2420;TATIANA;RAMOS;7°;Nally Tatiana;Faltas de respeto;Grave;Pentiente
+2421;JUAN;GARZON;7°;Nury Yanet;Violencia física ;Muy Grave;Pentiente
+2422;NESTOR;JESUS;7°;Luz Dary;Violencia física ;Muy Grave;Pentiente
+2423;ILIA;OBANDO;7°;Yenny Margoth;Violencia física ;Muy Grave;Pentiente
+2424;JOSÉ;ROMÁN;7°;Yenny;Violencia física ;Muy Grave;Pentiente
+2425;LUZ;HERRERA;7°;Yolanda;Violencia física ;Muy Grave;Pentiente
+2426;EDWIN;GONZALEZ;7°;Myriam Astrid;Violencia física ;Muy Grave;Pentiente
+2427;MAURICIO;MARTINEZ;7°;Sandra;Robo;Muy Grave;Pentiente
+2428;MARINE;DIAZ;7°;Yelinda;Robo;Muy Grave;Pentiente
+2429;ZAMANDA;SERRATO;8°;Adriana Lucia;Robo;Muy Grave;Pentiente
+2430;MARIA;PRADO;8°;Claudia Patricia;Robo;Muy Grave;Pentiente
+2431;LOLIA;ACEVEDO;8°;Liz Mabel;Robo;Muy Grave;Resuelto
+2432;HOLLMAN;CASTILLO;8°;Edna Ruth;Robo;Muy Grave;Resuelto
+2433;JOSE;BERMUDEZ;8°;Maria Eugenia;Robo;Muy Grave;Resuelto
+2434;LUIS;ESTRADA;8°;Miryam Constanza;Faltas de respeto;Grave;Resuelto
+2435;VICTOR;ARENAS;8°;Sandra Yadira;Faltas de respeto;Grave;Resuelto
+2436;JUAN;VILLADA;8°;Rocio;Faltas de respeto;Grave;Pentiente
+2437;RAMON;ARROYAVE;8°;Emma Judith;Faltas de respeto;Grave;Pentiente
+2438;MARCOS;ALZAMORA;8°;Jazmin;Faltas de respeto;Grave;Pentiente
+2439;SANDRA;RODRIGUEZ;8°;Marisol;Faltas de respeto;Grave;Pentiente
+2440;ILIANA;ACOSTA;8°;Camila Fernanda;Faltas de respeto;Grave;Pentiente
+2441;WILLIAM;LUNA;8°;Adriana Alexandra;Faltas de respeto;Grave;Pentiente
+2442;DAVID;RUIZ;8°;Mercy Cristina;Faltas de respeto;Grave;Pentiente
+2443;JANETH;MORERA;8°;Luisa Fernanda;Faltas de respeto;Grave;Pentiente
+2444;AIDEE;PARDO;8°;Adriana Magally;Faltas de respeto;Grave;Pentiente
+2445;ALFONSO;CAMPO;8°;Eliana Maria;Faltas de respeto;Grave;Pentiente
+2446;MARIA;MAR;8°;Diana Milena;Violencia física ;Muy Grave;Pentiente
+2447;CYNTHIA;MAITAN;8°;Yaneth Maritza;Violencia física ;Muy Grave;Pentiente
+2448;MARITZA;FIGUEROA;8°;Mary Luz;Violencia física ;Muy Grave;Resuelto
+2449;ELVER;MOLINA;8°;Nancy;Violencia física ;Muy Grave;Resuelto
+2450;MAGNO;ROSERO;8°;Luz Elena;Violencia física ;Muy Grave;Resuelto
+2451;JOSE;SIERRA;8°;Evelyn;Violencia física ;Muy Grave;Resuelto
+2452;OSCAR;NUÑEZ;8°;Maria Ines;Ausencias injustificadas;Leve;Resuelto
+2453;JUAN;CORTES;8°;Dora Ligia;Acoso escolar;Grave;Resuelto
+2454;JORGE;CORREA;8°;Lorena;Plagio o copia;Muy Grave;Resuelto
+2455;MARIA;HIDALGO;8°;Maria Sandra;Ausencias injustificadas;Leve;Resuelto
+2456;MARTHA;GRANADOS;8°;Catalina;Ausencias injustificadas;Leve;Resuelto
+2457;ALEXEY;CHAPARRO;8°;Monica;Ausencias injustificadas;Leve;Pentiente
+2458;CAMILO;ROJAS;6°;Margarita Sugey;Acoso escolar;Grave;Pentiente
+2459;BERTHA;BARRIOS;6°;Andrea Victoria;Acoso escolar;Grave;Pentiente
+2460;FLOR;SUESCUN;6°;Gloria Fernanda;Acoso escolar;Grave;Pentiente
+2461;ANA;MORENO;6°;Claudia Patricia;Violencia física;Muy Grave;Pentiente
+2462;JUAN;QUINTANA;6°;Monica Liliana;Violencia física;Muy Grave;Pentiente
+2463;JUAN;BEJARANO;6°;Luz;Violencia física;Muy Grave;Pentiente
+2464;JOHN;GUZMAN;10°;Milena;Ausencias injustificadas;Leve;Pentiente
+2465;MARLADY;ROJAS;10°;Carol Tatiana;Ausencias injustificadas;Leve;Pentiente
+2466;AURORA;FIGUEROA;10°;Zeudy Victoria;Ausencias injustificadas;Leve;Pentiente
+2467;ELIANA;;10°;Carolina;Faltas de respeto;Grave;Pentiente
+2468;LAYONER;CARMONA;10°;Argelia;Faltas de respeto;Grave;Pentiente
+2469;NASLY;RUIZ;10°;Monica Ivon;Faltas de respeto;Grave;Resuelto
+2470;XIMENA;CANTOR;10°;Greiss Paola odeth;Robo;Muy Grave;Resuelto
+2471;BRASILIA;SINISTERRA;11°;Claudia Lorena;Robo;Muy Grave;Resuelto
+2472;ARTURO;;9°;Alejandra Del pilar;Robo;Muy Grave;Resuelto
+2473;JUAN;SANCHEZ;9°;Martha Cecilia;Violencia física;Muy Grave;Resuelto
+2474;CAMILO;QUIROZ;9°;Diana Maria;Violencia física;Muy Grave;Pentiente
+2475;TATIANA;RAMOS;9°;Isabel Teresa;Violencia física;Muy Grave;Pentiente
+2476;JOSE;RIOS;9°;Nancy Stella;Acoso escolar;Grave;Pentiente
+2477;SANDRA;CASTIBLANCO;9°;Nelsa Liliana;Acoso escolar;Grave;Pentiente
+2478;MARÍA;DOMÍNGUEZ;9°;Claudia Patricia;Acoso escolar;Grave;Pentiente
+2479;SERGIO;LOPEZ;11°;Shirley;Plagio o copia;Muy Grave;Pentiente
+2480;FREDY;AMADO;11°;Francy Leonor;Plagio o copia;Muy Grave;Pentiente
+2481;ELKIN;BUSTOS;11°;Lessdy Denisse;Plagio o copia;Muy Grave;Pentiente
+2482;JOSE;ARDILA;11°;Elizabeth;Plagio o copia;Muy Grave;Pentiente
+2483;NATHALIA;MEJIA;11°;Lisbeth Daniela;Faltas de respeto;Grave;Pentiente
+2484;FREDYS;FERNANDEZ;11°;Marcy Helena;Faltas de respeto;Grave;Pentiente
+2485;ROSMIRA;DIAZ;11°;Carlos Julio;Faltas de respeto;Grave;Pentiente
+2486;ALBA;MUÑOZ;11°;Victor Manuel;Robo;Muy Grave;Resuelto
+2487;DIANA;RAMIREZ;11°;Wilson Andres;Robo;Muy Grave;Resuelto
+2488;MANUEL;SIMANCAS;11°;Conrado;Robo;Muy Grave;Resuelto
+2489;GERMAN;GOMEZ;10°;Luis Eduardo;Violencia física;Muy Grave;Resuelto
+2490;GEIDY;ABRIL;10°;Luis Angel;Violencia física;Muy Grave;Resuelto
+2491;YOSETH;ARIZA;10°;Jairo;Violencia física;Muy Grave;Resuelto
+2492;LUZ;GÓMEZ;10°;Fredy;Acoso escolar;Grave;Resuelto
+2493;JOSÈ;URBANO;10°;Jose Luis;Acoso escolar;Grave;Resuelto
+2494;ROSA;BAREÑO;10°;Diego;Acoso escolar;Grave;Resuelto
+2495;RAFAEL;ROJAS;10°;Luis Fernando;Acoso escolar;Grave;Pentiente
+2496;CARLOS;LONDOÑO;11°;Federico;Ausencias injustificadas;Leve;Pentiente
+2497;JOSE;CARMEN;9°;Carlos Mario;Ausencias injustificadas;Leve;Pentiente
+2498;JOSE;GARRIDO;9°;Didier Noraldo;Ausencias injustificadas;Leve;Pentiente
+2499;HECTOR;LEIVA;9°;Alejandro Yesid;Ausencias injustificadas;Leve;Pentiente
+2500;RUBY;GIRALDO;9°;Juan Carlos;Ausencias injustificadas;Leve;Pentiente
+2501;JAID;BETANCUR;9°;Jose Alexander;Ausencias injustificadas;Leve;Pentiente
+2502;LINA;PARRA;9°;Elkin Hernan;Daño en las instalaciones;Muy Grave;Pentiente
+2503;HEIDY;RUIZ;9°;Elver;Daño en las instalaciones;Muy Grave;Pentiente
+2504;JAIRO;VALDES;11°;Luis Arnoldo;Daño en las instalaciones;Muy Grave;Pentiente
+2505;LINA;LOPEZ;11°;Hernando Leon;Daño en las instalaciones;Muy Grave;Pentiente
+2506;NEIL;VANEGAS;11°;Victor David;Uso de sustancias prohibidas;Muy Grave;Pentiente
+2507;OSWALDO;JESUS;11°;Mauricio;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2508;MARCO;SILVA;11°;Libinton;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2509;DAHIDITH;HERNANDEZ;11°;Andres Felipe;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2510;DAIRA;RIASCOS;11°;Carlos Esteban;Fraude académico;Muy Grave;Resuelto
+2511;WILMER;VENEGAS;11°;Julio Cesar;Fraude académico;Muy Grave;Resuelto
+2512;PEDRO;VERA;11°;Eifer De jesus;Fraude académico;Muy Grave;Pentiente
+2513;CAROLINA;BARBANTI;11°;Argiro De jesus;Fraude académico;Muy Grave;Pentiente
+2514;JOSE;GIRALDO;10°;Luis Armando;Fraude académico;Muy Grave;Pentiente
+2515;LUZ;RUIZ;10°;Gustavo Adolfo;Uso indebido de tecnología;Muy Grave;Pentiente
+2516;OSCAR;LIZCANO;10°;Luis Gonzaga;Uso indebido de tecnología;Muy Grave;Pentiente
+2517;BLANCA;CLAVIJO;10°;Hernando;Uso indebido de tecnología;Muy Grave;Pentiente
+2518;LENA;ACOSTA;10°;Jorge Alonso;Uso indebido de tecnología;Muy Grave;Pentiente
+2519;LUISA;VALDES;10°;Jorge Luis;Uso indebido de tecnología;Muy Grave;Pentiente
+2520;FERNANDO;CALDERON;10°;Edgar Roberto;Faltas de respeto;Muy Grave;Pentiente
+2521;ELIO;MORENO;11°;Juan Carlos;Faltas de respeto;Muy Grave;Pentiente
+2522;SANDRA;MACIAS;9°;Francisco Alirio;Faltas de respeto;Muy Grave;Pentiente
+2523;JESUS;BEJARANO;9°;Gustavo Alonso;Faltas de respeto;Muy Grave;Pentiente
+2524;ELIS;CANTERO;9°;Delio Ivan;Faltas de respeto;Muy Grave;Resuelto
+2525;ANZULA;RUIZ;9°;Jaime Humberto;Robo;Muy Grave;Resuelto
+2526;PAOLA;LLANOS;9°;Gerardo;Robo;Muy Grave;Resuelto
+2527;JESUS;SALGADO;9°;Jesus Aureliano;Robo;Muy Grave;Resuelto
+2528;ANA;ANGARITA;9°;Juan Diego;Robo;Muy Grave;Resuelto
+2529;ENRIQUE;FREYLE;11°;Tomas Mauricio;Faltas de respeto;Grave;Resuelto
+2530;LUIS;QUINTERO;11°;Jhon Wilmar;Faltas de respeto;Grave;Resuelto
+2531;MARIA;;11°;Juan Nicolas;Faltas de respeto;Grave;Resuelto
+2532;MAURICIO;MAZA;11°;Alejandro;Faltas de respeto;Grave;Resuelto
+2533;LUIS;MOSCOSO;11°;Cesar Augusto;Fraude académico;Muy Grave;Pentiente
+2534;ALEXANDRA;;11°;Hector William;Fraude académico;Muy Grave;Pentiente
+2535;AIDA;CARMEN;11°;Carlos Andres;Uso indebido de tecnología;Muy Grave;Pentiente
+2536;EDER;JESUS;11°;Jahir Del cristo;Uso indebido de tecnología;Muy Grave;Pentiente
+2537;GERMAN;VANEGAS;11°;Bernardo De jesus;Uso indebido de tecnología;Muy Grave;Pentiente
+2538;ARTURO;LUNA;11°;Carlos Andres;Uso indebido de tecnología;Muy Grave;Pentiente
+2539;OMAR;ALVAREZ;10°;Andres;Uso indebido de tecnología;Muy Grave;Pentiente
+2540;JORGE;RIAÑO;10°;Andres Orlando;Uso indebido de tecnología;Muy Grave;Pentiente
+2541;SULMAN;OSORIO;10°;Jose David;Daño en las instalaciones;Muy Grave;Pentiente
+2542;FRANCY;MORALES;10°;Emilio Jose;Daño en las instalaciones;Muy Grave;Pentiente
+2543;MARTA;BAUTISTA;10°;Alex Fernando;Daño en las instalaciones;Muy Grave;Pentiente
+2544;GILMA;CARRILLO;10°;Jorge Luis;Daño en las instalaciones;Muy Grave;Pentiente
+2545;AURA;BLANCO;10°;Jaime;Daño en las instalaciones;Muy Grave;Resuelto
+2546;GLORIA;MEDINA;11°;Javier Adolfo;Daño en las instalaciones;Muy Grave;Resuelto
+2547;SAIDA;RUEDA;9°;Milton Antonio;Violencia física ;Muy Grave;Resuelto
+2548;NOHELIA;DE;9°;Jose Fernando;Violencia física ;Muy Grave;Resuelto
+2549;EDGAR;TORRES;9°;Lucas Martin;Violencia física ;Muy Grave;Resuelto
+2550;GORKY;CALDERON;9°;Samuel Benjamin;Violencia física ;Muy Grave;Pentiente
+2551;LAURA;BUITRAGO;9°;Julio Manuel;Violencia física ;Muy Grave;Pentiente
+2552;ADRIANA;ALFONSO;9°;Cesar Augusto;Violencia física ;Muy Grave;Pentiente
+2553;AGUSTIN;HENAO;9°;Fabian Alberto;Robo;Muy Grave;Pentiente
+2554;JOSE;PINZON;11°;Hector Manuel;Robo;Muy Grave;Pentiente
+2555;JHON;VARGAS;11°;Juan Carlos;Robo;Muy Grave;Pentiente
+2556;NILSON;VALENCIA;11°;Carlos Alberto;Robo;Muy Grave;Pentiente
+2557;OLGA;AMAYA;11°;Dexter Emilio;Faltas de respeto;Grave;Pentiente
+2558;SANDRA;ACERO;11°;Jorge Luis;Faltas de respeto;Grave;Pentiente
+2559;MARCELA;HERNANDEZ;11°;Sergio;Faltas de respeto;Grave;Pentiente
+2560;LUIS;RUANO;11°;Alex Rene;Uso de sustancias prohibidas;Muy Grave;Pentiente
+2561;CHRISTIAN;MARITNEZ;11°;Adolfo Javier;Uso de sustancias prohibidas;Muy Grave;Pentiente
+2562;JAVIER;POLO;11°;Crispin Roberto;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2563;IVON;MORALES;11°;Hernan Adolfo;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2564;DINA;RODRIGUEZ;10°;Pedro Francisco;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2565;JARRY;CABRERA;10°;Alfredo Luis;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2566;OLGA;MELLAO;10°;Teofilo Antonio;Robo;Muy Grave;Resuelto
+2567;GERMAN;BAUTISTA;10°;Marcio Alfredo;Robo;Muy Grave;Resuelto
+2568;VIVIAN;SILVA;10°;Roberto Carlos;Robo;Muy Grave;Resuelto
+2569;PAULA;CASTAÑEDA;10°;Miguel Ignacio;Robo;Muy Grave;Resuelto
+2570;LUIS;CARVAJAL;10°;Roberto Enrique;Robo;Muy Grave;Resuelto
+2571;ESTEFANIA;BLANCO;11°;Wilmar Enrique;Robo;Muy Grave;Pentiente
+2572;WILKINSON;FLORIDO;9°;Bladimir;Robo;Muy Grave;Pentiente
+2573;ANGELO;PALACIO;9°;Dair Enrique;Faltas de respeto;Grave;Pentiente
+2574;JHON;ORTIZ;9°;Juan Antonio;Faltas de respeto;Grave;Pentiente
+2575;FRANCISCO;MEJIA;9°;Luis Manuel;Faltas de respeto;Grave;Pentiente
+2576;ROFER;;9°;Pedro Valentin;Faltas de respeto;Grave;Pentiente
+2577;CLAUDIA;ARROYAVE;9°;Ricardo Antonio;Faltas de respeto;Grave;Pentiente
+2578;SOL;GUERRA;9°;Mauro Javier;Faltas de respeto;Grave;Pentiente
+2579;JULIA;DEL;11°;Juan David;Uso indebido de tecnología;Muy Grave;Pentiente
+2580;DALGY;RICO;11°;Javier Enrique;Uso indebido de tecnología;Muy Grave;Pentiente
+2581;AMALIA;DUQUE;11°;Francisco Javier;Uso indebido de tecnología;Muy Grave;Pentiente
+2582;ADRIANA;VEGA;11°;Carlos Andres;Uso indebido de tecnología;Muy Grave;Pentiente
+2583;ALFREDO;ROSAS;11°;Alfonso Vicente;Uso indebido de tecnología;Muy Grave;Resuelto
+2584;FRANCISCO;RODRIGUEZ;11°;Camilo Jose;Uso indebido de tecnología;Muy Grave;Resuelto
+2585;MILENA;GOMEZ;11°;Victor Eduardo;Fraude académico;Muy Grave;Resuelto
+2586;LUIS;ARANGO;11°;David;Fraude académico;Muy Grave;Resuelto
+2587;GUSTAVO;CASTAÑO;11°;Javier Enrique;Fraude académico;Muy Grave;Resuelto
+2588;PEDRO;JURADO;11°;Carlos Oswaldo;Fraude académico;Muy Grave;Pentiente
+2589;ANDRES;HENANDEZ;10°;Ronald Alberto;Fraude académico;Muy Grave;Pentiente
+2590;DAVID;ANDRADE;10°;Leandro Rafael;Fraude académico;Muy Grave;Pentiente
+2591;ALBERTO;CARDENAS;10°;Anibal Armando;Ausencias injustificadas;Leve;Pentiente
+2592;FREDY;GUIZA;10°;Alfredo Joaquin;Acoso escolar;Grave;Pentiente
+2593;CARLOS;RINCON;10°;Jean Carlos;Plagio o copia;Muy Grave;Pentiente
+2594;SULEIDY;AMAYA;10°;Silvio Luis;Ausencias injustificadas;Leve;Pentiente
+2595;ERICK;ROMERO;10°;Jose Salvador;Ausencias injustificadas;Leve;Pentiente
+2596;CLARA;EVILLA;11°;Oscar Eduardo;Ausencias injustificadas;Leve;Pentiente
+2597;FRANCISCO;CRUZ;9°;Roger Rafael;Acoso escolar;Grave;Pentiente
+2598;JUAN;DURAN;9°;Adolfo Mario;Acoso escolar;Grave;Pentiente
+2599;DORIS;BOLAÑOS;9°;Alvaro Eduardo;Acoso escolar;Grave;Pentiente
+2600;MARIA;CESPEDES;9°;Aristocles Olimpo;Violencia física;Muy Grave;Resuelto
+2601;YURANY;ZAMBRANO;9°;Pedro Antonio;Violencia física;Muy Grave;Resuelto
+2602;ALEX;GARCIA;9°;Ruben Dario;Violencia física;Muy Grave;Resuelto
+2603;FERNANDO;MORA;9°;Jorge Ivan;Ausencias injustificadas;Leve;Resuelto
+2604;ALMA;MACHADO;11°;Gilberto;Ausencias injustificadas;Leve;Resuelto
+2605;LUIS;ESPAÑA;11°;Roberto Eloy de jesu;Ausencias injustificadas;Leve;Resuelto
+2606;DORIS;SUAREZ;11°;Alfonso Nazaret;Faltas de respeto;Grave;Resuelto
+2607;JUAN;GIRALDO;11°;Gregorio Jose;Faltas de respeto;Grave;Resuelto
+2608;MARIO;VALENCIA;11°;Hector Ivan;Faltas de respeto;Grave;Resuelto
+2609;MARIA;MUÑOZ;11°;Anthony Tadeo;Robo;Muy Grave;Pentiente
+2610;CARLOS;RODRIGUEZ;11°;Hugo David;Robo;Muy Grave;Pentiente
+2611;HUGO;BAHAMON;11°;Javier De jesus;Robo;Muy Grave;Pentiente
+2612;ERICA;GOMEZ;11°;Diego Raul eduardo;Violencia física;Muy Grave;Pentiente
+2613;VICTOR;ALVAREZ;11°;Leonardo Enrique;Violencia física;Muy Grave;Pentiente
+2614;LUIS;ALMEIDA;10°;Manuel Antonio;Violencia física;Muy Grave;Pentiente
+2615;ANDRÉS;GÓMEZ;10°;Jorge Luis;Acoso escolar;Grave;Pentiente
+2616;HUGO;CASANOVA;10°;Ulises Eduardo;Acoso escolar;Grave;Pentiente
+2617;JOSE;JIMENEZ;10°;Luis Guillermo;Acoso escolar;Grave;Pentiente
+2618;RUBEN;TAMAYO;10°;Raul Antonio;Plagio o copia;Muy Grave;Pentiente
+2619;JHON;MARIN;10°;Maximiliano;Plagio o copia;Muy Grave;Pentiente
+2620;MARÍA;DÍAZ;10°;Jorge Ismael;Plagio o copia;Muy Grave;Pentiente
+2621;CARLOS;MARTINEZ;11°;German Alonso;Plagio o copia;Muy Grave;Resuelto
+2622;MANUEL;CUESTA;9°;Ronald;Faltas de respeto;Grave;Resuelto
+2623;OSCAR;GOMEZ;9°;Dayro Andres;Faltas de respeto;Grave;Resuelto
+2624;ROBERTO;BOSSA;9°;Cesar Augusto;Faltas de respeto;Grave;Resuelto
+2625;ANYELA;CARDOZO;9°;Alcides Augusto;Robo;Muy Grave;Resuelto
+2626;GUILLERMO;ALVIRA;9°;Andres Guillermo;Robo;Muy Grave;Pentiente
+2627;JORGE;VERGARA;9°;Javier;Robo;Muy Grave;Pentiente
+2628;NELSY;GONZALEZ;9°;Javier;Violencia física;Muy Grave;Pentiente
+2629;MAGDA;MANCILLA;11°;Julio Cesar;Violencia física;Muy Grave;Pentiente
+2630;JAVIER;MANCERA;11°;Luis Alberto;Violencia física;Muy Grave;Pentiente
+2631;JOHN;ORTIZ;11°;Carlos Alberto;Acoso escolar;Grave;Pentiente
+2632;CLAUDIA;CIFUENTES;11°;Henry William;Acoso escolar;Grave;Pentiente
+2633;EDUARDO;LUQUE;11°;Nestor Eduardo;Acoso escolar;Grave;Pentiente
+2634;MIRIAM;OTERO;11°;Julian Alberto;Acoso escolar;Grave;Pentiente
+2635;MARIA;DIAZ;11°;Ricardo Alberto;Ausencias injustificadas;Leve;Pentiente
+2636;ANGELA;ALVAREZ;11°;Michael Adolfo;Ausencias injustificadas;Leve;Pentiente
+2637;ALEX;GARCIA;11°;Juan Sebastian;Ausencias injustificadas;Leve;Pentiente
+2638;YOVANY;VARGAS;11°;Cesar Tiberio;Ausencias injustificadas;Leve;Resuelto
+2639;ALVARO;REDONDO;10°;Jose Eduardo;Ausencias injustificadas;Leve;Resuelto
+2640;JULIO;ORTIZ;10°;Diego Francisco;Ausencias injustificadas;Leve;Resuelto
+2641;DARWIN;CUESTA;10°;Fernando;Daño en las instalaciones;Muy Grave;Resuelto
+2642;SEBASTIAN;MEJIA;10°;Juan Pablo;Daño en las instalaciones;Muy Grave;Resuelto
+2643;NATALIA;MARTINEZ;10°;Juan Carlos;Daño en las instalaciones;Muy Grave;Resuelto
+2644;CESAR;FERNANDEZ;10°;Ivan Leonardo;Daño en las instalaciones;Muy Grave;Resuelto
+2645;DANIELA;GARZON;10°;Carlos Andres;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2646;CREAYCY;MORENO;11°;Omar Orlando;Uso de sustancias prohibidas;Muy Grave;Resuelto
+2647;ANDRES;CALLEJAS;11°;German Adolfo;Uso de sustancias prohibidas;Muy Grave;Pentiente
+2648;DUVERLEY;QUINA;11°;Diomedes;Uso de sustancias prohibidas;Muy Grave;Pentiente
+2649;SUGGEY;CELIS;11°;Jairo Martin;Fraude académico;Muy Grave;Pentiente
+2650;LUIS;GALLEGO;11°;Jose Alfredo;Fraude académico;Muy Grave;Pentiente
+2651;DANIEL;AGUILAR;11°;Elmer Yobany;Fraude académico;Muy Grave;Pentiente
+2652;ANGELA;RUBIO;11°;Josue Leonel;Fraude académico;Muy Grave;Pentiente
+2653;PAOLA;POLANCO;11°;Jose Alejandro;Fraude académico;Muy Grave;Pentiente
+2654;SANDRA;ZAMORA;11°;Jimmy Dario;Uso indebido de tecnología;Muy Grave;Pentiente
+2655;SUSANA;BORRERO;11°;Jose Antonio;Uso indebido de tecnología;Muy Grave;Pentiente
+2656;MARYURIS;CHARRIS;11°;Jaime Mauricio;Uso indebido de tecnología;Muy Grave;Pentiente
+2657;ULISES;PALACIOS;11°;Luis Fernando;Uso indebido de tecnología;Muy Grave;Pentiente
+2658;LUIS;CORREA;11°;Milton Alirio;Uso indebido de tecnología;Muy Grave;Pentiente
+2659;ALFONSO;PATIÑO;11°;Dario Fernando;Faltas de respeto;Grave;Resuelto
+2660;GENTIL;BUITRAGO;11°;Oscar Mauricio;Faltas de respeto;Grave;Resuelto
+2661;ROGER;MORENO;11°;Jose Guzman;Faltas de respeto;Grave;Resuelto
+2662;MARIO;BARON;11°;Jose Fernando;Faltas de respeto;Grave;Resuelto
+2663;DARIO;GARCIA;11°;Jairo Esteban;Faltas de respeto;Grave;Resuelto
+2664;FRANCISCO;RODRÍGUEZ;10°;John Harold;Robo;Muy Grave;Pentiente
+2665;CARMEN;DE;10°;Andres Mauricio;Robo;Muy Grave;Pentiente
+2666;CARMEN;CAMPAÑA;10°;Jose Ariel;Robo;Muy Grave;Pentiente
+2667;JASSON;VILLAMIL;10°;Augusto Leon;Robo;Muy Grave;Pentiente
+2668;LYSETH;CHAVEZ;10°;Ricardo;Faltas de respeto;Grave;Pentiente
+2669;MARIBEL;QUIROGA;10°;Ramiro;Faltas de respeto;Grave;Pentiente
+2670;LUCAS;MUÑOZ;10°;Andrey;Faltas de respeto;Grave;Pentiente
+2671;MILTON;BAYONA;11°;Andres Felipe;Faltas de respeto;Grave;Pentiente
+2672;INGRID;FAJARDO;9°;Jorge Andres;Fraude académico;Muy Grave;Pentiente
+2673;MARCO;OSPINA;9°;Hernei;Fraude académico;Muy Grave;Pentiente
+2674;JULIO;GOMEZ;9°;Duvan Glicerio;Fraude académico;Muy Grave;Pentiente
+2675;CRISTIAN;MARTINEZ;9°;Jose Luis;Ausencias injustificadas;Leve;Pentiente
+2676;CARLOS;MILLAN;9°;Daniel Gerardo;Ausencias injustificadas;Leve;Resuelto
+2677;SANDRA;TORRES;9°;Jose Erney;Ausencias injustificadas;Leve;Resuelto
+2678;CLARA;EVILLA;9°;Hugo Sanin;Ausencias injustificadas;Leve;Resuelto
+2679;QUINTILIANO;CESPEDES;11°;Misael;Ausencias injustificadas;Leve;Resuelto
+2680;ANA;ALMONACID;11°;Ismael Enrique;Ausencias injustificadas;Leve;Resuelto
+2681;SERGIO;ARIAS;11°;Julian Andres;Violencia física ;Muy Grave;Resuelto
+2682;LUIS;CHAVES;11°;Pablo Ignacio;Violencia física ;Muy Grave;Resuelto
+2683;YAMILETH;PILLIMUE;11°;Jose Jaime;Violencia física ;Muy Grave;Resuelto
+2684;ANGELICA;GIRALDO;11°;Dario Fernando;Violencia física ;Muy Grave;Resuelto
+2685;LUIS;PINZON;11°;Juan Carlos;Violencia física ;Muy Grave;Pentiente
+2686;JOSE;LUQUE;11°;German Hernando;Violencia física ;Muy Grave;Pentiente
+2687;BLANCA;COLMENARES;11°;William Eduardo;Acoso escolar;Grave;Pentiente
+2688;JUAN;RUEDA;11°;Gustavo Adolfo;Acoso escolar;Grave;Pentiente
+2689;DOLLY;SANCHEZ;10°;Jose Luis;Acoso escolar;Grave;Pentiente
+2690;EDITH;FERNANDEZ;10°;Didier Orlando;Acoso escolar;Grave;Pentiente
+2691;PAOLA;PEREZ;10°;Diego Felipe;Acoso escolar;Grave;Pentiente
+2692;CESAR;RAMIREZ;10°;Larry Leonardo;Acoso escolar;Grave;Pentiente
+2693;NESTOR;ZULUAGA;10°;Ivan Andres;Robo ;Muy Grave;Pentiente
+2694;HELEN;CARVAJAL;10°;Oscar Eduardo;Robo ;Muy Grave;Pentiente
+2695;MARTA;TOUS;10°;Silvano;Robo ;Muy Grave;Pentiente
+2696;RODRIGO;BORRERO;11°;Juan Carlos;Robo ;Muy Grave;Pentiente
+2697;JUAN;RENGIFO;9°;Luis Ramiro;Robo ;Muy Grave;Resuelto
+2698;DIANA;MOLINA;9°;Pedro Rodolfo;Robo ;Muy Grave;Resuelto
+2699;IGNACIO;RIOS;9°;Mario Enrique;Plagio o copia;Muy Grave;Resuelto
+2700;WILFOR;TORO;9°;Edgardo Jose;Plagio o copia;Muy Grave;Resuelto
+2701;IVAN;DELGADO;9°;Carmelo;Plagio o copia;Muy Grave;Resuelto
+2702;GILDARDO;CADAVID;9°;Sabas Elias;Plagio o copia;Muy Grave;Resuelto
+2703;DIANA;MENDOZA;9°;Mariano Sebastian;Plagio o copia;Muy Grave;Resuelto
+2704;FREDY;HOLGUIN;11°;Jesualdo;Plagio o copia;Muy Grave;Resuelto
+2705;DANIEL;RESTREPO;11°;Carlos Alberto;Ausencias injustificadas;Leve;Resuelto
+2706;EDUARDO;YANCES;11°;Ramon Enrique;Ausencias injustificadas;Leve;Resuelto
+2707;OCTAVIO;LASSO;11°;Ivan Alexis;Ausencias injustificadas;Leve;Resuelto
+2708;VICTORIA;DUQUE;11°;Everardo;Violencia física ;Muy Grave;Resuelto
+2709;TOMAS;TOVAR;11°;Jaime Nicolas;Violencia física ;Muy Grave;Resuelto
+2710;PAMELA;PILAR;11°;Seidel;Violencia física ;Muy Grave;Resuelto
+2711;JOSE;JESUS;11°;Ricardo Arturo;Acoso escolar;Grave;Resuelto
+2712;MARIA;CEPEDA;11°;Johan David;Acoso escolar;Grave;Resuelto
+2713;DIANA;NIÑO;11°;Armando Miguel;Acoso escolar;Grave;Resuelto
+2714;DARLINSON;RAMIREZ;10°;Rodolfo;Robo ;Muy Grave;Resuelto
+2715;BEATRIZ;CASTRILLON;10°;Rafael;Robo ;Muy Grave;Resuelto
+2716;DANIEL;NARANJO;10°;Jose Jaime;Robo ;Muy Grave;Resuelto
+2717;ROLAND;FLOREZ;10°;Ramon;Plagio o copia;Muy Grave;Pentiente
+2718;SAYMA;RODRIGUEZ;10°;Hosman Jesus;Plagio o copia;Muy Grave;Pentiente
+2719;JAIR;DIAZGRANADOS;10°;Rafael Andres;Plagio o copia;Muy Grave;Pentiente
+2720;FERNANDO;RAMIREZ;10°;Karin Miguel;Plagio o copia;Muy Grave;Pentiente
+2721;DIANA;PARRA;11°;Borys;Plagio o copia;Muy Grave;Pentiente
+2722;JHON;SALDAÑA;9°;Carlos Andres;Plagio o copia;Muy Grave;Pentiente
+2723;SARA;ANZOLA;9°;Gustavo Jose;Acoso escolar;Grave;Pentiente
+2724;RAMIRO;REATIGA;9°;Mirel Eduardo;Acoso escolar;Grave;Pentiente
+2725;FELIPE;PENAGOS;9°;Luis Jose;Acoso escolar;Grave;Pentiente
+2726;ZAMIR;MONROY;9°;Alvaro;Acoso escolar;Grave;Pentiente
+2727;LILIANA;CORREA;9°;Eduardo Carmelo;Acoso escolar;Grave;Pentiente
+2728;LIBARDO;LONDOÑO;9°;Javier Alberto;Acoso escolar;Grave;Pentiente
+2729;JUAN;RAMIREZ;11°;Alfredo Ramon;Ausencias injustificadas;Leve;Resuelto
+2730;MANUEL;SIERRA;11°;Mario Felipe;Ausencias injustificadas;Leve;Resuelto
+2731;JAVIER;GENEY;11°;Jairo Armando;Ausencias injustificadas;Leve;Resuelto
+2732;PABLO;CAMACHO;11°;Luis Fernando;Ausencias injustificadas;Leve;Resuelto
+2733;ELVIS;GUERRA;11°;Remberto Eduardo;Robo ;Muy Grave;Resuelto
+2734;WILFER;ALARCON;11°;Jeronimo Jose;Robo ;Muy Grave;Resuelto
+2735;DIEGO;LOPEZ;11°;Pedro Gabriel;Robo ;Muy Grave;Resuelto
+2736;BELLANIDES;PAREDES;11°;Mario Justo;Acoso escolar;Grave;Resuelto
+2737;ROSA;RAMIREZ;11°;Ivan Arturo;Acoso escolar;Grave;Resuelto
+2738;CARLOS;ZAMBRANO;11°;Juan Antonio;Acoso escolar;Grave;Pentiente
+2739;DEYVY;GUERRERO;10°;Guillermo Daniel;Acoso escolar;Grave;Pentiente
+2740;SANDRA;TORRES;10°;Andres;Acoso escolar;Grave;Pentiente
+2741;AMANDA;ECHEVERRIA;10°;Julio Guillermo;Acoso escolar;Grave;Pentiente
+2742;ELKIN;PARRA;10°;Julio Adolfo;Violencia física;Muy Grave;Pentiente
+2743;BELIZZA;RUIZ;10°;Cesar Augusto;Violencia física;Muy Grave;Pentiente
+2744;ERCILIA;MONROY;10°;Libardo Jose;Violencia física;Muy Grave;Pentiente
+2745;CARLOS;JULIO;10°;Juan Francisco;Violencia física;Muy Grave;Pentiente
+2746;JOSE;GOMEZ;11°;Simon Hernan;Violencia física;Muy Grave;Pentiente
+2747;FRANCI;QUENORAN;9°;Oscar Humberto;Violencia física;Muy Grave;Resuelto
+2748;GLORIA;CARMEN;9°;Eduardo Gregorio;Plagio o copia;Muy Grave;Resuelto
+2749;DAVID;TORO;9°;Edison;Plagio o copia;Muy Grave;Resuelto
+2750;OLGA;GONZALEZ;9°;Fabricio;Plagio o copia;Muy Grave;Resuelto
+2751;SANDRA;MEDINA;9°;Luis Arturo;Plagio o copia;Muy Grave;Resuelto
+2752;MARIA;PILAR;9°;Manuel;Plagio o copia;Muy Grave;Resuelto
+2753;OLMEDO;GAVIRIA;9°;Francisco Javier;Plagio o copia;Muy Grave;Resuelto
+2754;JULIANA;JARAMILLO;11°;Alberto Javier;Robo;Muy Grave;Resuelto
+2755;EDUARDO;MESA;11°;Jose Alejandro;Robo;Muy Grave;Resuelto
+2756;GERMAN;ZULUAGA;11°;Gabriel;Robo;Muy Grave;Resuelto
+2757;LUIS;FUENTES;11°;Edward Antonio;Robo;Muy Grave;Pentiente
+2758;CARLOS;BUSTOS;11°;Henry Oswaldo;Ausencias injustificadas;Leve;Pentiente
+2759;BRENDA;CORTES;11°;Guillermo;Ausencias injustificadas;Leve;Pentiente
+2760;JOHN;PARRA;11°;Victor Julio;Ausencias injustificadas;Leve;Resuelto
+2761;RUTH;BARRERA;11°;Edgar Hernan;Ausencias injustificadas;Leve;Resuelto
+2762;JUAN;PEÑA;11°;Henry Anibal;Ausencias injustificadas;Leve;Resuelto
+2763;HERNANDO;CELY;11°;Otto;Ausencias injustificadas;Leve;Resuelto
+2764;OSCAR;CARVAJAL;10°;German Alberto;Acoso escolar;Grave;Resuelto
+2765;ANA;FRIES;10°;Jairo Antonio;Acoso escolar;Grave;Resuelto
+2766;CARLOS;VARGAS;10°;Edgar;Acoso escolar;Grave;Resuelto
+2767;YINA;MORENO;10°;Luis Orlando;Faltas de respeto;Grave;Resuelto
+2768;JHOANA;ARANGO;10°;Mario Enrique;Faltas de respeto;Grave;Resuelto
+2769;BLADIMIR;SIERRA;10°;Daniel Alfredo;Faltas de respeto;Grave;Resuelto
+2770;WILMER;RODRIGUEZ;10°;Henry Oswaldo;Faltas de respeto;Grave;Resuelto
+2771;LINA;GIRALDO;11°;John Edward;Faltas de respeto;Grave;Resuelto
+2772;ALEX;SAER;9°;Hector Alonso;Faltas de respeto;Grave;Resuelto
+2773;VIVIANA;ZULUAGA;9°;Asdrubal Hernando;Robo;Muy Grave;Resuelto
+2774;MARIA;PILAR;9°;Pedro Antonio;Robo;Muy Grave;Resuelto
+2775;MARIA;RUIZ;9°;Alberto Eduardo;Robo;Muy Grave;Resuelto
+2776;ANDRES;MOLANO;9°;Jose Heberth;Robo;Muy Grave;Resuelto
+2777;YANET;GOMEZ;9°;Arturo;Robo;Muy Grave;Resuelto
+2778;GERMAN;MARTINEZ;9°;Fernando Luis tadeo;Robo;Muy Grave;Pentiente
+2779;NOHORA;GUTIÉRREZ;11°;Jose Miguel;Violencia física;Muy Grave;Pentiente
+2780;ANDRES;MEZA;11°;Juan Carlos;Violencia física;Muy Grave;Pentiente
+2781;NELSON;VASQUEZ;11°;Luis Enrique;Violencia física;Muy Grave;Pentiente
+2782;MARIO;ARBELAEZ;11°;Wilman Alonso;Violencia física;Muy Grave;Resuelto
+2783;HELEN;CARVAJAL;11°;Manuel Antonio;Violencia física;Muy Grave;Resuelto
+2784;JUSTINIANO;ORJUELA;11°;Pablo Hernando;Violencia física;Muy Grave;Resuelto
+2785;ANGELICA;GARCIA;11°;Luis Alfredo;Acoso escolar;Grave;Resuelto
+2786;DORIS;HERNANDEZ;11°;Cesar Augusto;Acoso escolar;Grave;Resuelto
+2787;GERMAN;BENAVIDES;11°;Saudiel Orlando;Acoso escolar;Grave;Resuelto
+2788;ALIX;ZAMBRANO;11°;Luis Fernando;Acoso escolar;Grave;Resuelto
+2789;SILVIA;MONTENEGRO;10°;Jose Nestor;Acoso escolar;Grave;Resuelto
+2790;GLORIA;LAVERDE;10°;Edilberto;Acoso escolar;Grave;Resuelto
+2791;CARLOS;GARZON;10°;Guillermo;Faltas de respeto;Grave;Resuelto
+2792;DIEGO;MARMOLEJO;10°;Norman;Robo;Muy Grave;Resuelto
+2793;EDISSON;GOMEZ;10°;Oscar Edilberto;Violencia física;Muy Grave;Resuelto
+2794;ELVIRA;MERCADO;10°;Jhon Jairo;Acoso escolar;Grave;Resuelto
+2795;ELIANA;MENDIETA;10°;Juvenal;Faltas de respeto;Grave;Resuelto
+2796;SOL;QUICENO;11°;Carlos Julio;Robo;Muy Grave;Resuelto
+2797;LUIS;BARRERA;9°;Misael;Violencia física;Muy Grave;Pentiente
+2798;EDWIN;RIASCOS;9°;Alberto;Faltas de respeto;Grave;Pentiente
+2799;NORMA;GOMEZ;9°;Victor Manuel;Faltas de respeto;Grave;Pentiente
+2800;MARIA;AGUDELO;9°;Luis Alberto;Faltas de respeto;Grave;Pentiente
+2801;CESAR;SANCHEZ;9°;Carlos Antonio;Faltas de respeto;Grave;Pentiente
+2802;RICARDO;DÍAZ;9°;Luis Ancizar;Faltas de respeto;Grave;Pentiente
+2803;INGRID;RODRIGUEZ;9°;Melbin Alfonso;Faltas de respeto;Grave;Resuelto
+2804;DAYANNA;DUARTE;11°;Carlos Alfonso;Violencia física;Muy Grave;Resuelto
+2805;LEONIDAS;GUEVARA;11°;Rene;Violencia física;Muy Grave;Resuelto
+2806;RICARDO;GUEVARA;11°;Rodrigo Alfonso;Violencia física;Muy Grave;Resuelto
+2807;SIGIFREDO;ORTEGA;6°;Oscar Ernesto;Violencia física;Muy Grave;Resuelto
+2808;JONATHAN;PARRA;6°;Alejandro;Violencia física;Muy Grave;Resuelto
+2809;LUISA;AGUIRRE;6°;Javier Ricardo;Plagio o copia;Muy Grave;Resuelto
+2810;ROSARIO;PILAR;6°;Antonio Hely;Plagio o copia;Muy Grave;Resuelto
+2811;CLEMENCIA;RODALLEGA;6°;Carlos Arturo;Plagio o copia;Muy Grave;Resuelto
+2812;CEDNEY;HERNANDEZ;6°;Juan Benjamin;Plagio o copia;Muy Grave;Resuelto
+2813;HERNANDO;FERRUCHO;7°;Henry Felipe;Plagio o copia;Muy Grave;Resuelto
+2814;LEIDY;FLOREZ;7°;Elbert Alberto;Plagio o copia;Muy Grave;Resuelto
+2815;ELSA;MORALES;7°;Mauricio Alberto;Robo;Muy Grave;Resuelto
+2816;OSCAR;LOMBANA;7°;Jaime Alonso;Robo;Muy Grave;Pentiente
+2817;GUSTAVO;MARTINEZ;7°;Luis Orlando;Robo;Muy Grave;Resuelto
+2818;XIOMARA;RUIZ;7°;Guillermo;Robo;Muy Grave;Resuelto
+2819;ANDRES;VILLEGAS;7°;Carlos Julio;Robo;Muy Grave;Resuelto
+2820;CARLOS;DIAZ;7°;Nestor Ivan javier;Robo;Muy Grave;Pentiente
+2821;ALDEMAR;BAQUERO;7°;Luis Fernando;Acoso escolar;Grave;Resuelto
+2822;LILIAN;CHAVEZ;8°;Nelson Manuel;Acoso escolar;Grave;Resuelto
+2823;DARIO;UMAÑA;8°;Fabio;Acoso escolar;Grave;Resuelto
+2824;CARLOS;CASTAÑEDA;8°;Victor Emilio;Acoso escolar;Grave;Resuelto
+2825;NYDIA;OSPINA;8°;Jose Ignacio;Acoso escolar;Grave;Resuelto
+2826;MARIBEL;GARZON;8°;Edgar Humberto;Acoso escolar;Grave;Resuelto
+2827;IVAN;DURAN;8°;Jesus Alejandro;Acoso escolar;Grave;Resuelto
+2828;MIGUEL;CASTAÑEDA;8°;Javier De jesus;Acoso escolar;Grave;Resuelto
+2829;JOSE;SAAVEDRA;11°;David Angel;Fraude académico;Muy Grave;Resuelto
+2830;DARIO;FAJARDO;11°;William Omar;Fraude académico;Muy Grave;Resuelto
+2831;JOSÉ;LÓPEZ;11°;Meyer;Fraude académico;Muy Grave;Resuelto
+2832;LUZ;BARAHONA;11°;Omar Alberto;Fraude académico;Muy Grave;Resuelto
+2833;MARTA;CALVACHE;11°;Neller Degler;Fraude académico;Muy Grave;Resuelto
+2834;YOBANY;ANACONA;11°;Carlos Alberto;Fraude académico;Muy Grave;Resuelto
+2835;LIZETH;ERAZO;11°;Jorge Enrique;Uso indebido de tecnología;Muy Grave;Resuelto
+2836;JOSÉ;RESTREPO;11°;Nestor Enrique;Uso indebido de tecnología;Muy Grave;Resuelto
